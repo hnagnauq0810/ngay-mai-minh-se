@@ -53,6 +53,14 @@ def main():
  print(f'PASS: {len(story)} scenes, {sum(map(len,cues.values()))} anchored cues, {len(used)} distinct visual assets, {video_scenes} scenes with video')
  print('PASS: all used assets available locally with attribution and matching standalone copies')
  print('PASS: 55 distinct opening visuals, no within-scene/adjacent repeats, maximum two uses per asset, no duplicate media files')
+ manifest_path=ROOT/'public/assets/storyboard-manifest.json'
+ manifest=json.loads(manifest_path.read_text(encoding='utf-8'))
+ assert manifest['version']==1 and set(manifest['scenes'])==set(cues)
+ assert manifest_path.read_bytes()==(ROOT/'standalone/assets/storyboard-manifest.json').read_bytes()
+ for sid,shots in manifest['scenes'].items():
+  assert [s['id'] for s in shots]==[s['asset'] for s in cues[sid]],sid
+  assert all(not s['src'].endswith('.svg') for s in shots),sid
+ print('PASS: current media manifest covers all 55 scenes and matches the standalone copy')
  profile=load_profile(ROOT)
  recordings=ROOT/'public/assets'/profile['directory']
  if all((recordings/(s['id']+'.json')).is_file() for s in story):

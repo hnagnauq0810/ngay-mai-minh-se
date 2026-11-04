@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Script from "next/script";
 import type { ReactNode } from "react";
+import markup from "../generated/pageMarkup.json";
 import "../public/assets/site.css";
 import "../public/assets/cinema.css";
 import "../public/assets/story-media.css";
@@ -21,10 +22,10 @@ export default function RootLayout({ children }: { children: ReactNode }) {
   return (
     <html lang="vi">
       <body>
-        <Script src={`${basePath}/assets/story-media.js`} strategy="beforeInteractive" />
+        <Script src={`${basePath}/assets/story-media.js?v=${markup.assetVersion}`} strategy="beforeInteractive" />
         {children}
-        <Script src={`${basePath}/assets/site.js`} strategy="afterInteractive" />
-        <Script src={`${basePath}/assets/cinema.js`} strategy="afterInteractive" />
+        <Script src={`${basePath}/assets/site.js?v=${markup.assetVersion}`} strategy="afterInteractive" />
+        <Script src={`${basePath}/assets/cinema.js?v=${markup.assetVersion}`} strategy="afterInteractive" />
       </body>
     </html>
   );

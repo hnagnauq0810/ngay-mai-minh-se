@@ -1,5 +1,5 @@
 from pathlib import Path
-import json, shutil, html, re, textwrap
+import json, shutil, html, re, textwrap, hashlib
 from datetime import datetime
 from generate_voice_vieneu import units
 from narration_profile import load_profile
@@ -47,6 +47,9 @@ def media_image_url(media):
  return 'assets/historical/'+media['id']+'.jpg' if local.is_file() else media['url']
 def media_credit(media):
  return ('ẢNH LƯU TRỮ' if media['kind']=='archive' else 'ẢNH CHỤP HIỆN ĐẠI')+' · '+media['date']+' · '+media['author']
+STORY_SHOTS={scene['id']:shots_for(scene) for scene in SC}
+MEDIA_REVISION=hashlib.sha256(json.dumps(STORY_SHOTS,ensure_ascii=False,sort_keys=True,separators=(',',':')).encode()).hexdigest()[:16]
+ASSET_VERSION=hashlib.sha256((MEDIA_REVISION+''.join((ROOT/'public/assets'/name).read_text(encoding='utf-8') for name in ['story-media.js','site.js','cinema.js','site.css','cinema.css','story-media.css'])).encode()).hexdigest()[:16]
 root = ROOT
 for part in ['app','app/chapters/[slug]','public/assets','generated','content','standalone/assets','standalone/chapters','scripts','tests','docs','.github/workflows']:
  (root/part).mkdir(parents=True,exist_ok=True)
@@ -111,7 +114,7 @@ def scene_html(s,i,total):
     <p class="split-note">Đây là đối chiếu bối cảnh, không phải lời kể trực tiếp của nhân chứng lịch sử.</p>'''
  note = E(s['historical_notes'])
  m=media_for(id)
- shots=shots_for(s)
+ shots=STORY_SHOTS[id]
  voice_dir=VOICE_DIRECTORY if STORY_VOICE_READY else 'voice'
  timing=json.loads((RECORDINGS/f'{id}.json').read_text(encoding='utf-8')) if STORY_VOICE_READY else None
  audio_attrs=f' data-audio-src="assets/{voice_dir}/{E(id)}.mp3" data-audio-profile="'+(E(timing['voice'])+' · giọng kể chuyện' if STORY_VOICE_READY else 'Hoài My')+'"'
@@ -127,7 +130,6 @@ def scene_html(s,i,total):
      <div class="story-visual-viewport"><img src="{E(first_image)}" alt="{E(first['caption'])}" loading="lazy" decoding="async" referrerpolicy="no-referrer" /></div>
      <div class="story-visual-navigation" aria-label="Chọn tư liệu minh họa cho cảnh"></div>
      <figcaption><span class="archive-category">{'MINH HỌA TÁI DỰNG (AI)' if first.get('ai_generated') else 'ĐỒ HỌA GIẢI THÍCH' if first['kind']=='illustration' else 'TƯ LIỆU MINH HỌA'}</span><strong data-visual-caption>{E(first['caption'])}</strong><span data-visual-credit>{E(first['date'])} · {E(first['author'])} · {E(first['license'])}</span><span class="media-context-note" data-visual-note>{E(first['note'])}</span><a data-visual-source href="{E(first['source'])}" target="_blank" rel="noopener noreferrer" {'hidden' if not first['source'] else ''}>Nguồn & giấy phép ↗</a>{video_link}</figcaption>
-     <div class="media-not-loaded" hidden>Không tải được ảnh từ Commons. <a href="{E(m['source_url'])}" target="_blank" rel="noopener noreferrer">Mở ảnh gốc ↗</a></div>
   </figure>'''
  return f'''<article class="story-scene reveal {sclass}" id="{E(id)}" data-scene-id="{E(id)}" data-chapter="{E(ch or '')}" data-scene-index="{i}"{media_attrs}{audio_attrs} aria-labelledby="title-{E(id)}">
     <div class="scene-column">
@@ -180,10 +182,12 @@ markup=f'''<a href="#main" class="skip-link">Đi tới nội dung chính</a>
 <div class="voice-dock" id="voice-dock" hidden aria-live="polite"><span id="voice-status">Đang đọc lời dẫn bằng giọng máy…</span><div><button type="button" id="voice-pause">Tạm dừng</button><button type="button" id="voice-stop">Dừng</button></div></div>
 '''
 # Save generated render fragment as JSON for Next server use.
-(root/'generated/pageMarkup.json').write_text(json.dumps({'html':markup},ensure_ascii=False),encoding='utf-8')
+(root/'generated/pageMarkup.json').write_text(json.dumps({'html':markup,'assetVersion':ASSET_VERSION,'mediaRevision':MEDIA_REVISION},ensure_ascii=False),encoding='utf-8')
+(root/'public/assets/storyboard-manifest.json').write_text(json.dumps({'version':1,'revision':MEDIA_REVISION,'scenes':STORY_SHOTS},ensure_ascii=False,separators=(',',':'))+'\n',encoding='utf-8')
 
 # standalone uses exactly the markup imported by Next.
 index=f'''<!doctype html><html lang="vi"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/><meta name="theme-color" content="#171d23"/><meta name="description" content="Ngày mai, mình sẽ… — Một website kể chuyện lịch sử Việt Nam từ 1930 đến 2026 qua 55 cảnh và 12 chương."/><title>Ngày mai, mình sẽ… · Hành trình 1930–2026</title><link rel="stylesheet" href="assets/site.css"/><link rel="stylesheet" href="assets/cinema.css"/><link rel="stylesheet" href="assets/story-media.css"/><script src="assets/story-media.js" defer></script><script src="assets/site.js" defer></script><script src="assets/cinema.js" defer></script></head><body>{markup}</body></html>'''
+index=re.sub(r'(assets/(?:site|cinema|story-media)\.(?:css|js))',lambda match:match[1]+'?v='+ASSET_VERSION,index)
 (root/'standalone/index.html').write_text(index,encoding='utf-8')
 for asset in (root/'public/assets').iterdir():
  if asset.is_file(): shutil.copy2(asset,root/'standalone/assets'/asset.name)

@@ -15,6 +15,7 @@
   // If Commons cannot be reached, preserve source attribution and show an explicit fallback.
   $$('.scene-archive-media img').forEach(img => {
     img.addEventListener('error',()=>{
+      if(window.NMMSMedia&&img.closest('[data-shots]'))return;
       img.hidden=true;const message=img.closest('figure')?.querySelector('.media-not-loaded');
       if(message)message.hidden=false;
     });

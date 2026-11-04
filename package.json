@@ -15,6 +15,7 @@
     "test:audio": "python tests/audio_playback.py",
     "test:story-media": "python tests/story_media_playback.py",
     "test:visual-variety": "python tests/visual_variety.py",
+    "test:media-recovery": "python tests/media_recovery.py",
     "validate:storyboards": "python scripts/validate_storyboards.py",
     "audio:story": ".venv-voice/Scripts/python.exe scripts/generate_voice_vieneu.py",
     "audio:generate": "python scripts/generate_voice_edge.py",

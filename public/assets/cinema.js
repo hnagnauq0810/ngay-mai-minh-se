@@ -73,6 +73,11 @@
     $('cinema-visual-label').textContent=shot.label;
   }}):null;
   if(visuals)visuals.navigation($('cinema-visual-navigation'));
+  document.addEventListener('nmms:shots-updated',event=>{
+    const scene=scenes.find(s=>s.id===event.detail.id);if(!scene)return;
+    scene.shots=event.detail.shots;
+    if(scenes[index]===scene)visuals?.replaceShots(scene.shots);
+  });
   const setting=storage.get('nmms_cinema_voice');
   ui.voice.value=(setting==='browser')?'browser':'audio';
 
