@@ -11,7 +11,7 @@ ROOT=Path(__file__).resolve().parents[1]
 
 def main():
  assets={}
- for filename in ['media_plan.v1.json','visual_assets.v2.json','graphic_assets.v2.json','video_assets.v1.json','unique_photos.v3.json','ai_illustrations.v3.json']:
+ for filename in ['media_plan.v1.json','visual_assets.v2.json','video_assets.v1.json','unique_photos.v3.json','ai_illustrations.v3.json','topic_photos.v4.json']:
   for a in json.loads((ROOT/'content'/filename).read_text(encoding='utf-8'))['assets']:assets[a['id']]=a
  story=json.loads((ROOT/'content/story_manifest.v1.json').read_text(encoding='utf-8'))['scenes']
  cues=json.loads((ROOT/'content/storyboard.v2.json').read_text(encoding='utf-8'))['scenes']
@@ -27,6 +27,8 @@ def main():
   assert shots[0]['segment']==0,scene['id']
   for shot in shots:
    a=assets[shot['asset']];used.add(a['id'])
+   assert a['kind']!='illustration' or a.get('ai_generated'),f"Diagrams are disabled: {a['id']}"
+   assert not a['local'].endswith('.svg'),f"Diagram cutaway is forbidden: {a['id']}"
    assert a['caption'] and a['note'] and a['license'],a['id']
    if a.get('ai_generated'):
     assert a['kind']=='illustration' and 'AI' in a['note'],a['id']

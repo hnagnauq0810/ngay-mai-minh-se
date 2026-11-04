@@ -145,6 +145,22 @@
       "source_cache": "paris_talks_video",
       "local": "assets/video/paris_arrivals_video.mp4",
       "poster": "assets/video/paris_arrivals_video.jpg"
+    },
+    {
+      "id": "hoa_binh_turbine_video",
+      "filename": "Tua-bin quay ở thủy điện Hòa Bình.webm",
+      "caption": "Tua-bin vận hành tại Nhà máy thủy điện Hòa Bình",
+      "date": "2023; xem ngày quay tại nguồn",
+      "kind": "contemporary",
+      "note": "Cảnh quay hiện đại tại công trình thủy điện, minh họa sản xuất và hạ tầng trong chặng xây dựng sau chiến tranh; không phải phim quay năm 1976.",
+      "start": 0,
+      "duration": 5.5,
+      "modifications": "Trích đoạn, bỏ âm thanh gốc, chuyển định dạng MP4; giữ ghi công và giấy phép nguồn.",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tua-bin_quay_%E1%BB%9F_th%E1%BB%A7y_%C4%91i%E1%BB%87n_H%C3%B2a_B%C3%ACnh.webm",
+      "license": "CC0",
+      "author": "CactiStaccingCrane",
+      "local": "assets/video/hoa_binh_turbine_video.mp4",
+      "poster": "assets/video/hoa_binh_turbine_video.jpg"
     }
   ]
 }

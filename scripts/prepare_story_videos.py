@@ -24,7 +24,7 @@ def main():
   info=pages[asset['filename']]['videoinfo'][0];m=info.get('extmetadata',{});plain=lambda key:re.sub('<[^>]+>','',m.get(key,{}).get('value','')).strip()
   asset.update(source_url=info['descriptionurl'],license=plain('LicenseShortName'),author=plain('Artist').replace('Unknown authorUnknown author','Không rõ tác giả'))
   derivatives=info.get('derivatives',[])
-  source=next((d for d in derivatives if d.get('transcodekey')=='480p.vp9.webm'),None) or next((d for d in derivatives if d.get('transcodekey')=='240p.vp9.webm'),None) or derivatives[0]
+  source=next((d for d in derivatives if d.get('transcodekey')=='480p.vp9.webm'),None) or next((d for d in derivatives if d.get('transcodekey')=='240p.vp9.webm'),None) or (derivatives[0] if derivatives else {'src':info['url']})
   url=source['src'];ext='.mov' if '.mov' in url else '.webm';cached=ROOT/'.cache/video-source'/(asset.get('source_cache',asset['id'])+ext);cached.parent.mkdir(parents=True,exist_ok=True)
   if not cached.exists():
    for attempt in range(4):

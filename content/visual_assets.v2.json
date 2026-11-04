@@ -79,19 +79,6 @@
       "local": "assets/visual/land_reform_titles.jpg"
     },
     {
-      "id": "trail_map",
-      "filename": "HoCMT.png",
-      "caption": "Sơ đồ tuyến vận tải Trường Sơn",
-      "note": "Bản đồ giải thích tuyến đường; không phải ảnh chụp đường Trường Sơn.",
-      "kind": "illustration",
-      "date": "Bản đồ biên soạn 2010",
-      "author": "HoCMT.jpg: The original uploader was RM Gillespie at English Wikipedia.\nderivative work: Yellowtailshark",
-      "license": "Public domain",
-      "license_url": "",
-      "source_url": "https://commons.wikimedia.org/wiki/File:HoCMT.png",
-      "local": "assets/visual/trail_map.jpg"
-    },
-    {
       "id": "trail_people",
       "filename": "HoChiMinhTrial001.jpg",
       "caption": "Vận chuyển trên đường Trường Sơn",

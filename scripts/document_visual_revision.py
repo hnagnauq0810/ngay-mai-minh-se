@@ -5,7 +5,7 @@ import json
 from pathlib import Path
 
 ROOT=Path(__file__).resolve().parents[1]
-FILES=['media_plan.v1.json','visual_assets.v2.json','graphic_assets.v2.json','video_assets.v1.json','unique_photos.v3.json','ai_illustrations.v3.json']
+FILES=['media_plan.v1.json','visual_assets.v2.json','video_assets.v1.json','unique_photos.v3.json','ai_illustrations.v3.json','topic_photos.v4.json']
 
 
 def main():
@@ -16,8 +16,10 @@ def main():
  video_scenes=sum(any(s['asset'] in videos for s in shots) for shots in scenes.values())
  total=sum(uses.values());ai=sum(bool(assets[mid].get('ai_generated')) for mid in uses)
  new_photos={a['id'] for a in json.loads((ROOT/'content/unique_photos.v3.json').read_text(encoding='utf-8'))['assets']}
+ topic_photos={a['id'] for a in json.loads((ROOT/'content/topic_photos.v4.json').read_text(encoding='utf-8'))['assets']}
+ new_photos.update(topic_photos)
  stats=f'{total} mốc minh họa trong 55 cảnh, {len(uses)} tư liệu khác nhau, {len(videos)} đoạn phim tại {video_scenes} cảnh'
- lines=['# Nguồn tư liệu cho bản nhiều hình và video','',f'Bản dựng 04/11/2026: {stats}. Mỗi cảnh có 3–5 mốc.','',f'Có {ai} tranh tái dựng bằng AI, được ghi nhãn rõ trong cả chế độ đọc và phim. Các nhân vật đời thường trong tranh là hư cấu. Ảnh hiện đại, hiện vật chụp về sau và ảnh lưu trữ có chú thích ngày/bối cảnh riêng.','', 'Metadata gốc: `media_source_metadata.json`, `extra_image_source_metadata.json`, `unique_photo_sources.json`, `video_source_metadata.json`. Tranh được tạo bằng công cụ imagegen tích hợp; [toàn bộ prompt và vị trí bản gốc](../artwork/IMAGE_PROMPTS.md).','', '| ID | Tư liệu | Ngày / phạm vi | Tác giả | Giấy phép theo nguồn | Lượt dùng |','|---|---|---|---|---|---:|']
+ lines=['# Nguồn tư liệu cho bản nhiều hình và video','',f'Bản dựng 04/11/2026: {stats}. Mỗi cảnh có 3–5 mốc. Không dùng diagram, timeline dạng sơ đồ hoặc bản đồ trong các mốc minh họa.','',f'Có {ai} tranh tái dựng bằng AI, được ghi nhãn rõ trong cả chế độ đọc và phim. Các nhân vật đời thường trong tranh là hư cấu. Ảnh hiện đại, hiện vật chụp về sau và ảnh lưu trữ có chú thích ngày/bối cảnh riêng.','', 'Metadata gốc: `media_source_metadata.json`, `extra_image_source_metadata.json`, `unique_photo_sources.json`, `topic_photo_sources.v4.json`, `video_source_metadata.json`. Tranh được tạo bằng công cụ imagegen tích hợp; [toàn bộ prompt và vị trí bản gốc](../artwork/IMAGE_PROMPTS.md).','', '| ID | Tư liệu | Ngày / phạm vi | Tác giả | Giấy phép theo nguồn | Lượt dùng |','|---|---|---|---|---|---:|']
  for mid in sorted(uses):
   a=assets[mid];caption=a['caption'].replace('|',' / ');url=a.get('source_url','');title=f'[{caption}]({url})' if url else caption
   fields=[f'`{mid}`',title,a['date'],a['author'].replace('|',' / ').replace('\n',' '),a['license'],str(uses[mid])]
@@ -34,11 +36,12 @@ Giữ nguyên 55 bản thu giọng nam Thiện Minh. Bản trước có 185 mố
 - 55 hình mở cảnh khác nhau; không lặp tư liệu trong cùng cảnh hoặc giữa hai cảnh liền nhau.
 - Một tư liệu được dùng tối đa hai lần trong toàn bộ câu chuyện. Kiểm tra SHA-256 không có file giống nhau dưới tên khác; đã xem bảng ảnh và so sánh dấu vân tay hình để phát hiện ảnh gần trùng.
 - Thêm {len(set(uses)&new_photos)} ảnh Internet thực sự được dùng và {ai} tranh tạo riêng bằng imagegen tích hợp. Giữ ảnh gốc, không cắt xén để giả thành ảnh mới.
+- Bỏ toàn bộ sơ đồ chữ, timeline và bản đồ khỏi chuỗi minh họa. Bản thay thế mới bổ sung {len(set(uses)&topic_photos)} ảnh theo chủ đề và một đoạn phim tua-bin Hòa Bình. Mốc năm vẫn hiện trong lời kể và phụ đề.
 - Loại khỏi phương án sử dụng ảnh xưởng có số điện thoại quảng cáo và trái phiếu cải cách điền địa không đúng chính sách được kể. Mốc thời gian của ảnh chụp về sau được ghi rõ.
 - Hai trích đoạn phim bổ sung dùng những khoảng thời gian khác nhau từ phim gốc, không đổi tên cùng một đoạn phim.
 - Ảnh hiện đại chỉ minh họa chủ đề, không được gán là bằng chứng của sự kiện trước đó. Tranh AI có nhãn và ghi chú tái dựng ở cả chế độ đọc và phim.
 
-Xem [bảng ảnh AI](../tests/generated_illustrations_contact.jpg), [bảng ảnh Internet](../tests/unique_photos_contact.jpg), [so sánh trích đoạn phim](../tests/video_variety_contact.jpg), [nguồn và giấy phép](MULTIMEDIA_CREDITS.md), [mốc chuyển hình theo lời dẫn](storyboard_cues.csv), [prompt và bản gốc](../artwork/IMAGE_PROMPTS.md).
+Xem [bảng ảnh AI](../tests/generated_illustrations_contact.jpg), [bảng ảnh Internet](../tests/unique_photos_contact.jpg), [ảnh thay diagram](../tests/topic_photos_contact.jpg), [so sánh trích đoạn phim](../tests/video_variety_contact.jpg), [nguồn và giấy phép](MULTIMEDIA_CREDITS.md), [mốc chuyển hình theo lời dẫn](storyboard_cues.csv), [prompt và bản gốc](../artwork/IMAGE_PROMPTS.md).
 
 Kiểm tra nội dung/niên đại ở đây là rà soát biên tập; các bước thẩm định lịch sử trước phát hành trong acceptance matrix vẫn giữ trạng thái riêng.
 '''

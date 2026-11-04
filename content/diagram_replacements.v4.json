@@ -1,0 +1,222 @@
+{
+  "scenes": {
+    "PRO_S01": {
+      "ordinary_day": {
+        "asset": "ai_children_morning",
+        "label": "Những dự định trên con đường đến trường"
+      },
+      "story_frame": {
+        "asset": "hanoi_2024",
+        "label": "Từ đời sống hôm nay nhìn lại lịch sử"
+      }
+    },
+    "C01_S02": {
+      "unification_1930": {
+        "asset": "founder_nguyen_duc_canh",
+        "label": "Một gương mặt của quá trình xây dựng tổ chức"
+      }
+    },
+    "C01_S03": {
+      "journey_1911": {
+        "asset": "dragon_wharf",
+        "label": "Bến Nhà Rồng, địa điểm của khởi đầu hành trình"
+      }
+    },
+    "C01_S04": {
+      "unification_1930": {
+        "asset": "founder_nguyen_duc_canh",
+        "label": "Nguyễn Đức Cảnh trong quá trình hình thành tổ chức"
+      }
+    },
+    "C02_S02": {
+      "nghe_tinh_context": {
+        "asset": "nghe_tinh_museum",
+        "label": "Nơi lưu giữ ký ức phong trào Xô viết Nghệ Tĩnh"
+      }
+    },
+    "C02_S03": {
+      "political_line": {
+        "asset": "ai_household_1930",
+        "label": "Đời sống nông dân trong bối cảnh đầu thập niên 1930"
+      }
+    },
+    "C02_S04": {
+      "recovery_1935": {
+        "asset": "le_hong_phong",
+        "label": "Lê Hồng Phong và giai đoạn khôi phục tổ chức"
+      }
+    },
+    "C03_S02": {
+      "world_1936": {
+        "asset": "blum_cabinet_1936",
+        "label": "Chính phủ Mặt trận Bình dân tại Pháp năm 1936"
+      },
+      "press_1939_front": {
+        "asset": "popular_front_crowd",
+        "label": "Phong trào Mặt trận Bình dân trong bối cảnh quốc tế"
+      }
+    },
+    "C03_S03": {
+      "political_press": {
+        "asset": "press_1939_front",
+        "label": "Một trang báo thuộc địa cuối thập niên 1930"
+      }
+    },
+    "C03_S04": {
+      "world_1936": {
+        "asset": "popular_front_crowd",
+        "label": "Sinh hoạt chính trị tại Pháp năm 1936"
+      },
+      "world_context": {
+        "asset": "poland_civilians_1939",
+        "label": "Tháng 9/1939, chiến tranh lan tới đời sống dân thường"
+      }
+    },
+    "C04_S02": {
+      "preparation_1941": {
+        "asset": "ho_giap_1945",
+        "label": "Hồ Chí Minh và Võ Nguyên Giáp, tư liệu năm 1945"
+      }
+    },
+    "C04_S03": {
+      "world_context": {
+        "asset": "japan_surrender_1945",
+        "label": "Kết thúc chiến tranh thế giới, lễ ký ngày 2/9/1945"
+      }
+    },
+    "C05_S01": {
+      "literacy": {
+        "asset": "students_1952",
+        "label": "Học sinh Hà Nội, ảnh năm 1952 minh họa chủ đề giáo dục"
+      }
+    },
+    "C05_S03": {
+      "ballot_1946": {
+        "asset": "election_preparation_1946",
+        "label": "Người dân chuẩn bị cho cuộc bầu cử đầu tiên"
+      }
+    },
+    "C05_S04": {
+      "nation_building": {
+        "asset": "public_gathering_hanoi",
+        "label": "Một cuộc tập hợp công chúng tại Hà Nội năm 1946"
+      },
+      "resistance": {
+        "asset": "hanoi_defenders_1946",
+        "label": "Chuẩn bị kháng chiến tại Hà Nội tháng 12/1946"
+      }
+    },
+    "C06_S03": {
+      "resistance": {
+        "asset": "road_engineers",
+        "label": "Mở đường, xây dựng điều kiện cho kháng chiến"
+      }
+    },
+    "C07_S02": {
+      "reform_lesson": {
+        "asset": "paddy_fields",
+        "label": "Ruộng đồng hôm nay, minh họa sinh kế nông dân"
+      }
+    },
+    "C07_S03": {
+      "dong_khoi_timeline": {
+        "asset": "women_binh_dinh",
+        "label": "Hai gương mặt phụ nữ gắn với phong trào miền Nam"
+      }
+    },
+    "C07_S04": {
+      "two_missions": {
+        "asset": "trail_trucks",
+        "label": "Hàng tiếp tế trên tuyến vận tải Trường Sơn"
+      },
+      "trail_map": {
+        "asset": "trail_landscape_archive",
+        "label": "Không gian và dấu tích chiến tranh trên tuyến Trường Sơn"
+      }
+    },
+    "C08_S01": {
+      "trail_map": {
+        "asset": "trail_people",
+        "label": "Con người trên tuyến đường nối hậu phương với chiến trường"
+      }
+    },
+    "C08_S05": {
+      "reconstruction": {
+        "asset": "war_damaged_house",
+        "label": "Dấu tích chiến tranh trên một ngôi nhà ở Chợ Lớn"
+      }
+    },
+    "C09_S02": {
+      "state_1976": {
+        "asset": "ba_dinh_hall",
+        "label": "Hội trường Ba Đình, ảnh địa điểm chụp về sau"
+      },
+      "reconstruction": {
+        "asset": "hoa_binh_turbine_video",
+        "label": "Nhịp vận hành công trình điện lực, phim minh họa hiện tại"
+      }
+    },
+    "C09_S03": {
+      "planning_economy": {
+        "asset": "rice_mill",
+        "label": "Chế biến lương thực và nhu cầu sản xuất, ảnh minh họa hiện tại"
+      }
+    },
+    "C09_S04": {
+      "border_defence": {
+        "asset": "northern_border_gate",
+        "label": "Không gian biên giới Việt–Trung, ảnh chụp về sau"
+      }
+    },
+    "C10_S01": {
+      "planning_economy": {
+        "asset": "rice_terraces",
+        "label": "Công sức và kết quả của một mùa vụ, ảnh minh họa hiện tại"
+      }
+    },
+    "C10_S03": {
+      "price_wage_money": {
+        "asset": "ai_household_budget_1985",
+        "label": "Thu nhập và giá cả trong bài toán gia đình"
+      },
+      "ai_household_budget_1985": {
+        "asset": "market_produce",
+        "label": "Thực phẩm và chi tiêu, ảnh chợ minh họa hiện tại"
+      }
+    },
+    "C10_S04": {
+      "renewal_timeline": {
+        "asset": "nguyen_van_linh_1986",
+        "label": "Nguyễn Văn Linh trong chặng khởi đầu Đổi mới"
+      }
+    },
+    "C11_S03": {
+      "integration": {
+        "asset": "asean_member_flags",
+        "label": "Quốc kỳ các nước ASEAN, ảnh năm 2010"
+      }
+    },
+    "C12_S03": {
+      "future_goals": {
+        "asset": "vietnam_solar_farm",
+        "label": "Công nghệ và năng lượng sạch để nghĩ về chặng đường phía trước"
+      }
+    },
+    "C12_S04": {
+      "ordinary_day": {
+        "asset": "hanoi_florist",
+        "label": "Một công việc đời thường và những dự định nhỏ"
+      }
+    },
+    "EPI_S01": {
+      "journey_1911": {
+        "asset": "dragon_wharf",
+        "label": "Nhìn lại điểm đầu hành trình qua địa điểm Bến Nhà Rồng"
+      }
+    }
+  },
+  "policy": {
+    "no_diagrams": true,
+    "preserve_voice": "Thiện Minh"
+  }
+}

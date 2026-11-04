@@ -74,6 +74,7 @@ def normalize(text):return unicodedata.normalize('NFC',text).casefold()
 def main():
  scenes=json.loads((ROOT/'content/story_manifest.v1.json').read_text(encoding='utf-8'))['scenes']
  replacements=json.loads((ROOT/'content/visual_replacements.v3.json').read_text(encoding='utf-8'))['scenes']
+ diagram_replacements=json.loads((ROOT/'content/diagram_replacements.v4.json').read_text(encoding='utf-8'))['scenes']
  assert set(PLAN)=={s['id'] for s in scenes}
  output={};errors=[]
  for scene in scenes:
@@ -87,6 +88,8 @@ def main():
   for entry in revised:
    if entry is None:continue
    asset,anchor,label=entry
+   change=diagram_replacements.get(scene['id'],{}).get(asset)
+   if change:asset,label=change['asset'],change['label']
    segment=0;offset=0.0
    if anchor:
     found=next(((i,p) for i,p in enumerate(parts) if p['kind']=='narration' and normalize(anchor) in normalize(p['text'])),None)

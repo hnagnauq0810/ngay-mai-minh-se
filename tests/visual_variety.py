@@ -49,14 +49,15 @@ async def main(directory,base_path='',remote_url=None):
     data=await page.evaluate('''async()=>{
       const shots=[...NMMSMedia.readers.values()].flatMap(p=>p.shots);
       const paths=[...new Set(shots.map(s=>s.poster||s.src))];
-      // Limit concurrent requests while decoding every raster/SVG/poster.
+      if(shots.some(s=>s.src.endsWith('.svg')||(s.kind==='illustration'&&!s.ai_generated)))throw new Error('Diagram still present');
+      // Limit concurrent requests while decoding every photograph/painting/poster.
       for(let i=0;i<paths.length;i+=6)await Promise.all(paths.slice(i,i+6).map(async path=>{
         const im=new Image();im.src=path;await im.decode();
         if(!im.naturalWidth||!im.naturalHeight)throw new Error('Empty image '+path);
       }));
       return {count:paths.length,ai:[...new Set(shots.filter(s=>s.ai_generated).map(s=>s.id))]};
     }''')
-    assert data['count']==140 and len(data['ai'])==14,data
+    assert data['count']==138 and len(data['ai'])==14,data
     assert 'MINH HỌA TÁI DỰNG (AI)' in await page.locator('#PRO_S02 .archive-category').inner_text()
     await page.locator('#PRO_S02').scroll_into_view_if_needed()
     await page.screenshot(path=str(ROOT/f'tests/illustrated_reader_{width}.png'))
@@ -70,7 +71,7 @@ async def main(directory,base_path='',remote_url=None):
     assert await page.evaluate('document.documentElement.scrollWidth<=innerWidth')
     await page.screenshot(path=str(ROOT/f'tests/illustrated_cinema_{width}.png'))
     assert not errors,errors
-    print(f'PASS {url} {width}: all 140 visuals decode; male voice retained; 14 AI illustrations disclosed; gallery/cinema visible')
+    print(f'PASS {url} {width}: all 138 visuals decode; no diagrams; male voice retained; 14 AI illustrations disclosed; gallery/cinema visible')
     await page.close()
    await browser.close()
  finally:

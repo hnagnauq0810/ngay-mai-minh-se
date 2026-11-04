@@ -1,8 +1,8 @@
 scene_id,order,asset,anchor,narration_segment,segment_offset,label,source
 PRO_S01,1,hanoi_life_video,,0,0.0,Một ngày trên phố,"https://commons.wikimedia.org/wiki/File:Experience_Hanoi,_Vietnam.webm"
 PRO_S01,2,school_today,Có thể là đi học,2,0.0,Những dự định học tập,"https://commons.wikimedia.org/wiki/File:C%C3%A1c_em_h%E1%BB%8Dc_sinh_ch%C3%BAc_m%E1%BB%ABng_c%C3%B4_gi%C3%A1o_nh%C3%A2n_ng%C3%A0y_20_th%C3%A1ng_11,_2025.jpg"
-PRO_S01,3,ordinary_day,Những dự định ấy nhỏ,3,0.0,Những điều bình thường,
-PRO_S01,4,story_frame,Nhưng lịch sử,5,0.0,Câu hỏi mở ra hành trình,
+PRO_S01,3,ai_children_morning,Những dự định ấy nhỏ,3,0.0,Những dự định trên con đường đến trường,
+PRO_S01,4,hanoi_2024,Nhưng lịch sử,5,0.0,Từ đời sống hôm nay nhìn lại lịch sử,https://commons.wikimedia.org/wiki/File:2024-11-03_Hanoi%27s_Old_Quarter_4.jpg
 PRO_S02,1,ai_mother_child_present,,0,0.0,"Mẹ, con và người xem",
 PRO_S02,2,hanoi_today,đã sinh ra trong thời bình,2,0.18103,Đời sống thời bình,https://commons.wikimedia.org/wiki/File:2024-11-03_Hanoi%27s_Old_Quarter_1.jpg
 PRO_S02,3,colonial_lake,Những câu chuyện sắp tới,4,0.0,Những lát cắt lịch sử sắp mở ra,"https://commons.wikimedia.org/wiki/File:AP0024-Sallet_Hano%C3%AF,_1930_%E2%80%93_Vue_a%C3%A9rienne_%E2%80%93_Le_Petit_Lac_et_ses_alentours.jpg"
@@ -11,68 +11,68 @@ C01_S01,2,nguyen_ai_quoc_1921,câu hỏi đang đặt ra,3,0.16049,Những con n
 C01_S01,3,colonial_fair,song những nỗ lực,4,0.5,Bối cảnh đất nước trước một hướng đi chung,"https://commons.wikimedia.org/wiki/File:AP0012-Sallet_Hano%C3%AF,_vers_1930_%E2%80%93_Vue_a%C3%A9rienne_%E2%80%93_La_Foire_et_le_Mus%C3%A9e_%C3%A9conomique.jpg"
 C01_S02,1,colonial_shops,,0,0.0,Những lựa chọn cứu nước,"https://commons.wikimedia.org/wiki/File:Winkelstraat_te_Hanoi_in_Indochina,_KITLV_1401885.tiff"
 C01_S02,2,physics_class,Mỗi con đường,2,0.0,Học tập và những hướng tìm tòi đầu thế kỷ XX,https://commons.wikimedia.org/wiki/File:M%E1%BB%99t_bu%E1%BB%95i_d%E1%BA%A1y_h%E1%BB%8Dc_V%E1%BA%ADt_l%C3%BD_t%E1%BA%A1i_%C4%90%E1%BA%A1i_h%E1%BB%8Dc_%C4%90%C3%B4ng_D%C6%B0%C6%A1ng_(1929-1933).png
-C01_S02,3,unification_1930,Hiểu điều này,4,0.0,Từ kiếm tìm đến tổ chức,
-C01_S03,1,journey_1911,,0,0.0,Các mốc của hành trình,
+C01_S02,3,founder_nguyen_duc_canh,Hiểu điều này,4,0.0,Một gương mặt của quá trình xây dựng tổ chức,https://commons.wikimedia.org/wiki/File:Nguyen_Duc_Canh.jpg
+C01_S03,1,dragon_wharf,,0,0.0,"Bến Nhà Rồng, địa điểm của khởi đầu hành trình",https://commons.wikimedia.org/wiki/File:Dragon_Wharf.jpg
 C01_S03,2,nguyen_tours,Năm 1920,3,0.0,Bước ngoặt tại Đại hội Tours năm 1920,"https://commons.wikimedia.org/wiki/File:Comrade_Nguyen_Ai_Quoc_at_the_national_congress_of_the_Socialist_Party_of_France_in_the_city_of_Tous,_France_in_December_1920.jpg"
 C01_S03,3,nguyen_ai_quoc_1924,Từ giữa thập niên,4,0.0,Chuẩn bị lý luận và tổ chức,https://commons.wikimedia.org/wiki/File:Comrade_Nguyen_Ai_Quoc_(1924).jpg
 C01_S04,1,nguyen_ai_quoc_1921,,0,0.0,Trước hội nghị hợp nhất,https://commons.wikimedia.org/wiki/File:Nguyen_Ai_Quoc_in_1924.jpg
 C01_S04,2,nguyen_marseille,Hội nghị hợp nhất,2,0.0,"Chân dung người chủ trì, ảnh năm 1921","https://commons.wikimedia.org/wiki/File:Nguyen_A%C3%AFn_Nu%C3%A4%27C_(Ho-Chi-Minh),_d%C3%A9l%C3%A9gu%C3%A9_indochinois,_Congr%C3%A8s_communiste_de_Marseille,_1921,_Meurisse,_BNF_Gallica.jpg"
-C01_S04,3,unification_1930,Ngày 3 tháng 2,3,0.0,Mốc thành lập năm 1930,
+C01_S04,3,founder_nguyen_duc_canh,Ngày 3 tháng 2,3,0.0,Nguyễn Đức Cảnh trong quá trình hình thành tổ chức,https://commons.wikimedia.org/wiki/File:Nguyen_Duc_Canh.jpg
 C02_S01,1,ai_household_1930,,0,0.0,Một gia đình trong biến động,
 C02_S01,2,colonial_boulevard,phong trào đấu tranh,3,0.16438,Đời sống trong xã hội thuộc địa,https://commons.wikimedia.org/wiki/File:Boulevard_Francis_Garnier_%C3%A0_Hano%C3%AF.jpg
 C02_S01,3,colonial_shops,thuế khóa,4,0.78788,Sinh kế và sinh hoạt thời thuộc địa,"https://commons.wikimedia.org/wiki/File:Winkelstraat_te_Hanoi_in_Indochina,_KITLV_1401885.tiff"
-C02_S02,1,nghe_tinh_context,,0,0.0,Cao trào 1930–1931,
+C02_S02,1,nghe_tinh_museum,,0,0.0,Nơi lưu giữ ký ức phong trào Xô viết Nghệ Tĩnh,https://commons.wikimedia.org/wiki/File:Museum_of_Xo_Viet_Nghe_Tinh.jpg
 C02_S02,2,nghe_tinh_decree,tại một số địa phương,1,0.63529,Tư liệu liên quan Nghệ Tĩnh,https://commons.wikimedia.org/wiki/File:B%E1%BB%91_c%C3%A1o_c%E1%BB%A7a_kh%C3%A2m_s%E1%BB%A9_Ph%C3%A1p_v%C3%A0_%C4%91%E1%BA%A1i_di%E1%BB%87n_tri%E1%BB%81u_%C4%91%C3%ACnh_%C4%90%E1%BA%A1i_Nam_(Anhxua.vn).jpg
 C02_S02,3,rubber_factory_1920s,Những thiệt hại này,3,0.0,"Bối cảnh thuộc địa, không phải ảnh đàn áp",https://commons.wikimedia.org/wiki/File:Une_usine_%C3%A0_caoutchouc_en_Cochinchine.jpg
 C02_S03,1,tran_phu,,0,0.0,Nhân vật gắn với Luận cương,https://commons.wikimedia.org/wiki/File:Tr%E1%BA%A7n_Ph%C3%BA.jpg
-C02_S03,2,political_line,Luận cương tháng 10,2,0.0,Nhiệm vụ và giới hạn nhận định,
+C02_S03,2,ai_household_1930,Luận cương tháng 10,2,0.0,Đời sống nông dân trong bối cảnh đầu thập niên 1930,
 C02_S03,3,physics_class,thực tiễn,3,0.89796,Bối cảnh học tập của các tầng lớp xã hội đương thời,https://commons.wikimedia.org/wiki/File:M%E1%BB%99t_bu%E1%BB%95i_d%E1%BA%A1y_h%E1%BB%8Dc_V%E1%BA%ADt_l%C3%BD_t%E1%BA%A1i_%C4%90%E1%BA%A1i_h%E1%BB%8Dc_%C4%90%C3%B4ng_D%C6%B0%C6%A1ng_(1929-1933).png
 C02_S04,1,nghe_tinh_decree,,0,0.0,Từ những tổn thất 1930–1931,https://commons.wikimedia.org/wiki/File:B%E1%BB%91_c%C3%A1o_c%E1%BB%A7a_kh%C3%A2m_s%E1%BB%A9_Ph%C3%A1p_v%C3%A0_%C4%91%E1%BA%A1i_di%E1%BB%87n_tri%E1%BB%81u_%C4%91%C3%ACnh_%C4%90%E1%BA%A1i_Nam_(Anhxua.vn).jpg
-C02_S04,2,recovery_1935,Chương trình hành động,2,0.0,Các mốc 1932 và 1935,
+C02_S04,2,le_hong_phong,Chương trình hành động,2,0.0,Lê Hồng Phong và giai đoạn khôi phục tổ chức,https://commons.wikimedia.org/wiki/File:Le_Hong_Phong.gif
 C02_S04,3,nguyen_1922,Nhìn lại,3,0.0,"Chân dung Nguyễn Ái Quốc, ảnh 1922",https://commons.wikimedia.org/wiki/File:Portrait_dated_1922_of_Ho_Chi_Minh.jpg
 C03_S01,1,ai_press_1937,,0,0.0,Trang báo và cuộc trò chuyện,
 C03_S01,2,phan_dang_luu,các yêu cầu về đời sống,4,0.31148,Phong trào dân chủ tại Huế,https://commons.wikimedia.org/wiki/File:Phan_%C4%90%C4%83ng_L%C6%B0u_during_the_democratic_movement_of_1936-1939_in_Hue.jpg
 C03_S01,3,university_1937,Lần này,5,0.0,Không gian học tập và đời sống trí thức năm 1937,https://commons.wikimedia.org/wiki/File:To%C3%A0n_c%E1%BA%A3nh_Vi%E1%BB%87n_%C4%90%E1%BA%A1i_h%E1%BB%8Dc_%C4%90%C3%B4ng_D%C6%B0%C6%A1ng_n%C4%83m_1937.jpg
-C03_S02,1,world_1936,,0,0.0,Hoàn cảnh quốc tế,
-C03_S02,2,press_1939_front,Đảng điều chỉnh,2,0.0,Một tờ báo thuộc địa cuối thập niên 1930,https://commons.wikimedia.org/wiki/File:L%27Effort_Indochinois_(Journal_Autonomiste_Paraissant_la_Vendredi)_-_29_September_1939_issue_01.jpg
+C03_S02,1,blum_cabinet_1936,,0,0.0,Chính phủ Mặt trận Bình dân tại Pháp năm 1936,https://commons.wikimedia.org/wiki/File:Gouvernement_L%C3%A9on_Blum_-_juin_1936.jpg
+C03_S02,2,popular_front_crowd,Đảng điều chỉnh,2,0.0,Phong trào Mặt trận Bình dân trong bối cảnh quốc tế,https://commons.wikimedia.org/wiki/File:Cort%C3%A8ge_et_manifestation_du_Front_populaire_-_btv1b90279323.jpg
 C03_S02,3,colonial_fair,Sự thay đổi này,3,0.0,Đời sống kinh tế và xã hội trong bối cảnh đương thời,"https://commons.wikimedia.org/wiki/File:AP0012-Sallet_Hano%C3%AF,_vers_1930_%E2%80%93_Vue_a%C3%A9rienne_%E2%80%93_La_Foire_et_le_Mus%C3%A9e_%C3%A9conomique.jpg"
-C03_S03,1,political_press,,0,0.0,Những hình thức tập hợp,
+C03_S03,1,press_1939_front,,0,0.0,Một trang báo thuộc địa cuối thập niên 1930,https://commons.wikimedia.org/wiki/File:L%27Effort_Indochinois_(Journal_Autonomiste_Paraissant_la_Vendredi)_-_29_September_1939_issue_01.jpg
 C03_S03,2,ai_press_1937,Những phong trào ấy,2,0.0,Minh họa việc tập hợp và trao đổi qua báo chí,
 C03_S03,3,university_1937,Đấu tranh chính trị,3,0.0,Bối cảnh sinh hoạt và học tập năm 1937,https://commons.wikimedia.org/wiki/File:To%C3%A0n_c%E1%BA%A3nh_Vi%E1%BB%87n_%C4%90%E1%BA%A1i_h%E1%BB%8Dc_%C4%90%C3%B4ng_D%C6%B0%C6%A1ng_n%C4%83m_1937.jpg
 C03_S04,1,phan_dang_luu,,0,0.0,Kinh nghiệm từ phong trào,https://commons.wikimedia.org/wiki/File:Phan_%C4%90%C4%83ng_L%C6%B0u_during_the_democratic_movement_of_1936-1939_in_Hue.jpg
-C03_S04,2,world_1936,Những kinh nghiệm,1,0.0,Bối cảnh 1936–1939,
-C03_S04,3,world_context,Tháng 9/1939,2,0.0,Một giai đoạn mới của thế giới,
+C03_S04,2,popular_front_crowd,Những kinh nghiệm,1,0.0,Sinh hoạt chính trị tại Pháp năm 1936,https://commons.wikimedia.org/wiki/File:Cort%C3%A8ge_et_manifestation_du_Front_populaire_-_btv1b90279323.jpg
+C03_S04,3,poland_civilians_1939,Tháng 9/1939,2,0.0,"Tháng 9/1939, chiến tranh lan tới đời sống dân thường",https://commons.wikimedia.org/wiki/File:Polish_civilians_in_escape_September_1939.jpg
 C04_S01,1,august_17,,0,0.0,Hà Nội cuối tháng Tám 1945,https://commons.wikimedia.org/wiki/File:Rencontre_au_Grand_Op%C3%A9ra_de_Hano%C3%AF_le_17_ao%C3%BBt_1945.jpg
 C04_S01,2,august_28,thời cơ lịch sử,4,0.10714,Hà Nội cuối tháng Tám năm 1945,"https://commons.wikimedia.org/wiki/File:Ng%C3%A0y_28-08-1945,_%C4%90o%C3%A0n_gi%E1%BA%A3i_ph%C3%B3ng_qu%C3%A2n_%E1%BB%9F_Vi%E1%BB%87t_B%E1%BA%AFc_v%E1%BB%81_duy%E1%BB%87t_binh_%E1%BB%9F_qu%E1%BA%A3ng_tr%C6%B0%E1%BB%9Dng_Nh%C3%A0_h%C3%A1t_L%E1%BB%9Bn_-_H%C3%A0_N%E1%BB%99i.jpg"
 C04_S01,3,vietminh_training,quay lại những năm,5,0.34911,"Nhìn lại việc chuẩn bị lực lượng, tư liệu tháng 8/1945",https://commons.wikimedia.org/wiki/File:1945_Aug_16_Deer_Team_train_Vietminh.png
 C04_S02,1,pac_bo,,0,0.0,Địa điểm gắn với quá trình chuẩn bị,https://commons.wikimedia.org/wiki/File:P%C3%A1c_B%C3%B3.jpg
 C04_S02,2,nguyen_1922,Hội nghị Trung ương,2,0.0,"Ảnh chân dung nhân vật, không phải hội nghị năm 1941",https://commons.wikimedia.org/wiki/File:Portrait_dated_1922_of_Ho_Chi_Minh.jpg
-C04_S02,3,preparation_1941,Mặt trận Việt Minh,3,0.0,Tập hợp và xây dựng lực lượng,
+C04_S02,3,ho_giap_1945,Mặt trận Việt Minh,3,0.0,"Hồ Chí Minh và Võ Nguyên Giáp, tư liệu năm 1945",https://commons.wikimedia.org/wiki/File:Giap-Ho.jpg
 C04_S03,1,hanoi_march_1945,,0,0.0,Đảo chính tháng 3/1945,https://commons.wikimedia.org/wiki/File:Hanoi1945.jpg
-C04_S03,2,world_context,Khi Nhật tuyên bố,3,0.0,Thế giới và thời cơ tháng Tám,
+C04_S03,2,japan_surrender_1945,Khi Nhật tuyên bố,3,0.0,"Kết thúc chiến tranh thế giới, lễ ký ngày 2/9/1945","https://commons.wikimedia.org/wiki/File:Mamoru_Shigemitsu_signs_the_Instrument_of_Surrender,_officially_ending_the_Second_World_War.jpg"
 C04_S03,3,august_28,Nhưng sự nhanh nhạy,4,0.0,Hà Nội cuối tháng Tám năm 1945,"https://commons.wikimedia.org/wiki/File:Ng%C3%A0y_28-08-1945,_%C4%90o%C3%A0n_gi%E1%BA%A3i_ph%C3%B3ng_qu%C3%A2n_%E1%BB%9F_Vi%E1%BB%87t_B%E1%BA%AFc_v%E1%BB%81_duy%E1%BB%87t_binh_%E1%BB%9F_qu%E1%BA%A3ng_tr%C6%B0%E1%BB%9Dng_Nh%C3%A0_h%C3%A1t_L%E1%BB%9Bn_-_H%C3%A0_N%E1%BB%99i.jpg"
 C04_S04,1,hanoi_august_1945,,0,0.0,Tổng khởi nghĩa tháng Tám,https://commons.wikimedia.org/wiki/File:M%C3%ADt_tinh_ch%C3%A0o_m%E1%BB%ABng_C%C3%A1ch_m%E1%BA%A1ng_Th%C3%A1ng_T%C3%A1m_n%C4%83m_1945_th%C3%A0nh_c%C3%B4ng_t%E1%BA%A1i_Nh%C3%A0_h%C3%A1t_L%E1%BB%9Bn_H%C3%A0_N%E1%BB%99i.jpg
 C04_S04,2,independence_1945,Ngày 2/9/1945,2,0.0,Ngày Tuyên ngôn Độc lập,https://commons.wikimedia.org/wiki/File:Hanoi_TN%C4%90L_1945%2C_5.jpg
 C04_S04,3,independence_dais,Thành quả này,3,0.0,Toàn cảnh lễ đài ngày Độc lập,"https://commons.wikimedia.org/wiki/File:To%C3%A0n_c%E1%BA%A3nh_l%E1%BB%85_%C4%91%C3%A0i_t%E1%BA%A1i_Qu%E1%BA%A3ng_tr%C6%B0%E1%BB%9Dng_Ba_%C4%90%C3%ACnh_-_H%C3%A0_N%E1%BB%99i,_ng%C3%A0y_02-09-1945.jpg"
 C05_S01,1,famine_relief,,0,0.0,Ngày vận động chống nạn đói,https://commons.wikimedia.org/wiki/File:Ng%C3%A0y_Ti%E1%BB%85u_tr%E1%BB%AB_n%E1%BA%A1n_%C4%91%C3%B3i.jpg
 C05_S01,2,hunger_relief_1946,Chính quyền mới,4,0.0,Tư liệu vận động cứu đói đầu năm 1946,https://commons.wikimedia.org/wiki/File:C%E1%BB%A5_Ng%C3%B4_T%E1%BB%AD_H%E1%BA%A1_%C4%91%E1%BB%8Dc_di%E1%BB%85n_v%C4%83n_trong_cu%E1%BB%99c_V%E1%BA%ADn_%C4%91%E1%BB%99ng_c%E1%BB%A9u_%C4%91%C3%B3i_H%C3%A0_N%E1%BB%99i_%C4%91%E1%BA%A7u_n%C4%83m_1946.jpg
-C05_S01,3,literacy,giáo dục,4,0.62617,"Học đọc, học viết cùng xây dựng đời sống",
+C05_S01,3,students_1952,giáo dục,4,0.62617,"Học sinh Hà Nội, ảnh năm 1952 minh họa chủ đề giáo dục","https://commons.wikimedia.org/wiki/File:Hanoi_students_on_a_lunch_break_leave_school_with_briefcases_and_bicycles,_1952.jpg"
 C05_S02,1,ai_literacy_1945,,0,0.0,Một lớp học của người lớn,
 C05_S02,2,government_1946,biết chữ gắn,3,0.5509,Chính quyền mới và các nhiệm vụ dân sinh,https://commons.wikimedia.org/wiki/File:L%C3%A2m-th%E1%BB%9Di_Li%C3%AAn-hi%E1%BB%87p_Ch%C3%ADnh-ph%E1%BB%A7_Vi%E1%BB%87t-nam_D%C3%A2n-ch%E1%BB%A7_C%E1%BB%99ng-h%C3%B2a_ra_m%E1%BA%AFt_Qu%E1%BB%91c-h%E1%BB%99i_ng%C3%A0y_02_th%C3%A1ng_03_n%C4%83m_1946.jpg
 C05_S02,3,assembly_exit,chính quyền mới,4,0.74603,Hoạt động Quốc hội năm 1946,"https://commons.wikimedia.org/wiki/File:Ch%E1%BB%A7_t%E1%BB%8Bch_H%E1%BB%93_Ch%C3%AD_Minh_tan_gi%E1%BB%9D_h%E1%BB%8Dp_Qu%E1%BB%91c_h%E1%BB%99i_t%E1%BA%A1i_Nh%C3%A0_H%C3%A1t_L%E1%BB%9Bn_-_H%C3%A0_N%E1%BB%99i,_n%C4%83m_1946_(Trung_t%C3%A2m_L%C6%B0u_tr%E1%BB%AF_qu%E1%BB%91c_gia_III,_M%E1%BB%A5c_l%E1%BB%A5c_T%C3%A0i_li%E1%BB%87u_%E1%BA%A3nh_A36).jpg"
-C05_S03,1,ballot_1946,,0,0.0,Từ lá phiếu đến Hiến pháp,
+C05_S03,1,election_preparation_1946,,0,0.0,Người dân chuẩn bị cho cuộc bầu cử đầu tiên,https://commons.wikimedia.org/wiki/File:C%E1%BA%A3nh_chu%E1%BA%A9n_b%E1%BB%8B_b%E1%BA%A7u_c%E1%BB%AD_Qu%E1%BB%91c_h%E1%BB%99i_kh%C3%B3a_I_t%E1%BA%A1i_ng%C3%B5_Ph%E1%BA%A5t_L%E1%BB%99c_n%C4%83m_1946.jpg
 C05_S03,2,assembly_1946,xây dựng chính quyền,2,0.08475,Quốc hội khóa I,https://commons.wikimedia.org/wiki/File:H%E1%BB%8Dp_l%E1%BA%A7n_th%E1%BB%A9_nh%E1%BA%A5t%2C_QH_VNDCCH.jpg
 C05_S03,3,fontainebleau_1946,Trong cùng thời gian,3,0.0,Bối cảnh hoạt động của Chính phủ năm 1946,"https://commons.wikimedia.org/wiki/File:B%E1%BB%99_tr%C6%B0%E1%BB%9Fng_Nguy%E1%BB%85n_V%C4%83n_Huy%C3%AAn_(th%E1%BB%A9_hai,_t%E1%BB%AB_tr%C3%A1i_sang)_trong_ph%C3%A1i_%C4%91o%C3%A0n_Ch%C3%ADnh_ph%E1%BB%A7_Vi%E1%BB%87t_Nam_%C4%91%C3%A0m_ph%C3%A1n_t%E1%BA%A1i_Fontainebleau_(Ph%C3%A1p)_n%C4%83m_1946.jpg"
-C05_S04,1,nation_building,,0,0.0,"Vừa kiến thiết, vừa giữ độc lập",
+C05_S04,1,public_gathering_hanoi,,0,0.0,Một cuộc tập hợp công chúng tại Hà Nội năm 1946,https://commons.wikimedia.org/wiki/File:L%E1%BB%85_k%E1%BB%B7_ni%E1%BB%87m_li%E1%BB%87t_s%C4%A9_Nguy%E1%BB%85n_Th%C3%A1i_H%E1%BB%8Dc_v%C3%A0_Ph%E1%BA%A1m_H%E1%BB%93ng_Th%C3%A1i_%C4%91%C6%B0%E1%BB%A3c_t%E1%BB%95_ch%E1%BB%A9c_t%E1%BA%A1i_Nh%C3%A0_%C4%90%E1%BA%A5u_x%E1%BA%A3o.jpg
 C05_S04,2,office_1946,Ở miền Bắc,2,0.0,Công việc ngoại giao năm 1946,"https://commons.wikimedia.org/wiki/File:Ch%E1%BB%A7_t%E1%BB%8Bch_H%E1%BB%93_Ch%C3%AD_Minh_trong_ph%C3%B2ng_l%C3%A0m_vi%E1%BB%87c_%E1%BB%9F_kh%C3%A1ch_s%E1%BA%A1n_Royal_Monceau,_th%C3%A1ng_6_n%C4%83m_1946.jpg"
-C05_S04,3,resistance,chuẩn bị kháng chiến,3,0.74107,Chuẩn bị cho cuộc kháng chiến lâu dài,
+C05_S04,3,hanoi_defenders_1946,chuẩn bị kháng chiến,3,0.74107,Chuẩn bị kháng chiến tại Hà Nội tháng 12/1946,"https://commons.wikimedia.org/wiki/File:Les_tireurs_du_r%C3%A9giment_Th%C4%83ng-long_pr%C3%A9parent_%C3%A0_se_battre,_dec._1946.jpg"
 C06_S01,1,dien_bien_porters,,0,0.0,Công việc của người dân công,https://commons.wikimedia.org/wiki/File:Dan_cong_tho_luong_thuc.jpg
 C06_S01,2,dien_bien_trench,đưa lương thực,3,0.71818,Nhu cầu tiếp tế cho chiến trường,https://commons.wikimedia.org/wiki/File:B%E1%BB%99_%C4%91%E1%BB%99i_sinh_ho%E1%BA%A1t_trong_chi%E1%BA%BFn_h%C3%A0o.jpg
 C06_S01,3,road_engineers,một cuộc kháng chiến lớn,5,0.07216,Mở đường cho công tác tiếp vận,https://commons.wikimedia.org/wiki/File:C%C3%B4ng_binh_m%E1%BB%9F_%C4%91%C6%B0%E1%BB%9Dng_v%C3%A0o_chi%E1%BA%BFn_d%E1%BB%8Bch.jpg
 C06_S02,1,dbp_artillery,,0,0.0,Các mặt của cuộc kháng chiến,https://commons.wikimedia.org/wiki/File:Artillery_in_Dien_Bien_Phu.jpg
 C06_S02,2,ethnic_porters,Điều đó có nghĩa,3,0.0,Những người dân công trên tuyến vận chuyển,https://commons.wikimedia.org/wiki/File:D%C3%A2n_c%C3%B4ng_d%C3%A2n_t%E1%BB%99c_v%E1%BA%ADn_chuy%E1%BB%83n_h%C3%A0ng_ra_m%E1%BA%B7t_tr%E1%BA%ADn.jpg
 C06_S02,3,southern_resistance,Từ người dân công,4,0.0,Tư liệu lực lượng kháng chiến ở Nam Bộ,https://commons.wikimedia.org/wiki/File:Nambokhangchien.jpg
-C06_S03,1,resistance,,0,0.0,Những nấc phát triển,
+C06_S03,1,road_engineers,,0,0.0,"Mở đường, xây dựng điều kiện cho kháng chiến",https://commons.wikimedia.org/wiki/File:C%C3%B4ng_binh_m%E1%BB%9F_%C4%91%C6%B0%E1%BB%9Dng_v%C3%A0o_chi%E1%BA%BFn_d%E1%BB%8Bch.jpg
 C06_S03,2,dong_khe_1950,Chiến dịch Biên giới,2,0.0,Biên giới Thu–Đông 1950,"https://commons.wikimedia.org/wiki/File:Ho_Chi_Minh_in_Dong_Khe,_1950.jpg"
 C06_S03,3,congress_1951,Đại hội II,3,0.0,Đại hội năm 1951,"https://commons.wikimedia.org/wiki/File:Dai_hoi_Dai_bieu_toan_quoc_lan_thu_hai,_Dang_cong_san_VN.jpg"
 C06_S03,4,congress_1951_report,Những thắng lợi,4,0.0,Định hướng và tổ chức cuộc kháng chiến,"https://commons.wikimedia.org/wiki/File:ICP_1951c,_II_Party_Congress.jpg"
@@ -87,12 +87,12 @@ C07_S01,2,students_1952,Người thứ nhất,2,0.0,Hình ảnh người trẻ H
 C07_S01,3,geneva_crowd_video,Từ năm 1954,5,0.0,Một góc khác của Hà Nội tháng 7/1954,https://commons.wikimedia.org/wiki/File:Manifestation_%C3%A0_Hano%C3%AF_pendant_la_conf%C3%A9rence_de_Gen%C3%A8ve.webm
 C07_S02,1,land_reform_titles,,0,0.0,Tư liệu về cải cách ruộng đất,"https://commons.wikimedia.org/wiki/File:C%E1%BA%A3i_c%C3%A1ch_ru%E1%BB%99ng_%C4%91%E1%BA%A5t_th%E1%BA%AFng_l%E1%BB%A3i,_n%C3%B4ng_d%C3%A2n_vui_s%C6%B0%E1%BB%9Bng_%C4%91%E1%BB%91t_v%C4%83n_t%E1%BB%B1_c%C5%A9.jpg"
 C07_S02,2,land_reform_farmer,thành tựu,2,0.2,Một hình ảnh người nông dân,https://commons.wikimedia.org/wiki/File:Cai_cach_ruong_dat5.jpg
-C07_S02,3,reform_lesson,sai lầm nghiêm trọng,2,0.35484,Nhìn nhận và sửa sai,
+C07_S02,3,paddy_fields,sai lầm nghiêm trọng,2,0.35484,"Ruộng đồng hôm nay, minh họa sinh kế nông dân","https://commons.wikimedia.org/wiki/File:Road_and_paddy_fields_in_Sa_Pa,_Vietnam,_20240126_1202_3586.jpg"
 C07_S03,1,ai_village_1960,,0,0.0,Bối cảnh chia cắt,
 C07_S03,2,hien_luong_today,Phong trào đấu tranh,3,0.0,Địa điểm gợi bối cảnh chia cắt,https://commons.wikimedia.org/wiki/File:C%E1%BA%A7u_Hi%E1%BB%81n_L%C6%B0%C6%A1ng_(nh%C3%ACn_t%E1%BB%AB_b%E1%BB%9D_Nam).JPG
-C07_S03,3,dong_khoi_timeline,Hội nghị Trung ương 15,3,0.2963,Các mốc chuyển biến 1959–1960,
-C07_S04,1,two_missions,,0,0.0,Hai nhiệm vụ chiến lược,
-C07_S04,2,trail_map,Trường Sơn,3,0.23,Sơ đồ tuyến đường chi viện,https://commons.wikimedia.org/wiki/File:HoCMT.png
+C07_S03,3,women_binh_dinh,Hội nghị Trung ương 15,3,0.2963,Hai gương mặt phụ nữ gắn với phong trào miền Nam,https://commons.wikimedia.org/wiki/File:Nguyen_Thi_Binh_and_Dinh.jpg
+C07_S04,1,trail_trucks,,0,0.0,Hàng tiếp tế trên tuyến vận tải Trường Sơn,https://commons.wikimedia.org/wiki/File:HoChiMinhTrail003.jpg
+C07_S04,2,trail_landscape_archive,Trường Sơn,3,0.23,Không gian và dấu tích chiến tranh trên tuyến Trường Sơn,https://commons.wikimedia.org/wiki/File:The_Ho_Chi_Minh_Trail.jpg
 C07_S04,3,trail_people,được xây dựng,3,0.48,Vận chuyển trên tuyến đường,https://commons.wikimedia.org/wiki/File:HoChiMinhTrial001.jpg
 C07_S04,4,trail_bicycles,Hai tuyến câu chuyện,4,0.0,Những mắt xích liên hệ hai miền,https://commons.wikimedia.org/wiki/File:HoTrial001.jpg
 C07_S05,1,hanoi_1966_video,,0,0.0,Tư liệu năm 1966 về chiến tranh mở rộng,https://commons.wikimedia.org/wiki/File:USAF_Air_Strikes_in_North_Vietnam_in_1966_Bombing_of_Hanoi.webm
@@ -101,7 +101,7 @@ C07_S05,3,ai_river_1955,Những dự định,3,0.0,Những dự định đời t
 C08_S01,1,ai_factory_1967,,0,0.0,"Chiến tranh tại miền Bắc, tư liệu 1966",
 C08_S01,2,trail_bicycles,chi viện tiền tuyến,2,0.85294,Một tuyến vận chuyển,https://commons.wikimedia.org/wiki/File:HoTrial001.jpg
 C08_S01,3,saigon_repair,Ở miền Nam,3,0.0,Tư liệu Chợ Lớn trong những ngày Mậu Thân,"https://commons.wikimedia.org/wiki/File:Cable_repair,_Cholon,_February_1968.jpg"
-C08_S01,4,trail_map,thống nhất đất nước,4,0.87261,Mối liên hệ giữa hai miền,https://commons.wikimedia.org/wiki/File:HoCMT.png
+C08_S01,4,trail_people,thống nhất đất nước,4,0.87261,Con người trên tuyến đường nối hậu phương với chiến trường,https://commons.wikimedia.org/wiki/File:HoChiMinhTrial001.jpg
 C08_S02,1,saigon_1968,,0,0.0,Mậu Thân 1968,https://commons.wikimedia.org/wiki/File:US_Embassy%2C_Saigon%2C_January_1968.jpg
 C08_S02,2,paris_arrivals_video,đàm phán tại Paris,2,0.85039,"Đàm phán tiếp diễn ở Paris, tư liệu 1972",https://commons.wikimedia.org/wiki/File:Paris_Peace_Talks.ogv
 C08_S02,3,saigon_deserted,Đây là giai đoạn,3,0.0,Một con phố trong những ngày Mậu Thân,https://commons.wikimedia.org/wiki/File:A_deserted_street_in_Saigon_during_the_Tet_fighting.jpg
@@ -113,31 +113,31 @@ C08_S04,1,saigon_1975_street,,0,0.0,"Sài Gòn dịp Tết, trước chiến d�
 C08_S04,2,victory_celebration,Ngày 30/4/1975,3,0.0,Một buổi chào mừng thắng lợi tháng 4/1975,https://commons.wikimedia.org/wiki/File:Vietnam_Victory_Celebration_Lai_Van_Ncoc_charge_d%27affaires_Apr_1975.jpg
 C08_S04,3,surrender_1975,hai khung hình,4,0.13846,Văn bản gắn với kết thúc chiến tranh,https://commons.wikimedia.org/wiki/File:Surrender_letter_of_Duong_Van_Minh.JPG
 C08_S05,1,tank_1975_museum,,0,0.0,Một hiện vật của chiến thắng,https://commons.wikimedia.org/wiki/File:T-54_Tank_No._843_Used_in_1975_Victory_in_Saigon_(9735469182).jpg
-C08_S05,2,reconstruction,Nhưng ba thập niên,2,0.0,Thiệt hại và tái thiết,
+C08_S05,2,war_damaged_house,Nhưng ba thập niên,2,0.0,Dấu tích chiến tranh trên một ngôi nhà ở Chợ Lớn,https://commons.wikimedia.org/wiki/File:Burnt_out_building_in_Cholon_after_the_Tet_Offensive.jpg
 C08_S05,3,saigon_after_tet,Bước sang,3,0.0,"Nhìn lại những tổn thất ở đô thị, ảnh Chợ Lớn năm 1968",https://commons.wikimedia.org/wiki/File:Cholon_after_Tet_Offensive_operations_1968.jpg
 C09_S01,1,ai_rebuild_1976,,0,0.0,Những việc sau chiến tranh,
 C09_S01,2,subsidy_display,một mái nhà,2,0.24691,"Vật dụng đời sống, mô hình trưng bày",https://commons.wikimedia.org/wiki/File:Thoi_bao_cap.jpg
 C09_S01,3,ration_coupons,Cả đất nước,4,0.0,Những nhu cầu sinh hoạt trong giai đoạn hậu chiến,https://commons.wikimedia.org/wiki/File:Tem_phi%E1%BA%BFu_th%E1%BB%9Di_bao_c%E1%BA%A5p.jpg
-C09_S02,1,state_1976,,0,0.0,Các mốc thống nhất nhà nước,
+C09_S02,1,ba_dinh_hall,,0,0.0,"Hội trường Ba Đình, ảnh địa điểm chụp về sau",https://commons.wikimedia.org/wiki/File:Ba_Dinh_Hall_1462359227_71b04ee08a.jpg
 C09_S02,2,government_1976,Quốc hội quyết định,3,0.0,Thành viên Chính phủ năm 1976,https://commons.wikimedia.org/wiki/File:Ch%C3%ADnh_ph%E1%BB%A7_1976.jpg
-C09_S02,3,reconstruction,thời kỳ mới,4,0.89091,Những nhiệm vụ xây dựng đất nước,
+C09_S02,3,hoa_binh_turbine_video,thời kỳ mới,4,0.89091,"Nhịp vận hành công trình điện lực, phim minh họa hiện tại",https://commons.wikimedia.org/wiki/File:Tua-bin_quay_%E1%BB%9F_th%E1%BB%A7y_%C4%91i%E1%BB%87n_H%C3%B2a_B%C3%ACnh.webm
 C09_S03,1,ai_ration_1980,,0,0.0,Hiện vật cơ chế phân phối,
 C09_S03,2,subsidy_display,Cơ chế tập trung,2,0.0,Một góc đời sống thời bao cấp,https://commons.wikimedia.org/wiki/File:Thoi_bao_cap.jpg
-C09_S03,3,planning_economy,Từ bữa cơm,3,0.0,"Sản xuất, phân phối và động lực",
-C09_S04,1,border_defence,,0,0.0,Hai hướng bảo vệ biên giới,
+C09_S03,3,rice_mill,Từ bữa cơm,3,0.0,"Chế biến lương thực và nhu cầu sản xuất, ảnh minh họa hiện tại",https://commons.wikimedia.org/wiki/File:M%E1%BB%99t_nh%C3%A0_m%C3%A1y_xay_l%C3%BAa_%E1%BB%9F_M%E1%BB%B9_Qu%C3%BD.jpg
+C09_S04,1,northern_border_gate,,0,0.0,"Không gian biên giới Việt–Trung, ảnh chụp về sau",https://commons.wikimedia.org/wiki/File:Youyi_Guan.jpg
 C09_S04,2,border_vehicle,nhiệm vụ bảo vệ,1,0.28333,Hiện vật hậu cần trong trưng bày,https://commons.wikimedia.org/wiki/File:Soviet_GAZ-66_Truck_of_1979.jpg
 C09_S04,3,lang_son_damage,Tháng 2/1979,3,0.0,"Dấu tích tại Lạng Sơn, ảnh về sau",https://commons.wikimedia.org/wiki/File:Facade_with_Damage_from_1979_Sino-Vietnamese_War_-_Lang_Son_-_Vietnam_(48142922346).jpg
 C10_S01,1,ai_farm_1981,,0,0.0,"Nông nghiệp, ảnh minh họa năm 2015",
-C10_S01,2,planning_economy,động lực,2,0.72642,Công sức và kết quả sản xuất,
+C10_S01,2,rice_terraces,động lực,2,0.72642,"Công sức và kết quả của một mùa vụ, ảnh minh họa hiện tại",https://commons.wikimedia.org/wiki/File:Ha_Giang_rizieres_bis.jpg
 C10_S01,3,paddy_fields,Chỉ thị 100,4,0.0,"Ruộng lúa và động lực sản xuất, ảnh minh họa hiện tại","https://commons.wikimedia.org/wiki/File:Road_and_paddy_fields_in_Sa_Pa,_Vietnam,_20240126_1202_3586.jpg"
 C10_S02,1,factory_today,,0,0.0,Nhà máy hiện đại để hình dung sản xuất,https://commons.wikimedia.org/wiki/File:Nh%C3%A0_m%C3%A1y_Song_Th%E1%BA%AFng.jpg
 C10_S02,2,textile_machine_today,Làm thế nào,2,0.0,Máy móc và nguồn lực,https://commons.wikimedia.org/wiki/File:Knit-fabric-machine.jpg
 C10_S02,3,trainees_1985,Các quyết định,3,0.0,Học viên Việt Nam học nghề năm 1985,"https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-1985-0716-003,_Plauen,_Auszubildende_aus_Vietnam.jpg"
 C10_S02,4,factory_knit,yêu cầu cải tiến,3,0.69065,"Một dây chuyền dệt may, ảnh minh họa hiện đại",https://commons.wikimedia.org/wiki/File:Knitted-clothing-factory.jpg
-C10_S03,1,price_wage_money,,0,0.0,Ba thành phần của cuộc cải cách,
+C10_S03,1,ai_household_budget_1985,,0,0.0,Thu nhập và giá cả trong bài toán gia đình,
 C10_S03,2,ration_coupons,những bất cập,1,0.8427,Bối cảnh phân phối thời bao cấp,https://commons.wikimedia.org/wiki/File:Tem_phi%E1%BA%BFu_th%E1%BB%9Di_bao_c%E1%BA%A5p.jpg
-C10_S03,3,ai_household_budget_1985,Nhưng cải cách,2,0.0,"Thu nhập, giá cả và đời sống gia đình",
-C10_S04,1,renewal_timeline,,0,0.0,Từ tìm tòi đến Đổi mới,
+C10_S03,3,market_produce,Nhưng cải cách,2,0.0,"Thực phẩm và chi tiêu, ảnh chợ minh họa hiện tại",https://commons.wikimedia.org/wiki/File:Avocats_au_march%C3%A9_-_Vietnam.JPG
+C10_S04,1,nguyen_van_linh_1986,,0,0.0,Nguyễn Văn Linh trong chặng khởi đầu Đổi mới,https://commons.wikimedia.org/wiki/File:Nguyen_Van_Linh_1986.jpg
 C10_S04,2,factory_bricks,hạn chế của cơ chế,1,0.52586,"Hoạt động sản xuất, ảnh minh họa về sau",https://commons.wikimedia.org/wiki/File:Brick_Making_Factory_-_Hoi_An_(12050887515).jpg
 C10_S04,3,ai_ration_1980,bao cấp,2,0.73333,Hình dung cơ chế phân phối cũ,
 C10_S04,4,factory_electronics,Từ đây,3,0.0,Sản xuất hiện đại trong chặng phát triển về sau,https://commons.wikimedia.org/wiki/File:Exxelia_Usine_-_Vietnam.jpg
@@ -150,7 +150,7 @@ C11_S02,2,factory_workers,công nghiệp hóa,2,0.84211,Lao động công nghi�
 C11_S02,3,textile_machine_today,năng lực sản xuất,3,0.75159,Máy móc trong sản xuất hiện đại,https://commons.wikimedia.org/wiki/File:Knit-fabric-machine.jpg
 C11_S02,4,factory_today,cơ hội phát triển,3,0.88535,Một cơ sở sản xuất hiện đại,https://commons.wikimedia.org/wiki/File:Nh%C3%A0_m%C3%A1y_Song_Th%E1%BA%AFng.jpg
 C11_S03,1,asean_headquarters,,0,0.0,"Trụ sở ASEAN, ảnh năm 2010",https://commons.wikimedia.org/wiki/File:ASEAN_HQ_1.jpg
-C11_S03,2,integration,Ngày 28/7/1995,2,0.0,Mốc gia nhập ASEAN,
+C11_S03,2,asean_member_flags,Ngày 28/7/1995,2,0.0,"Quốc kỳ các nước ASEAN, ảnh năm 2010",https://commons.wikimedia.org/wiki/File:ASEAN_Flags.jpg
 C11_S03,3,port_container,thương mại,3,0.71795,Vận tải hàng hóa trong chặng hội nhập,https://commons.wikimedia.org/wiki/File:Container_Ship_at_the_Hai_Phong_International_Container_Terminal_01.jpg
 C11_S03,4,hanoi_life_video,Những đường kết nối,4,0.0,Đô thị trong chặng hội nhập về sau,"https://commons.wikimedia.org/wiki/File:Experience_Hanoi,_Vietnam.webm"
 C11_S04,1,wto_headquarters,,0,0.0,"Trụ sở WTO, ảnh năm 2001",https://commons.wikimedia.org/wiki/File:Cwr_aerial_2001.jpg
@@ -164,16 +164,16 @@ C12_S01,4,city_skyline,Nhưng không phải,4,0.0,Đô thị trong một chặng
 C12_S02,1,metro_station,,0,0.0,Một khía cạnh phát triển đô thị,https://commons.wikimedia.org/wiki/File:Cat_Linh_Station_-_Metro_Hanoi_-_Panorama.jpg
 C12_S02,2,hanoi_1999_bridge,Đổi mới,1,0.12821,"Hà Nội trên chặng đường Đổi mới, ảnh 1999",https://commons.wikimedia.org/wiki/File:Vietnam_1999.Hanoi.Pont_Long_Bien.Pont_Paul_Doumer_(23).jpg
 C12_S02,3,hanoi_today,Bên cạnh,4,0.0,Đời sống và không gian đô thị hiện tại,https://commons.wikimedia.org/wiki/File:2024-11-03_Hanoi%27s_Old_Quarter_1.jpg
-C12_S03,1,future_goals,,0,0.0,Định hướng và mục tiêu phía trước,
+C12_S03,1,vietnam_solar_farm,,0,0.0,Công nghệ và năng lượng sạch để nghĩ về chặng đường phía trước,https://commons.wikimedia.org/wiki/File:Team-sustain-solar-farm-in-vietnam.jpg
 C12_S03,2,metro_construction_video,khoa học,2,0.4058,"Hạ tầng và công nghệ, tư liệu 2017",https://commons.wikimedia.org/wiki/File:Robot_kh%E1%BB%95ng_l%E1%BB%93_thi_c%C3%B4ng_nh%C3%A0_ga_ng%E1%BA%A7m_metro_s%E1%BB%91_1_c%E1%BB%A7a_S%C3%A0i_G%C3%B2n.ogv
 C12_S03,3,hanoi_metro,Mục tiêu đến năm 2030,3,0.0,Hình minh họa hiện tại cho mục tiêu tương lai,https://commons.wikimedia.org/wiki/File:Cat_Linh_station_with_train.jpg
 C12_S03,4,city_skyline,Đây là mục tiêu,4,0.0,Hình ảnh hiện tại để suy nghĩ về mục tiêu phía trước,https://commons.wikimedia.org/wiki/File:Skyline_s%C3%B4ng_C%E1%BA%A5m_H%E1%BA%A3i_Ph%C3%B2ng_n%C4%83m_2026.jpg
 C12_S04,1,school_today,,0,0.0,Những cơ hội của thế hệ hôm nay,"https://commons.wikimedia.org/wiki/File:C%C3%A1c_em_h%E1%BB%8Dc_sinh_ch%C3%BAc_m%E1%BB%ABng_c%C3%B4_gi%C3%A1o_nh%C3%A2n_ng%C3%A0y_20_th%C3%A1ng_11,_2025.jpg"
 C12_S04,2,hanoi_traffic_video,Nếu hôm nay,3,0.0,Một nhịp sống đô thị,https://commons.wikimedia.org/wiki/File:Hanoi_traffic.ogv
-C12_S04,3,ordinary_day,bạn sẽ muốn,3,0.72727,Dự định thuộc về chính bạn,
+C12_S04,3,hanoi_florist,bạn sẽ muốn,3,0.72727,Một công việc đời thường và những dự định nhỏ,https://commons.wikimedia.org/wiki/File:Vietnam_vers_1999._Boutique_d%27une_fleuriste.jpg
 EPI_S01,1,ai_children_morning,,0,0.0,Lặp lại những hình ảnh đời thường,
 EPI_S01,2,students_drawing,con đường đến trường,3,0.14286,Học tập và thực hành của người trẻ,https://commons.wikimedia.org/wiki/File:HCMC_Uni_Drawing_Class_01.JPG
-EPI_S01,3,journey_1911,tìm đường cứu nước,5,0.21118,Nhìn lại điểm đầu hành trình,
+EPI_S01,3,dragon_wharf,tìm đường cứu nước,5,0.21118,Nhìn lại điểm đầu hành trình qua địa điểm Bến Nhà Rồng,https://commons.wikimedia.org/wiki/File:Dragon_Wharf.jpg
 EPI_S01,4,hanoi_1999_bridge,Đổi mới,5,0.95031,Nhìn lại một chặng đường phát triển,https://commons.wikimedia.org/wiki/File:Vietnam_1999.Hanoi.Pont_Long_Bien.Pont_Paul_Doumer_(23).jpg
 EPI_S02,1,ai_future_notebook,,0,0.0,Một câu hỏi còn mở,
 EPI_S02,2,students_studying,học nghiêm túc,2,0.07042,Cùng học một điều mới,https://commons.wikimedia.org/wiki/File:HCMC_Two_students_studying.JPG

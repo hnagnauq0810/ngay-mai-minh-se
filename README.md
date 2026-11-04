@@ -4,7 +4,7 @@ Bản test online: https://hnagnauq0810.github.io/ngay-mai-minh-se/ · [Hướng
 
 ## Bản giọng kể và nhiều tư liệu — 04/11/2026
 
-Giọng mặc định hiện là **Thiện Minh (VieNeu, phong cách kể chuyện)**, cùng một giọng cho 55 cảnh. Mỗi cảnh có 3–5 mốc đổi hình theo lời dẫn: 181 mốc, 140 tư liệu, gồm 9 video dùng tại 12 cảnh. Video không phát tiếng gốc; tạm dừng cùng lời kể. Nguồn, năm và nhãn đồ họa/ảnh bối cảnh được ghi rõ. Có 14 tranh AI tạo riêng và 44 ảnh Internet bổ sung được sử dụng; 55 cảnh có hình mở khác nhau, hai cảnh liền nhau không lặp tư liệu. Xem [rà soát hình ảnh](docs/IMAGE_VARIETY_REVIEW.md).
+Giọng mặc định hiện là **Thiện Minh (VieNeu, phong cách kể chuyện)**, cùng một giọng cho 55 cảnh. Mỗi cảnh có 3–5 mốc đổi hình theo lời dẫn: 181 mốc, 138 tư liệu, gồm 10 video dùng tại 13 cảnh. Video không phát tiếng gốc; tạm dừng cùng lời kể. Nguồn, năm và nhãn ảnh bối cảnh được ghi rõ. Các diagram và bản đồ đã được thay bằng ảnh hoặc video. Có 14 tranh AI tạo riêng và 67 ảnh Internet bổ sung được sử dụng; 55 cảnh có hình mở khác nhau, hai cảnh liền nhau không lặp tư liệu. Xem [rà soát hình ảnh](docs/IMAGE_VARIETY_REVIEW.md).
 
 Chạy ngay: `python -m http.server 8080 --directory out`, rồi mở `http://localhost:8080`. Không cần API key hay mô hình TTS khi xem.
 

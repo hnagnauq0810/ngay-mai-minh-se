@@ -17,16 +17,16 @@
         "offset": 0.0
       },
       {
-        "asset": "ordinary_day",
+        "asset": "ai_children_morning",
         "anchor": "Những dự định ấy nhỏ",
-        "label": "Những điều bình thường",
+        "label": "Những dự định trên con đường đến trường",
         "segment": 3,
         "offset": 0.0
       },
       {
-        "asset": "story_frame",
+        "asset": "hanoi_2024",
         "anchor": "Nhưng lịch sử",
-        "label": "Câu hỏi mở ra hành trình",
+        "label": "Từ đời sống hôm nay nhìn lại lịch sử",
         "segment": 5,
         "offset": 0.0
       }
@@ -93,18 +93,18 @@
         "offset": 0.0
       },
       {
-        "asset": "unification_1930",
+        "asset": "founder_nguyen_duc_canh",
         "anchor": "Hiểu điều này",
-        "label": "Từ kiếm tìm đến tổ chức",
+        "label": "Một gương mặt của quá trình xây dựng tổ chức",
         "segment": 4,
         "offset": 0.0
       }
     ],
     "C01_S03": [
       {
-        "asset": "journey_1911",
+        "asset": "dragon_wharf",
         "anchor": "",
-        "label": "Các mốc của hành trình",
+        "label": "Bến Nhà Rồng, địa điểm của khởi đầu hành trình",
         "segment": 0,
         "offset": 0.0
       },
@@ -139,9 +139,9 @@
         "offset": 0.0
       },
       {
-        "asset": "unification_1930",
+        "asset": "founder_nguyen_duc_canh",
         "anchor": "Ngày 3 tháng 2",
-        "label": "Mốc thành lập năm 1930",
+        "label": "Nguyễn Đức Cảnh trong quá trình hình thành tổ chức",
         "segment": 3,
         "offset": 0.0
       }
@@ -171,9 +171,9 @@
     ],
     "C02_S02": [
       {
-        "asset": "nghe_tinh_context",
+        "asset": "nghe_tinh_museum",
         "anchor": "",
-        "label": "Cao trào 1930–1931",
+        "label": "Nơi lưu giữ ký ức phong trào Xô viết Nghệ Tĩnh",
         "segment": 0,
         "offset": 0.0
       },
@@ -201,9 +201,9 @@
         "offset": 0.0
       },
       {
-        "asset": "political_line",
+        "asset": "ai_household_1930",
         "anchor": "Luận cương tháng 10",
-        "label": "Nhiệm vụ và giới hạn nhận định",
+        "label": "Đời sống nông dân trong bối cảnh đầu thập niên 1930",
         "segment": 2,
         "offset": 0.0
       },
@@ -224,9 +224,9 @@
         "offset": 0.0
       },
       {
-        "asset": "recovery_1935",
+        "asset": "le_hong_phong",
         "anchor": "Chương trình hành động",
-        "label": "Các mốc 1932 và 1935",
+        "label": "Lê Hồng Phong và giai đoạn khôi phục tổ chức",
         "segment": 2,
         "offset": 0.0
       },
@@ -263,16 +263,16 @@
     ],
     "C03_S02": [
       {
-        "asset": "world_1936",
+        "asset": "blum_cabinet_1936",
         "anchor": "",
-        "label": "Hoàn cảnh quốc tế",
+        "label": "Chính phủ Mặt trận Bình dân tại Pháp năm 1936",
         "segment": 0,
         "offset": 0.0
       },
       {
-        "asset": "press_1939_front",
+        "asset": "popular_front_crowd",
         "anchor": "Đảng điều chỉnh",
-        "label": "Một tờ báo thuộc địa cuối thập niên 1930",
+        "label": "Phong trào Mặt trận Bình dân trong bối cảnh quốc tế",
         "segment": 2,
         "offset": 0.0
       },
@@ -286,9 +286,9 @@
     ],
     "C03_S03": [
       {
-        "asset": "political_press",
+        "asset": "press_1939_front",
         "anchor": "",
-        "label": "Những hình thức tập hợp",
+        "label": "Một trang báo thuộc địa cuối thập niên 1930",
         "segment": 0,
         "offset": 0.0
       },
@@ -316,16 +316,16 @@
         "offset": 0.0
       },
       {
-        "asset": "world_1936",
+        "asset": "popular_front_crowd",
         "anchor": "Những kinh nghiệm",
-        "label": "Bối cảnh 1936–1939",
+        "label": "Sinh hoạt chính trị tại Pháp năm 1936",
         "segment": 1,
         "offset": 0.0
       },
       {
-        "asset": "world_context",
+        "asset": "poland_civilians_1939",
         "anchor": "Tháng 9/1939",
-        "label": "Một giai đoạn mới của thế giới",
+        "label": "Tháng 9/1939, chiến tranh lan tới đời sống dân thường",
         "segment": 2,
         "offset": 0.0
       }
@@ -369,9 +369,9 @@
         "offset": 0.0
       },
       {
-        "asset": "preparation_1941",
+        "asset": "ho_giap_1945",
         "anchor": "Mặt trận Việt Minh",
-        "label": "Tập hợp và xây dựng lực lượng",
+        "label": "Hồ Chí Minh và Võ Nguyên Giáp, tư liệu năm 1945",
         "segment": 3,
         "offset": 0.0
       }
@@ -385,9 +385,9 @@
         "offset": 0.0
       },
       {
-        "asset": "world_context",
+        "asset": "japan_surrender_1945",
         "anchor": "Khi Nhật tuyên bố",
-        "label": "Thế giới và thời cơ tháng Tám",
+        "label": "Kết thúc chiến tranh thế giới, lễ ký ngày 2/9/1945",
         "segment": 3,
         "offset": 0.0
       },
@@ -438,9 +438,9 @@
         "offset": 0.0
       },
       {
-        "asset": "literacy",
+        "asset": "students_1952",
         "anchor": "giáo dục",
-        "label": "Học đọc, học viết cùng xây dựng đời sống",
+        "label": "Học sinh Hà Nội, ảnh năm 1952 minh họa chủ đề giáo dục",
         "segment": 4,
         "offset": 0.62617
       }
@@ -470,9 +470,9 @@
     ],
     "C05_S03": [
       {
-        "asset": "ballot_1946",
+        "asset": "election_preparation_1946",
         "anchor": "",
-        "label": "Từ lá phiếu đến Hiến pháp",
+        "label": "Người dân chuẩn bị cho cuộc bầu cử đầu tiên",
         "segment": 0,
         "offset": 0.0
       },
@@ -493,9 +493,9 @@
     ],
     "C05_S04": [
       {
-        "asset": "nation_building",
+        "asset": "public_gathering_hanoi",
         "anchor": "",
-        "label": "Vừa kiến thiết, vừa giữ độc lập",
+        "label": "Một cuộc tập hợp công chúng tại Hà Nội năm 1946",
         "segment": 0,
         "offset": 0.0
       },
@@ -507,9 +507,9 @@
         "offset": 0.0
       },
       {
-        "asset": "resistance",
+        "asset": "hanoi_defenders_1946",
         "anchor": "chuẩn bị kháng chiến",
-        "label": "Chuẩn bị cho cuộc kháng chiến lâu dài",
+        "label": "Chuẩn bị kháng chiến tại Hà Nội tháng 12/1946",
         "segment": 3,
         "offset": 0.74107
       }
@@ -562,9 +562,9 @@
     ],
     "C06_S03": [
       {
-        "asset": "resistance",
+        "asset": "road_engineers",
         "anchor": "",
-        "label": "Những nấc phát triển",
+        "label": "Mở đường, xây dựng điều kiện cho kháng chiến",
         "segment": 0,
         "offset": 0.0
       },
@@ -675,9 +675,9 @@
         "offset": 0.2
       },
       {
-        "asset": "reform_lesson",
+        "asset": "paddy_fields",
         "anchor": "sai lầm nghiêm trọng",
-        "label": "Nhìn nhận và sửa sai",
+        "label": "Ruộng đồng hôm nay, minh họa sinh kế nông dân",
         "segment": 2,
         "offset": 0.35484
       }
@@ -698,25 +698,25 @@
         "offset": 0.0
       },
       {
-        "asset": "dong_khoi_timeline",
+        "asset": "women_binh_dinh",
         "anchor": "Hội nghị Trung ương 15",
-        "label": "Các mốc chuyển biến 1959–1960",
+        "label": "Hai gương mặt phụ nữ gắn với phong trào miền Nam",
         "segment": 3,
         "offset": 0.2963
       }
     ],
     "C07_S04": [
       {
-        "asset": "two_missions",
+        "asset": "trail_trucks",
         "anchor": "",
-        "label": "Hai nhiệm vụ chiến lược",
+        "label": "Hàng tiếp tế trên tuyến vận tải Trường Sơn",
         "segment": 0,
         "offset": 0.0
       },
       {
-        "asset": "trail_map",
+        "asset": "trail_landscape_archive",
         "anchor": "Trường Sơn",
-        "label": "Sơ đồ tuyến đường chi viện",
+        "label": "Không gian và dấu tích chiến tranh trên tuyến Trường Sơn",
         "segment": 3,
         "offset": 0.23
       },
@@ -781,9 +781,9 @@
         "offset": 0.0
       },
       {
-        "asset": "trail_map",
+        "asset": "trail_people",
         "anchor": "thống nhất đất nước",
-        "label": "Mối liên hệ giữa hai miền",
+        "label": "Con người trên tuyến đường nối hậu phương với chiến trường",
         "segment": 4,
         "offset": 0.87261
       }
@@ -873,9 +873,9 @@
         "offset": 0.0
       },
       {
-        "asset": "reconstruction",
+        "asset": "war_damaged_house",
         "anchor": "Nhưng ba thập niên",
-        "label": "Thiệt hại và tái thiết",
+        "label": "Dấu tích chiến tranh trên một ngôi nhà ở Chợ Lớn",
         "segment": 2,
         "offset": 0.0
       },
@@ -912,9 +912,9 @@
     ],
     "C09_S02": [
       {
-        "asset": "state_1976",
+        "asset": "ba_dinh_hall",
         "anchor": "",
-        "label": "Các mốc thống nhất nhà nước",
+        "label": "Hội trường Ba Đình, ảnh địa điểm chụp về sau",
         "segment": 0,
         "offset": 0.0
       },
@@ -926,9 +926,9 @@
         "offset": 0.0
       },
       {
-        "asset": "reconstruction",
+        "asset": "hoa_binh_turbine_video",
         "anchor": "thời kỳ mới",
-        "label": "Những nhiệm vụ xây dựng đất nước",
+        "label": "Nhịp vận hành công trình điện lực, phim minh họa hiện tại",
         "segment": 4,
         "offset": 0.89091
       }
@@ -949,18 +949,18 @@
         "offset": 0.0
       },
       {
-        "asset": "planning_economy",
+        "asset": "rice_mill",
         "anchor": "Từ bữa cơm",
-        "label": "Sản xuất, phân phối và động lực",
+        "label": "Chế biến lương thực và nhu cầu sản xuất, ảnh minh họa hiện tại",
         "segment": 3,
         "offset": 0.0
       }
     ],
     "C09_S04": [
       {
-        "asset": "border_defence",
+        "asset": "northern_border_gate",
         "anchor": "",
-        "label": "Hai hướng bảo vệ biên giới",
+        "label": "Không gian biên giới Việt–Trung, ảnh chụp về sau",
         "segment": 0,
         "offset": 0.0
       },
@@ -988,9 +988,9 @@
         "offset": 0.0
       },
       {
-        "asset": "planning_economy",
+        "asset": "rice_terraces",
         "anchor": "động lực",
-        "label": "Công sức và kết quả sản xuất",
+        "label": "Công sức và kết quả của một mùa vụ, ảnh minh họa hiện tại",
         "segment": 2,
         "offset": 0.72642
       },
@@ -1034,9 +1034,9 @@
     ],
     "C10_S03": [
       {
-        "asset": "price_wage_money",
+        "asset": "ai_household_budget_1985",
         "anchor": "",
-        "label": "Ba thành phần của cuộc cải cách",
+        "label": "Thu nhập và giá cả trong bài toán gia đình",
         "segment": 0,
         "offset": 0.0
       },
@@ -1048,18 +1048,18 @@
         "offset": 0.8427
       },
       {
-        "asset": "ai_household_budget_1985",
+        "asset": "market_produce",
         "anchor": "Nhưng cải cách",
-        "label": "Thu nhập, giá cả và đời sống gia đình",
+        "label": "Thực phẩm và chi tiêu, ảnh chợ minh họa hiện tại",
         "segment": 2,
         "offset": 0.0
       }
     ],
     "C10_S04": [
       {
-        "asset": "renewal_timeline",
+        "asset": "nguyen_van_linh_1986",
         "anchor": "",
-        "label": "Từ tìm tòi đến Đổi mới",
+        "label": "Nguyễn Văn Linh trong chặng khởi đầu Đổi mới",
         "segment": 0,
         "offset": 0.0
       },
@@ -1154,9 +1154,9 @@
         "offset": 0.0
       },
       {
-        "asset": "integration",
+        "asset": "asean_member_flags",
         "anchor": "Ngày 28/7/1995",
-        "label": "Mốc gia nhập ASEAN",
+        "label": "Quốc kỳ các nước ASEAN, ảnh năm 2010",
         "segment": 2,
         "offset": 0.0
       },
@@ -1260,9 +1260,9 @@
     ],
     "C12_S03": [
       {
-        "asset": "future_goals",
+        "asset": "vietnam_solar_farm",
         "anchor": "",
-        "label": "Định hướng và mục tiêu phía trước",
+        "label": "Công nghệ và năng lượng sạch để nghĩ về chặng đường phía trước",
         "segment": 0,
         "offset": 0.0
       },
@@ -1304,9 +1304,9 @@
         "offset": 0.0
       },
       {
-        "asset": "ordinary_day",
+        "asset": "hanoi_florist",
         "anchor": "bạn sẽ muốn",
-        "label": "Dự định thuộc về chính bạn",
+        "label": "Một công việc đời thường và những dự định nhỏ",
         "segment": 3,
         "offset": 0.72727
       }
@@ -1327,9 +1327,9 @@
         "offset": 0.14286
       },
       {
-        "asset": "journey_1911",
+        "asset": "dragon_wharf",
         "anchor": "tìm đường cứu nước",
-        "label": "Nhìn lại điểm đầu hành trình",
+        "label": "Nhìn lại điểm đầu hành trình qua địa điểm Bến Nhà Rồng",
         "segment": 5,
         "offset": 0.21118
       },

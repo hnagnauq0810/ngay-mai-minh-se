@@ -1,0 +1,166 @@
+{
+  "assets": [
+    {
+      "id": "founder_nguyen_duc_canh",
+      "filename": "Nguyen Duc Canh.jpg",
+      "caption": "Nguyễn Đức Cảnh trong phong trào cách mạng đầu thế kỷ XX",
+      "date": "Trước 1932",
+      "kind": "archive"
+    },
+    {
+      "id": "dragon_wharf",
+      "filename": "Dragon Wharf.jpg",
+      "caption": "Bến Nhà Rồng, địa điểm gợi lại khởi đầu hành trình",
+      "date": "25/01/2025",
+      "kind": "contemporary",
+      "note": "Ảnh địa điểm chụp năm 2025, không phải ảnh Nguyễn Tất Thành ra đi năm 1911."
+    },
+    {
+      "id": "nghe_tinh_museum",
+      "filename": "Museum of Xo Viet Nghe Tinh.jpg",
+      "caption": "Bảo tàng Xô viết Nghệ Tĩnh",
+      "date": "09/05/2011",
+      "kind": "contemporary",
+      "note": "Ảnh bảo tàng lưu giữ ký ức phong trào, không phải ảnh đám đông trong cao trào 1930–1931."
+    },
+    {
+      "id": "le_hong_phong",
+      "filename": "Le Hong Phong.gif",
+      "caption": "Lê Hồng Phong",
+      "date": "Trước 1940",
+      "kind": "archive",
+      "note": "Chân dung nhân vật gắn với quá trình khôi phục tổ chức; không phải ảnh Đại hội tháng 3/1935."
+    },
+    {
+      "id": "blum_cabinet_1936",
+      "filename": "Gouvernement Léon Blum - juin 1936.jpg",
+      "caption": "Chính phủ Léon Blum tại Pháp tháng 6/1936",
+      "date": "06/1936",
+      "kind": "archive"
+    },
+    {
+      "id": "public_gathering_hanoi",
+      "filename": "Lễ kỷ niệm liệt sĩ Nguyễn Thái Học và Phạm Hồng Thái được tổ chức tại Nhà Đấu xảo.jpg",
+      "caption": "Lễ tưởng niệm tại Nhà Đấu xảo Hà Nội",
+      "date": "18/06/1946",
+      "kind": "archive",
+      "note": "Lễ tưởng niệm Nguyễn Thái Học và Phạm Hồng Thái ngày 18/6/1946; minh họa sinh hoạt tập hợp công chúng trong bối cảnh năm 1946, không phải cuộc mít tinh giai đoạn 1936–1939."
+    },
+    {
+      "id": "popular_front_crowd",
+      "filename": "Cortège et manifestation du Front populaire - btv1b90279323.jpg",
+      "caption": "Người tham gia phong trào Mặt trận Bình dân tại Pháp",
+      "date": "1936",
+      "kind": "archive"
+    },
+    {
+      "id": "poland_civilians_1939",
+      "filename": "Polish civilians in escape September 1939.jpg",
+      "caption": "Dân thường Ba Lan sơ tán khi chiến tranh bùng nổ",
+      "date": "09/1939",
+      "kind": "archive"
+    },
+    {
+      "id": "ho_giap_1945",
+      "filename": "Giap-Ho.jpg",
+      "caption": "Hồ Chí Minh và Võ Nguyên Giáp",
+      "date": "1945; xem nguồn",
+      "kind": "archive",
+      "note": "Ảnh hai nhân vật năm 1945, minh họa quá trình chuẩn bị và xây dựng lực lượng; không phải ảnh Hội nghị Trung ương tháng 5/1941."
+    },
+    {
+      "id": "japan_surrender_1945",
+      "filename": "Mamoru Shigemitsu signs the Instrument of Surrender, officially ending the Second World War.jpg",
+      "caption": "Lễ ký văn kiện đầu hàng của Nhật Bản",
+      "date": "02/09/1945",
+      "kind": "archive",
+      "note": "Lễ ký trên USS Missouri ngày 2/9/1945, minh họa kết thúc chiến tranh thế giới; không phải hình ảnh thông báo đầu hàng ngày 15/8/1945."
+    },
+    {
+      "id": "election_preparation_1946",
+      "filename": "Cảnh chuẩn bị bầu cử Quốc hội khóa I tại ngõ Phất Lộc năm 1946.jpg",
+      "caption": "Chuẩn bị bầu cử Quốc hội khóa I tại ngõ Phất Lộc",
+      "date": "1946",
+      "kind": "archive"
+    },
+    {
+      "id": "hanoi_defenders_1946",
+      "filename": "Les tireurs du régiment Thăng-long préparent à se battre, dec. 1946.jpg",
+      "caption": "Chuẩn bị chiến đấu tại Hà Nội tháng 12/1946",
+      "date": "12/1946",
+      "kind": "archive"
+    },
+    {
+      "id": "women_binh_dinh",
+      "filename": "Nguyen Thi Binh and Dinh.jpg",
+      "caption": "Nguyễn Thị Bình và Nguyễn Thị Định",
+      "date": "Ảnh chân dung tư liệu; xem nguồn",
+      "kind": "archive",
+      "note": "Ảnh hai nhân vật, minh họa vai trò phụ nữ trong phong trào ở miền Nam; không phải ảnh Hội nghị Trung ương 15 hoặc một sự kiện Đồng khởi cụ thể."
+    },
+    {
+      "id": "war_damaged_house",
+      "filename": "Burnt out building in Cholon after the Tet Offensive.jpg",
+      "caption": "Một ngôi nhà ở Chợ Lớn sau chiến sự",
+      "date": "1968",
+      "kind": "archive",
+      "note": "Ảnh Chợ Lớn năm 1968, gợi những hậu quả vật chất chiến tranh để lại; không phải ảnh chụp ngày 30/4/1975."
+    },
+    {
+      "id": "ba_dinh_hall",
+      "filename": "Ba Dinh Hall 1462359227 71b04ee08a.jpg",
+      "caption": "Hội trường Ba Đình cũ",
+      "date": "30/09/2007",
+      "kind": "contemporary",
+      "note": "Địa điểm gắn với hoạt động Quốc hội, ảnh chụp về sau; không phải ảnh phiên họp thống nhất nhà nước năm 1976."
+    },
+    {
+      "id": "northern_border_gate",
+      "filename": "Youyi Guan.jpg",
+      "caption": "Cửa ải trên biên giới Việt–Trung",
+      "date": "31/12/2007",
+      "kind": "contemporary",
+      "note": "Ảnh cửa ải Hữu Nghị chụp từ phía Trung Quốc năm 2007, minh họa địa lý biên giới; không phải ảnh chiến sự năm 1979."
+    },
+    {
+      "id": "nguyen_van_linh_1986",
+      "filename": "Nguyen Van Linh 1986.jpg",
+      "caption": "Nguyễn Văn Linh, chân dung năm 1986",
+      "date": "1986",
+      "kind": "archive",
+      "note": "Chân dung nhân vật gắn với chặng Đổi mới; không phải ảnh toàn cảnh Đại hội VI."
+    },
+    {
+      "id": "asean_member_flags",
+      "filename": "ASEAN Flags.jpg",
+      "caption": "Quốc kỳ các nước thành viên tại trụ sở ASEAN",
+      "date": "12/12/2010",
+      "kind": "contemporary",
+      "note": "Ảnh quốc kỳ năm 2010 minh họa hợp tác khu vực, không phải lễ Việt Nam gia nhập ASEAN năm 1995."
+    },
+    {
+      "id": "vietnam_solar_farm",
+      "filename": "Team-sustain-solar-farm-in-vietnam.jpg",
+      "caption": "Một công trình điện mặt trời tại Việt Nam",
+      "date": "24/07/2019",
+      "kind": "contemporary",
+      "note": "Ảnh hiện tại gợi chủ đề công nghệ và năng lượng sạch; không phải hình ảnh tương lai hoặc khẳng định các mục tiêu 2030–2045 đã hoàn thành."
+    },
+    {
+      "id": "market_produce",
+      "filename": "Avocats au marché - Vietnam.JPG",
+      "caption": "Nông sản tại một khu chợ Việt Nam",
+      "date": "Ảnh hiện đại; xem nguồn",
+      "kind": "contemporary",
+      "note": "Ảnh chợ chụp về sau minh họa giá cả, thực phẩm và chi tiêu gia đình; không phải ảnh thị trường trong cuộc cải cách năm 1985."
+    },
+    {
+      "id": "trail_landscape_archive",
+      "filename": "The Ho Chi Minh Trail.jpg",
+      "caption": "Dấu tích chiến tranh dọc tuyến Trường Sơn",
+      "date": "Ảnh tư liệu; xem nguồn",
+      "kind": "archive",
+      "note": "Ảnh hố bom và địa hình dọc tuyến Trường Sơn, không phải bản đồ hoặc sơ đồ dựng."
+    }
+  ]
+}

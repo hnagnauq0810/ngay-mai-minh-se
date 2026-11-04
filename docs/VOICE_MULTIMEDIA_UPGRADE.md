@@ -4,7 +4,7 @@ Bản này dùng **Thiện Minh**, một giọng nam miền Bắc thuộc nhóm 
 
 Mỗi cảnh được thu theo tiêu đề, các câu dẫn và thoại. Có khoảng nghỉ giữa các câu và chuyển phần. File JSON cạnh MP3 lưu thời điểm bắt đầu/kết thúc từng đoạn âm thanh; phụ đề dùng các thời điểm này. Đây vẫn là giọng tổng hợp, mức độ truyền cảm có thể được đánh giá qua mẫu hoặc nghe trực tiếp trong web.
 
-Đã biên tập **181 mốc minh họa trong 55 cảnh**, mỗi cảnh 3–5 mốc, dùng **140 tư liệu khác nhau**. Trong đó có **9 đoạn video ở 12 cảnh**. Các mốc gắn với cụm từ trong lời dẫn, không chia đều thời gian một cách ngẫu nhiên. Chuyển hình dùng thời điểm của câu thu thực tế; vị trí bên trong câu được nội suy theo cụm từ. Có giới hạn giữ hình tối thiểu để những ý liệt kê nhanh không làm hình nhấp nháy.
+Đã biên tập **181 mốc minh họa trong 55 cảnh**, mỗi cảnh 3–5 mốc, dùng **138 tư liệu khác nhau**. Trong đó có **10 đoạn video ở 13 cảnh**. Các mốc gắn với cụm từ trong lời dẫn, không chia đều thời gian một cách ngẫu nhiên. Chuyển hình dùng thời điểm của câu thu thực tế; vị trí bên trong câu được nội suy theo cụm từ. Có giới hạn giữ hình tối thiểu để những ý liệt kê nhanh không làm hình nhấp nháy.
 
 | Video | Nội dung / phạm vi |
 |---|---|

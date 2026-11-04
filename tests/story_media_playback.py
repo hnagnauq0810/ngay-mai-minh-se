@@ -52,8 +52,8 @@ async def main():
     await page.evaluate('window.__seen=[];new MutationObserver(()=>__seen.push(document.getElementById("cinema-media-image").getAttribute("src"))).observe(document.getElementById("cinema-media-image"),{attributes:true,attributeFilter:["src"]});__audios.at(-1).playbackRate=12;')
     await page.wait_for_function('NMMS_CINEMA_DEBUG.getIndex()===1',timeout=9000)
     seen=await page.evaluate('__seen')
-    assert any('ordinary_day' in (s or '') for s in seen),seen
-    assert any('story_frame' in (s or '') for s in seen),seen
+    assert any('children_morning' in (s or '') for s in seen),seen
+    assert any('hanoi_2024' in (s or '') for s in seen),seen
     await page.locator('#cinema-close').click()
     assert await page.evaluate('[...document.querySelectorAll("video")].every(v=>v.paused)')
     assert not errors,errors

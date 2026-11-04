@@ -13,7 +13,7 @@ MEDIA_ASSETS={asset['id']: asset for asset in MEDIA['assets']}
 SCENE_MEDIA=MEDIA['scene_media']
 STORYBOARDS=json.loads((ROOT/'content/storyboard.v2.json').read_text(encoding='utf-8'))['scenes']
 VISUAL_ASSETS=dict(MEDIA_ASSETS)
-for filename in ('visual_assets.v2.json','graphic_assets.v2.json','video_assets.v1.json','unique_photos.v3.json','ai_illustrations.v3.json'):
+for filename in ('visual_assets.v2.json','video_assets.v1.json','unique_photos.v3.json','ai_illustrations.v3.json','topic_photos.v4.json'):
  VISUAL_ASSETS.update({a['id']:a for a in json.loads((ROOT/'content'/filename).read_text(encoding='utf-8'))['assets']})
 NARRATION=load_profile(ROOT)
 VOICE_DIRECTORY=NARRATION['directory']
