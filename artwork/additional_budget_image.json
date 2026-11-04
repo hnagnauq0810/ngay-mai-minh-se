@@ -1,0 +1,14 @@
+{
+  "id": "ai_household_budget_1985",
+  "caption": "Bài toán thu nhập và bữa cơm gia đình",
+  "date": "Khoảng 1985",
+  "note": "Minh họa tái dựng bằng AI về một gia đình hư cấu tính toán thu nhập và chi tiêu, không phải ảnh tư liệu hoặc mô phỏng tờ tiền thật.",
+  "kind": "illustration",
+  "ai_generated": true,
+  "author": "Minh họa AI của dự án",
+  "license": "Minh họa được tạo cho dự án",
+  "source_url": "",
+  "original": "C:\\Users\\Admin\\.codex\\generated_images\\01a1a307-8eb0-7191-b65b-08cadbb782fe\\exec-fdd2b390-4eae-4909-aba5-fd8fbd7df2fa.png",
+  "local": "assets/illustrations-ai/household_budget_1985.webp",
+  "prompt": "Use case: historical-scene. Asset type: one single landscape 16:9 narrative illustration for an educational Vietnamese history website. Scene: a modest Vietnamese home in 1985; two Vietnamese adults in plain period cotton clothing sit at a wooden kitchen table and thoughtfully review the family budget. One person holds a plain wage envelope and a few small paper ration coupons, the other considers a small shopping basket of rice and vegetables. Keep papers and money without any visible text, numerals or identifiable banknote designs. Modest ceramic bowls, a worn cabinet and simple everyday objects, no modern appliances. Wide intimate framing, hands and objects clearly understandable, humane and reflective rather than distressed. Style: sophisticated hand-painted cinematic editorial illustration with subtle gouache and oil texture, natural anatomy, luminous warm window light, restrained jade/indigo shadows, clean focal hierarchy and beautiful readable color on mobile. Original interpretive reconstruction of fictional daily life, not an archival photograph or a claim to depict a specific historical family. No collage, no text, no logos, no slogans, no watermarks, no excessive grain or murky sepia."
+}

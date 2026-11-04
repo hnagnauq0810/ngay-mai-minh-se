@@ -1,0 +1,63 @@
+{
+  "scene_id": "C05_S02",
+  "voice": "Thiện Minh",
+  "duration": 35.0619,
+  "segments": [
+    {
+      "text": "Một lớp học không chỉ dành cho trẻ em.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "title",
+      "start": 0.0,
+      "end": 2.3093
+    },
+    {
+      "text": "Trong hoàn cảnh tỉ lệ người mù chữ rất cao, phong trào Bình dân học vụ được phát động nhằm giúp đông đảo nhân dân học đọc, học viết.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 2.8763,
+      "end": 9.3918
+    },
+    {
+      "text": "Hãy tưởng tượng một người lớn tuổi lần đầu viết được tên mình.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 9.6392,
+      "end": 12.3608
+    },
+    {
+      "text": "Cảm giác ấy có thể nhỏ đối với người học hôm nay, nhưng trong một xã hội vừa giành độc lập, biết chữ gắn với khả năng tiếp cận thông tin và tham gia đời sống công dân.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 12.6082,
+      "end": 21.8454
+    },
+    {
+      "text": "Đây là một trong những nhiệm vụ quan trọng của chính quyền mới.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 22.0928,
+      "end": 25.2268
+    },
+    {
+      "text": "Hôm nay tôi tự viết được tên mình rồi.",
+      "speaker": "NGƯỜI HỌC (hư cấu)",
+      "kind": "dialogue",
+      "start": 25.4742,
+      "end": 27.3711
+    },
+    {
+      "text": "Chỉ một cái tên thôi mà vui đến thế sao?",
+      "speaker": "CON",
+      "kind": "dialogue",
+      "start": 27.7629,
+      "end": 30.3196
+    },
+    {
+      "text": "Có những quyền và cơ hội chỉ khi không có, ta mới thấy quý giá đến vậy.",
+      "speaker": "MẸ",
+      "kind": "dialogue",
+      "start": 30.7113,
+      "end": 34.6701
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "scene_id": "C09_S02",
+  "voice": "Thiện Minh",
+  "duration": 40.3814,
+  "segments": [
+    {
+      "text": "Một nước, một nhà nước thống nhất.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "title",
+      "start": 0.0,
+      "end": 1.6495
+    },
+    {
+      "text": "Sau chiến thắng tháng 4/1975, tiến trình thống nhất đất nước về mặt nhà nước tiếp tục được triển khai.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 2.2165,
+      "end": 8.8144
+    },
+    {
+      "text": "Hội nghị hiệp thương chính trị tháng 11/1975, Tổng tuyển cử bầu Quốc hội chung cả nước ngày 25/4/1976 và kỳ họp Quốc hội khóa VI tháng 7/1976 là những mốc quan trọng.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 9.0619,
+      "end": 23.0825
+    },
+    {
+      "text": "Quốc hội quyết định tên nước Cộng hòa xã hội chủ nghĩa Việt Nam.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 23.3299,
+      "end": 26.3814
+    },
+    {
+      "text": "Đại hội IV của Đảng tháng 12/1976 xác định nhiệm vụ, phương hướng xây dựng xã hội chủ nghĩa trong thời kỳ mới.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 26.6289,
+      "end": 33.6392
+    },
+    {
+      "text": "Thống nhất lãnh thổ sau chiến tranh và thống nhất về mặt tổ chức nhà nước là những bước nối tiếp nhau, cần được phân biệt rõ.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "dialogue",
+      "start": 33.8866,
+      "end": 39.9897
+    }
+  ]
+}

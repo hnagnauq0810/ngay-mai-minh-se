@@ -1,0 +1,42 @@
+{
+  "scene_id": "C11_S04",
+  "voice": "Thiện Minh",
+  "duration": 32.6289,
+  "segments": [
+    {
+      "text": "Một chặng đường chưa phải điểm cuối.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "title",
+      "start": 0.0,
+      "end": 1.8969
+    },
+    {
+      "text": "Đại hội IX năm 2001 xác định kinh tế thị trường định hướng xã hội chủ nghĩa là mô hình kinh tế tổng quát trong thời kỳ quá độ.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 2.4639,
+      "end": 9.7216
+    },
+    {
+      "text": "Quá trình đẩy mạnh công nghiệp hóa, hiện đại hóa và hội nhập tiếp diễn; ngày 11/1/2007, Việt Nam chính thức trở thành thành viên Tổ chức Thương mại Thế giới.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 9.9691,
+      "end": 19.9485
+    },
+    {
+      "text": "Nhưng mỗi bước tiến cũng tạo ra yêu cầu mới về thể chế, chất lượng tăng trưởng, giáo dục, công nghệ và phát triển bền vững.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 20.1959,
+      "end": 26.299
+    },
+    {
+      "text": "Mỗi cánh cửa mở ra không làm hành trình kết thúc. Nó dẫn tới một căn phòng rộng hơn, với những câu hỏi mới.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "dialogue",
+      "start": 26.5464,
+      "end": 32.2371
+    }
+  ]
+}

@@ -1,0 +1,831 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "97951915": {
+        "pageid": 97951915,
+        "ns": 6,
+        "title": "File:Experience Hanoi, Vietnam.webm",
+        "imagerepository": "local",
+        "videoinfo": [
+          {
+            "size": 175085223,
+            "width": 3840,
+            "height": 1646,
+            "duration": 108.301,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Experience_Hanoi%2C_Vietnam.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Experience_Hanoi,_Vietnam.webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=97951915",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-12-22 13:57:03",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Experience Hanoi, Vietnam",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Media from YouTube|Videos from YouTube|Uploaded with video2commons|FoP-Vietnam|License reviewed by YouTubeReviewBot|Hoàn Kiếm",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Experience Hanoi, Vietnam",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017-11-10",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=B679mG-DZu8\"><bdi lang=\"\">Experience Hanoi, Vietnam</bdi></a> – View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=B679mG-DZu8\">archive.org</a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/channel/UCmnvc7H4N5GL8sV02-grWbQ\">J W</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/channel/UCmnvc7H4N5GL8sV02-grWbQ\">J W</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "derivatives": [
+              {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/77/Experience_Hanoi%2C_Vietnam.webm/Experience_Hanoi%2C_Vietnam.webm.240p.vp9.webm",
+                "type": "video/webm; codecs=\"vp9, opus\"",
+                "transcodekey": "240p.vp9.webm",
+                "width": 426,
+                "height": 182,
+                "bandwidth": 415584
+              },
+              {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/77/Experience_Hanoi%2C_Vietnam.webm/Experience_Hanoi%2C_Vietnam.webm.360p.mpeg4.mov",
+                "type": "video/quicktime; codecs=\"mp4v\"",
+                "transcodekey": "360p.mpeg4.mov",
+                "width": 640,
+                "height": 274,
+                "bandwidth": 965504
+              },
+              {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/77/Experience_Hanoi%2C_Vietnam.webm/Experience_Hanoi%2C_Vietnam.webm.480p.vp9.webm",
+                "type": "video/webm; codecs=\"vp9, opus\"",
+                "transcodekey": "480p.vp9.webm",
+                "width": 854,
+                "height": 366,
+                "bandwidth": 1367608
+              },
+              {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/77/Experience_Hanoi%2C_Vietnam.webm/Experience_Hanoi%2C_Vietnam.webm.1080p.vp9.webm",
+                "type": "video/webm; codecs=\"vp9, opus\"",
+                "transcodekey": "1080p.vp9.webm",
+                "width": 1920,
+                "height": 824,
+                "bandwidth": 5176104
+              }
+            ]
+          }
+        ]
+      },
+      "10731256": {
+        "pageid": 10731256,
+        "ns": 6,
+        "title": "File:Hanoi traffic.ogv",
+        "imagerepository": "local",
+        "videoinfo": [
+          {
+            "size": 3273957,
+            "width": 400,
+            "height": 300,
+            "duration": 40.867120181405895,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Hanoi_traffic.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hanoi_traffic.ogv",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10731256",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2010-06-26 10:44:47",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Hanoi traffic",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Flickr images missing SDC creator|Flickr images missing SDC source of file|Videos of road traffic|Night in Hanoi|Video display resolution 400 x 300|Flickr videos reviewed by trusted users|Videos of road transport in Vietnam|Road transport in Hanoi|Videos from Hanoi",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "interesting swarming behavior- just walk with a constant pace and the traffic will avoid you.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2009-12-28 00:37:58",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "originally posted to <b><a href=\"//commons.wikimedia.org/wiki/Flickr\" class=\"mw-redirect\" title=\"Flickr\">Flickr</a></b> as <a rel=\"nofollow\" class=\"external text\" href=\"https://flickr.com/photos/19601457@N00/4221798314\">evening traffic in Hanoi</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://flickr.com/people/19601457@N00\">Nick Nguyen</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "derivatives": [
+              {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c4/Hanoi_traffic.ogv/Hanoi_traffic.ogv.240p.vp9.webm",
+                "type": "video/webm; codecs=\"vp9, opus\"",
+                "transcodekey": "240p.vp9.webm",
+                "width": 320,
+                "height": 240,
+                "bandwidth": 392800
+              },
+              {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c4/Hanoi_traffic.ogv/Hanoi_traffic.ogv.360p.mpeg4.mov",
+                "type": "video/quicktime; codecs=\"mp4v\"",
+                "transcodekey": "360p.mpeg4.mov",
+                "width": 400,
+                "height": 300,
+                "bandwidth": 1134232
+              }
+            ]
+          }
+        ]
+      },
+      "115353309": {
+        "pageid": 115353309,
+        "ns": 6,
+        "title": "File:Kiln in Vietnam in Chau Thanh District, 11.webm",
+        "imagerepository": "local",
+        "videoinfo": [
+          {
+            "size": 8315881,
+            "width": 1080,
+            "height": 1920,
+            "duration": 6.23,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Kiln_in_Vietnam_in_Chau_Thanh_District%2C_11.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kiln_in_Vietnam_in_Chau_Thanh_District,_11.webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=115353309",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-02-18 16:58:50",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Kiln in Vietnam in Chau Thanh District, 11",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Chaff (agriculture)|Chau Thanh District, Dong Thap|Self-published work|Kilns in Vietnam|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "10.275442",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "105.801781",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Rice chaff is being used as fuel in traditional kiln in Chau Thanh District, Dong Thap province, Vietnam",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-02-12 08:42:32",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Running\" class=\"mw-redirect\" title=\"User:Running\">Karel Bilek</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "derivatives": [
+              {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c9/Kiln_in_Vietnam_in_Chau_Thanh_District%2C_11.webm/Kiln_in_Vietnam_in_Chau_Thanh_District%2C_11.webm.240p.vp9.webm",
+                "type": "video/webm; codecs=\"vp9, opus\"",
+                "transcodekey": "240p.vp9.webm",
+                "width": 136,
+                "height": 240,
+                "bandwidth": 210312
+              },
+              {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c9/Kiln_in_Vietnam_in_Chau_Thanh_District%2C_11.webm/Kiln_in_Vietnam_in_Chau_Thanh_District%2C_11.webm.360p.mpeg4.mov",
+                "type": "video/quicktime; codecs=\"mp4v\"",
+                "transcodekey": "360p.mpeg4.mov",
+                "width": 202,
+                "height": 360,
+                "bandwidth": 1703408
+              },
+              {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c9/Kiln_in_Vietnam_in_Chau_Thanh_District%2C_11.webm/Kiln_in_Vietnam_in_Chau_Thanh_District%2C_11.webm.480p.vp9.webm",
+                "type": "video/webm; codecs=\"vp9, opus\"",
+                "transcodekey": "480p.vp9.webm",
+                "width": 270,
+                "height": 480,
+                "bandwidth": 724848
+              },
+              {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c9/Kiln_in_Vietnam_in_Chau_Thanh_District%2C_11.webm/Kiln_in_Vietnam_in_Chau_Thanh_District%2C_11.webm.1080p.vp9.webm",
+                "type": "video/webm; codecs=\"vp9, opus\"",
+                "transcodekey": "1080p.vp9.webm",
+                "width": 608,
+                "height": 1080,
+                "bandwidth": 4022400
+              }
+            ]
+          }
+        ]
+      },
+      "199834273": {
+        "pageid": 199834273,
+        "ns": 6,
+        "title": "File:Manifestation à Hanoï pendant la conférence de Genève.webm",
+        "imagerepository": "local",
+        "videoinfo": [
+          {
+            "size": 32590392,
+            "width": 1024,
+            "height": 576,
+            "duration": 124.017,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Manifestation_%C3%A0_Hano%C3%AF_pendant_la_conf%C3%A9rence_de_Gen%C3%A8ve.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Manifestation_%C3%A0_Hano%C3%AF_pendant_la_conf%C3%A9rence_de_Gen%C3%A8ve.webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=199834273",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-09-20 00:26:45",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Manifestation à Hanoï pendant la conférence de Genève",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Geneva Conference (1954)|1954 in Vietnam|PD France|Template Unknown (author)|Uploaded with video2commons",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Une manifestation se déroule dans le centre-ville d'Hanoï, durant la Conférence de Genève. La population vietnamienne proteste contre le partage de l'Indochine et soutient le Viêt-minh. Un vietnamien prononce un discours pour déclamer son mécontentement.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1954-07-19",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://archives.ecpad.fr/archives/consulter-les-archives-en-ligne?detail=33365\">https://archives.ecpad.fr/archives/consulter-les-archives-en-ligne?detail=33365</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "derivatives": [
+              {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0c/Manifestation_%C3%A0_Hano%C3%AF_pendant_la_conf%C3%A9rence_de_Gen%C3%A8ve.webm/Manifestation_%C3%A0_Hano%C3%AF_pendant_la_conf%C3%A9rence_de_Gen%C3%A8ve.webm.240p.vp9.webm",
+                "type": "video/webm; codecs=\"vp9, opus\"",
+                "transcodekey": "240p.vp9.webm",
+                "width": 426,
+                "height": 240,
+                "bandwidth": 259352
+              },
+              {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0c/Manifestation_%C3%A0_Hano%C3%AF_pendant_la_conf%C3%A9rence_de_Gen%C3%A8ve.webm/Manifestation_%C3%A0_Hano%C3%AF_pendant_la_conf%C3%A9rence_de_Gen%C3%A8ve.webm.360p.mpeg4.mov",
+                "type": "video/quicktime; codecs=\"mp4v\"",
+                "transcodekey": "360p.mpeg4.mov",
+                "width": 640,
+                "height": 360,
+                "bandwidth": 966784
+              },
+              {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0c/Manifestation_%C3%A0_Hano%C3%AF_pendant_la_conf%C3%A9rence_de_Gen%C3%A8ve.webm/Manifestation_%C3%A0_Hano%C3%AF_pendant_la_conf%C3%A9rence_de_Gen%C3%A8ve.webm.480p.vp9.webm",
+                "type": "video/webm; codecs=\"vp9, opus\"",
+                "transcodekey": "480p.vp9.webm",
+                "width": 854,
+                "height": 480,
+                "bandwidth": 829248
+              }
+            ]
+          }
+        ]
+      },
+      "18309800": {
+        "pageid": 18309800,
+        "ns": 6,
+        "title": "File:Paris Peace Talks.ogv",
+        "imagerepository": "local",
+        "videoinfo": [
+          {
+            "size": 46870678,
+            "width": 400,
+            "height": 300,
+            "duration": 639.6062729396062,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Paris_Peace_Talks.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Paris_Peace_Talks.ogv",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=18309800",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2012-02-07 20:26:23",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Paris Peace Talks",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Vietnam War in 1971|PD US Government|CC-PD-Mark|Video display resolution 400 x 300|Echo Newsreels",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "National Archives - Vietnam War - National Security Council. Central Intelligence Agency. (09/18/1947 - 12/04/1981). - This newsreel film explores the personalities of the negotiators at the Paris Peace Talks and the prospects for peace in Vietnam. - DVD Copied by IASL Scanner Thomas Gideon. - ARC 1663615 / LI 263.1220",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1972",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/details/gov.archives.arc.1663615\">https://archive.org/details/gov.archives.arc.1663615</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "National Archives",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "derivatives": [
+              {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9e/Paris_Peace_Talks.ogv/Paris_Peace_Talks.ogv.240p.vp9.webm",
+                "type": "video/webm; codecs=\"vp9, opus\"",
+                "transcodekey": "240p.vp9.webm",
+                "width": 320,
+                "height": 240,
+                "bandwidth": 306096
+              },
+              {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9e/Paris_Peace_Talks.ogv/Paris_Peace_Talks.ogv.360p.mpeg4.mov",
+                "type": "video/quicktime; codecs=\"mp4v\"",
+                "transcodekey": "360p.mpeg4.mov",
+                "width": 400,
+                "height": 300,
+                "bandwidth": 1132696
+              }
+            ]
+          }
+        ]
+      },
+      "61714404": {
+        "pageid": 61714404,
+        "ns": 6,
+        "title": "File:Robot khổng lồ thi công nhà ga ngầm metro số 1 của Sài Gòn.ogv",
+        "imagerepository": "local",
+        "videoinfo": [
+          {
+            "size": 162117699,
+            "width": 1280,
+            "height": 720,
+            "duration": 119.88462585034014,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Robot_kh%E1%BB%95ng_l%E1%BB%93_thi_c%C3%B4ng_nh%C3%A0_ga_ng%E1%BA%A7m_metro_s%E1%BB%91_1_c%E1%BB%A7a_S%C3%A0i_G%C3%B2n.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Robot_kh%E1%BB%95ng_l%E1%BB%93_thi_c%C3%B4ng_nh%C3%A0_ga_ng%E1%BA%A7m_metro_s%E1%BB%91_1_c%E1%BB%A7a_S%C3%A0i_G%C3%B2n.ogv",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=61714404",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-08-16 10:50:19",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Robot khổng lồ thi công nhà ga ngầm metro số 1 của Sài Gòn",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Media from YouTube|Files from external sources with reviewed licenses|Relations of Japan and Vietnam|Ho Chi Minh City Metro Line 1|Videos of tunnel boring machines",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "A tunnel boring machine (TBM) from Japan with diameter 90 m and mass 300 tons being assembled by construction crew to dig a rail tunnel from the Ba Son Station to the City Opera House Station.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017-04-07",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=kpxKDOX9IpE\"><bdi lang=\"\">https://www.youtube.com/watch?v=kpxKDOX9IpE</bdi></a> – View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=kpxKDOX9IpE\">archive.org</a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/channel/UCZ_524qxd7EVXCGezDuHoSQ\">Thời sự VnExpress</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "derivatives": [
+              {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e6/Robot_kh%E1%BB%95ng_l%E1%BB%93_thi_c%C3%B4ng_nh%C3%A0_ga_ng%E1%BA%A7m_metro_s%E1%BB%91_1_c%E1%BB%A7a_S%C3%A0i_G%C3%B2n.ogv/Robot_kh%E1%BB%95ng_l%E1%BB%93_thi_c%C3%B4ng_nh%C3%A0_ga_ng%E1%BA%A7m_metro_s%E1%BB%91_1_c%E1%BB%A7a_S%C3%A0i_G%C3%B2n.ogv.240p.vp9.webm",
+                "type": "video/webm; codecs=\"vp9, opus\"",
+                "transcodekey": "240p.vp9.webm",
+                "width": 426,
+                "height": 240,
+                "bandwidth": 357800
+              },
+              {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e6/Robot_kh%E1%BB%95ng_l%E1%BB%93_thi_c%C3%B4ng_nh%C3%A0_ga_ng%E1%BA%A7m_metro_s%E1%BB%91_1_c%E1%BB%A7a_S%C3%A0i_G%C3%B2n.ogv/Robot_kh%E1%BB%95ng_l%E1%BB%93_thi_c%C3%B4ng_nh%C3%A0_ga_ng%E1%BA%A7m_metro_s%E1%BB%91_1_c%E1%BB%A7a_S%C3%A0i_G%C3%B2n.ogv.360p.mpeg4.mov",
+                "type": "video/quicktime; codecs=\"mp4v\"",
+                "transcodekey": "360p.mpeg4.mov",
+                "width": 640,
+                "height": 360,
+                "bandwidth": 966608
+              },
+              {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e6/Robot_kh%E1%BB%95ng_l%E1%BB%93_thi_c%C3%B4ng_nh%C3%A0_ga_ng%E1%BA%A7m_metro_s%E1%BB%91_1_c%E1%BB%A7a_S%C3%A0i_G%C3%B2n.ogv/Robot_kh%E1%BB%95ng_l%E1%BB%93_thi_c%C3%B4ng_nh%C3%A0_ga_ng%E1%BA%A7m_metro_s%E1%BB%91_1_c%E1%BB%A7a_S%C3%A0i_G%C3%B2n.ogv.480p.vp9.webm",
+                "type": "video/webm; codecs=\"vp9, opus\"",
+                "transcodekey": "480p.vp9.webm",
+                "width": 854,
+                "height": 480,
+                "bandwidth": 1123296
+              }
+            ]
+          }
+        ]
+      },
+      "172583452": {
+        "pageid": 172583452,
+        "ns": 6,
+        "title": "File:USAF Air Strikes in North Vietnam in 1966 Bombing of Hanoi.webm",
+        "imagerepository": "local",
+        "videoinfo": [
+          {
+            "size": 256045229,
+            "width": 678,
+            "height": 442,
+            "duration": 801.767,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/USAF_Air_Strikes_in_North_Vietnam_in_1966_Bombing_of_Hanoi.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:USAF_Air_Strikes_in_North_Vietnam_in_1966_Bombing_of_Hanoi.webm",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=172583452",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-08-14 15:31:37",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "USAF Air Strikes in North Vietnam in 1966 Bombing of Hanoi",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Vietnam War in 1966|Republic aircraft|PD US Military|Republic F-105 Thunderchief|Operation Rolling Thunder",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "USAF Air Strikes in North Vietnam in 1966 Bombing of Hanoi",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-08-13",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=QOENuYqjH74\">USAF Strikes in North Vietnam in 1966 Bombing of Hanoi</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "USDoD / USAF",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "derivatives": [
+              {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7e/USAF_Air_Strikes_in_North_Vietnam_in_1966_Bombing_of_Hanoi.webm/USAF_Air_Strikes_in_North_Vietnam_in_1966_Bombing_of_Hanoi.webm.240p.vp9.webm",
+                "type": "video/webm; codecs=\"vp9, opus\"",
+                "transcodekey": "240p.vp9.webm",
+                "width": 368,
+                "height": 240,
+                "bandwidth": 301608
+              },
+              {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7e/USAF_Air_Strikes_in_North_Vietnam_in_1966_Bombing_of_Hanoi.webm/USAF_Air_Strikes_in_North_Vietnam_in_1966_Bombing_of_Hanoi.webm.360p.mpeg4.mov",
+                "type": "video/quicktime; codecs=\"mp4v\"",
+                "transcodekey": "360p.mpeg4.mov",
+                "width": 552,
+                "height": 360,
+                "bandwidth": 1133096
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

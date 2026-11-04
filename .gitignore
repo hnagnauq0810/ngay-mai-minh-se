@@ -1,0 +1,17 @@
+node_modules/
+.next/
+out/
+.vercel/
+*.log
+.env*
+!*.example
+.DS_Store
+__pycache__/
+*.pyc
+playwright-report/
+test-results/
+.venv-voice/
+.cache/
+*.part
+public/assets/voice-story-ngoc-linh/
+standalone/assets/voice-story-ngoc-linh/

@@ -1,0 +1,42 @@
+{
+  "scene_id": "C02_S02",
+  "voice": "Thiện Minh",
+  "duration": 28.9175,
+  "segments": [
+    {
+      "text": "Cả vùng đất chuyển động.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "title",
+      "start": 0.0,
+      "end": 1.0722
+    },
+    {
+      "text": "Trong cao trào cách mạng 1930–1931, đặc biệt tại Nghệ An và Hà Tĩnh, phong trào quần chúng phát triển mạnh; tại một số địa phương xuất hiện hình thức chính quyền Xô viết.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 1.6392,
+      "end": 12.2784
+    },
+    {
+      "text": "Bên cạnh sức lan tỏa của phong trào là cuộc đàn áp khốc liệt của chính quyền thực dân.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 12.5258,
+      "end": 17.1443
+    },
+    {
+      "text": "Những thiệt hại này cần được kể như một phần của lịch sử, không được bỏ qua vì muốn tạo nên đoạn phim hào hùng.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 17.3918,
+      "end": 23.2474
+    },
+    {
+      "text": "Để hiểu ý nghĩa một phong trào, ta phải nhìn cả điều nó tạo ra lẫn cái giá những người tham gia phải chịu.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "dialogue",
+      "start": 23.4948,
+      "end": 28.5258
+    }
+  ]
+}

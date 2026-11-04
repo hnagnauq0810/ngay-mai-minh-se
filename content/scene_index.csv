@@ -1,0 +1,56 @@
+﻿scene_id,script_ref,chapter,chapter_title,title,narration_words,content_status,historical_claim_ids,assets_status
+PRO_S01,P.1,,MỞ ĐẦU,Một buổi sáng bình thường,96,draft,NOT_MAPPED,NOT_LICENSED
+PRO_S02,P.2,,MỞ ĐẦU,Một câu trả lời khó,92,draft,NOT_MAPPED,NOT_LICENSED
+C01_S01,1.1,01,MỘT ĐẤT NƯỚC ĐANG TÌM ĐƯỜNG,Buổi sáng không ai giống ai,98,draft,NOT_MAPPED,NOT_LICENSED
+C01_S02,1.2,01,MỘT ĐẤT NƯỚC ĐANG TÌM ĐƯỜNG,Những con đường được thử nghiệm,95,draft,NOT_MAPPED,NOT_LICENSED
+C01_S03,1.3,01,MỘT ĐẤT NƯỚC ĐANG TÌM ĐƯỜNG,Một hành trình dài hơn một thập niên,90,draft,NOT_MAPPED,NOT_LICENSED
+C01_S04,1.4,01,MỘT ĐẤT NƯỚC ĐANG TÌM ĐƯỜNG,Khi những tiếng nói tìm được điểm chung,102,draft,NOT_MAPPED,NOT_LICENSED
+C02_S01,2.1,02,NHỮNG TIẾNG NÓI KHÔNG CHỊU IM LẶNG,Một buổi chờ tin,96,draft,NOT_MAPPED,NOT_LICENSED
+C02_S02,2.2,02,NHỮNG TIẾNG NÓI KHÔNG CHỊU IM LẶNG,Cả vùng đất chuyển động,78,draft,NOT_MAPPED,NOT_LICENSED
+C02_S03,2.3,02,NHỮNG TIẾNG NÓI KHÔNG CHỊU IM LẶNG,Một văn kiện và những giới hạn,92,draft,NOT_MAPPED,NOT_LICENSED
+C02_S04,2.4,02,NHỮNG TIẾNG NÓI KHÔNG CHỊU IM LẶNG,Đứng dậy sau thử thách,72,draft,NOT_MAPPED,NOT_LICENSED
+C03_S01,3.1,03,KHI MỘT TỜ BÁO CŨNG TRỞ THÀNH TIẾNG NÓI,Người đọc báo đầu phố,78,draft,NOT_MAPPED,NOT_LICENSED
+C03_S02,3.2,03,KHI MỘT TỜ BÁO CŨNG TRỞ THÀNH TIẾNG NÓI,Tình hình thế giới thay đổi,77,draft,NOT_MAPPED,NOT_LICENSED
+C03_S03,3.3,03,KHI MỘT TỜ BÁO CŨNG TRỞ THÀNH TIẾNG NÓI,Tiếng nói tập hợp,82,draft,NOT_MAPPED,NOT_LICENSED
+C03_S04,3.4,03,KHI MỘT TỜ BÁO CŨNG TRỞ THÀNH TIẾNG NÓI,Trước cơn bão mới,64,draft,NOT_MAPPED,NOT_LICENSED
+C04_S01,4.1,04,THỜI CƠ KHÔNG ĐỢI AI,Một ngày trong tháng Tám,77,draft,NOT_MAPPED,NOT_LICENSED
+C04_S02,4.2,04,THỜI CƠ KHÔNG ĐỢI AI,Đặt độc lập lên hàng đầu,85,draft,NOT_MAPPED,NOT_LICENSED
+C04_S03,4.3,04,THỜI CƠ KHÔNG ĐỢI AI,Một cánh cửa mở rất nhanh,77,draft,NOT_MAPPED,NOT_LICENSED
+C04_S04,4.4,04,THỜI CƠ KHÔNG ĐỢI AI,Tiếng nói về một nước độc lập,77,draft,NOT_MAPPED,NOT_LICENSED
+C05_S01,5.1,05,GIỮ LẤY MỘT NGÀY BÌNH THƯỜNG,Một bữa cơm có tiếng cười hay chưa?,98,draft,NOT_MAPPED,NOT_LICENSED
+C05_S02,5.2,05,GIỮ LẤY MỘT NGÀY BÌNH THƯỜNG,Một lớp học không chỉ dành cho trẻ em,93,draft,NOT_MAPPED,NOT_LICENSED
+C05_S03,5.3,05,GIỮ LẤY MỘT NGÀY BÌNH THƯỜNG,Một lá phiếu và một chính quyền,85,draft,NOT_MAPPED,NOT_LICENSED
+C05_S04,5.4,05,GIỮ LẤY MỘT NGÀY BÌNH THƯỜNG,Khi hiểm nguy tới gần,94,draft,NOT_MAPPED,NOT_LICENSED
+C06_S01,6.1,06,CÓ NHỮNG CON ĐƯỜNG KHÔNG Ở TRÊN BẢN ĐỒ,Một chuyến gạo trước bình minh,86,draft,NOT_MAPPED,NOT_LICENSED
+C06_S02,6.2,06,CÓ NHỮNG CON ĐƯỜNG KHÔNG Ở TRÊN BẢN ĐỒ,Vì sao lại là kháng chiến toàn dân?,89,draft,NOT_MAPPED,NOT_LICENSED
+C06_S03,6.3,06,CÓ NHỮNG CON ĐƯỜNG KHÔNG Ở TRÊN BẢN ĐỒ,Những nấc thang của một cuộc kháng chiến,89,draft,NOT_MAPPED,NOT_LICENSED
+C06_S04,6.4,06,CÓ NHỮNG CON ĐƯỜNG KHÔNG Ở TRÊN BẢN ĐỒ,Con đường đến Điện Biên Phủ,88,draft,NOT_MAPPED,NOT_LICENSED
+C06_S05,6.5,06,CÓ NHỮNG CON ĐƯỜNG KHÔNG Ở TRÊN BẢN ĐỒ,"Hòa bình trên văn kiện, tương lai còn mở",89,draft,NOT_MAPPED,NOT_LICENSED
+C07_S01,7.1,07,HAI NỬA CỦA MỘT BẦU TRỜI,"Một dòng sông, hai nhịp sống",98,draft,NOT_MAPPED,NOT_LICENSED
+C07_S02,7.2,07,HAI NỬA CỦA MỘT BẦU TRỜI,Miền Bắc: xây dựng và sửa sai,85,draft,NOT_MAPPED,NOT_LICENSED
+C07_S03,7.3,07,HAI NỬA CỦA MỘT BẦU TRỜI,Miền Nam: những biến động chính trị,104,draft,NOT_MAPPED,NOT_LICENSED
+C07_S04,7.4,07,HAI NỬA CỦA MỘT BẦU TRỜI,"Hai nhiệm vụ, một mục tiêu",96,draft,NOT_MAPPED,NOT_LICENSED
+C07_S05,7.5,07,HAI NỬA CỦA MỘT BẦU TRỜI,Những dự định trước cơn bão,72,draft,NOT_MAPPED,NOT_LICENSED
+C08_S01,8.1,08,NGÀY HAI KHUNG HÌNH GẶP NHAU,"Hai buổi sáng, cùng một năm",97,draft,NOT_MAPPED,NOT_LICENSED
+C08_S02,8.2,08,NGÀY HAI KHUNG HÌNH GẶP NHAU,Một bước ngoặt nhiều hệ quả,102,draft,NOT_MAPPED,NOT_LICENSED
+C08_S03,8.3,08,NGÀY HAI KHUNG HÌNH GẶP NHAU,Một văn kiện chưa kết thúc mọi tiếng súng,82,draft,NOT_MAPPED,NOT_LICENSED
+C08_S04,8.4,08,NGÀY HAI KHUNG HÌNH GẶP NHAU,Ba chặng của mùa Xuân,100,draft,NOT_MAPPED,NOT_LICENSED
+C08_S05,8.5,08,NGÀY HAI KHUNG HÌNH GẶP NHAU,Sau tiếng reo vui là việc phải làm,77,draft,NOT_MAPPED,NOT_LICENSED
+C09_S01,9.1,09,HÒA BÌNH KHÔNG CÓ NGHĨA LÀ HẾT KHÓ KHĂN,Mái nhà cần được dựng lại,92,draft,NOT_MAPPED,NOT_LICENSED
+C09_S02,9.2,09,HÒA BÌNH KHÔNG CÓ NGHĨA LÀ HẾT KHÓ KHĂN,"Một nước, một nhà nước thống nhất",90,draft,NOT_MAPPED,NOT_LICENSED
+C09_S03,9.3,09,HÒA BÌNH KHÔNG CÓ NGHĨA LÀ HẾT KHÓ KHĂN,Những khó khăn không thể bỏ qua,91,draft,NOT_MAPPED,NOT_LICENSED
+C09_S04,9.4,09,HÒA BÌNH KHÔNG CÓ NGHĨA LÀ HẾT KHÓ KHĂN,Giữ nước trong thời bình,96,draft,NOT_MAPPED,NOT_LICENSED
+C10_S01,10.1,10,KHI CÁCH LÀM CŨ KHÔNG CÒN PHÙ HỢP,Cánh đồng cần thêm một cách nghĩ,90,draft,NOT_MAPPED,NOT_LICENSED
+C10_S02,10.2,10,KHI CÁCH LÀM CŨ KHÔNG CÒN PHÙ HỢP,Một xưởng máy cần được chủ động,88,draft,NOT_MAPPED,NOT_LICENSED
+C10_S03,10.3,10,KHI CÁCH LÀM CŨ KHÔNG CÒN PHÙ HỢP,Một lần cải cách không thành công,91,draft,NOT_MAPPED,NOT_LICENSED
+C10_S04,10.4,10,KHI CÁCH LÀM CŨ KHÔNG CÒN PHÙ HỢP,Từ khó khăn đến yêu cầu đổi mới,90,draft,NOT_MAPPED,NOT_LICENSED
+C11_S01,11.1,11,NHỮNG CÁNH CỬA DẦN MỞ,Hạt giống và quyền chủ động,97,draft,NOT_MAPPED,NOT_LICENSED
+C11_S02,11.2,11,NHỮNG CÁNH CỬA DẦN MỞ,"Học nghề, đổi việc, mở tầm nhìn",101,draft,NOT_MAPPED,NOT_LICENSED
+C11_S03,11.3,11,NHỮNG CÁNH CỬA DẦN MỞ,Một cánh cửa mang tên hội nhập,78,draft,NOT_MAPPED,NOT_LICENSED
+C11_S04,11.4,11,NHỮNG CÁNH CỬA DẦN MỞ,Một chặng đường chưa phải điểm cuối,86,draft,NOT_MAPPED,NOT_LICENSED
+C12_S01,12.1,12,NGÀY MAI THUỘC VỀ AI?,Những việc ta coi là bình thường,85,draft,NOT_MAPPED,NOT_LICENSED
+C12_S02,12.2,12,NGÀY MAI THUỘC VỀ AI?,Bốn thập niên Đổi mới và những bài học,102,draft,NOT_MAPPED,NOT_LICENSED
+C12_S03,12.3,12,NGÀY MAI THUỘC VỀ AI?,Năm 2026 và những mục tiêu phía trước,112,draft,NOT_MAPPED,NOT_LICENSED
+C12_S04,12.4,12,NGÀY MAI THUỘC VỀ AI?,Khi câu hỏi trở về chính bạn,86,draft,NOT_MAPPED,NOT_LICENSED
+EPI_S01,E.1,,KẾT THÚC,Lặp lại một buổi sáng,100,draft,NOT_MAPPED,NOT_LICENSED
+EPI_S02,E.2,,KẾT THÚC,Lời hứa không bắt buộc,91,draft,NOT_MAPPED,NOT_LICENSED

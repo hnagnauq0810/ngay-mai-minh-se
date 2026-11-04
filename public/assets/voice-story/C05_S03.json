@@ -1,0 +1,56 @@
+{
+  "scene_id": "C05_S03",
+  "voice": "Thiện Minh",
+  "duration": 33.433,
+  "segments": [
+    {
+      "text": "Một lá phiếu và một chính quyền.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "title",
+      "start": 0.0,
+      "end": 1.8969
+    },
+    {
+      "text": "Giữa những thử thách, chính quyền mới tổ chức Tổng tuyển cử bầu Quốc hội khóa I ngày 6/1/1946.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 2.4639,
+      "end": 8.732
+    },
+    {
+      "text": "Quá trình xây dựng chính quyền dân chủ nhân dân và thông qua Hiến pháp năm 1946 đặt nền tảng pháp lý cho nhà nước mới.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 8.9794,
+      "end": 16.732
+    },
+    {
+      "text": "Trong cùng thời gian, các phong trào tài chính, sản xuất và đoàn kết xã hội được thúc đẩy.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 16.9794,
+      "end": 21.268
+    },
+    {
+      "text": "Đó là công việc xây dựng đất nước ngay khi nền độc lập còn ở trong tình thế bị đe dọa.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 21.5155,
+      "end": 26.134
+    },
+    {
+      "text": "Vậy giành chính quyền chỉ là bước đầu?",
+      "speaker": "CON",
+      "kind": "dialogue",
+      "start": 26.3814,
+      "end": 28.1959
+    },
+    {
+      "text": "Phải có những thiết chế và việc làm cụ thể để quyền độc lập trở thành đời sống của người dân.",
+      "speaker": "MẸ",
+      "kind": "dialogue",
+      "start": 28.5876,
+      "end": 33.0412
+    }
+  ]
+}

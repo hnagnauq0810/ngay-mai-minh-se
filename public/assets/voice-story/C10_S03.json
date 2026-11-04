@@ -1,0 +1,56 @@
+{
+  "scene_id": "C10_S03",
+  "voice": "Thiện Minh",
+  "duration": 31.866,
+  "segments": [
+    {
+      "text": "Một lần cải cách không thành công.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "title",
+      "start": 0.0,
+      "end": 1.6495
+    },
+    {
+      "text": "Năm 1985, cải cách giá – lương – tiền được tiến hành với kỳ vọng khắc phục những bất cập.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 2.2165,
+      "end": 7.8247
+    },
+    {
+      "text": "Nhưng cải cách không đạt kết quả mong muốn, gây xáo trộn lớn trong kinh tế – xã hội.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 8.0722,
+      "end": 12.2784
+    },
+    {
+      "text": "Đó là một ví dụ quan trọng cho thấy chính sách có thể có mục tiêu đúng nhưng tổ chức thực hiện và những điều kiện nền tảng không phù hợp thì kết quả có thể đi ngược kỳ vọng.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 12.5258,
+      "end": 21.433
+    },
+    {
+      "text": "Không nên bỏ qua thất bại này trong câu chuyện Đổi mới.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 21.6804,
+      "end": 24.567
+    },
+    {
+      "text": "Vậy lịch sử có những quyết định không thành công?",
+      "speaker": "CON",
+      "kind": "dialogue",
+      "start": 24.8144,
+      "end": 27.2062
+    },
+    {
+      "text": "Có. Và bài học đôi khi đến từ cách người ta nhìn nhận điều chưa thành công.",
+      "speaker": "MẸ",
+      "kind": "dialogue",
+      "start": 27.5979,
+      "end": 31.4742
+    }
+  ]
+}

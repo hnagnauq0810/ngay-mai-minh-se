@@ -1,0 +1,56 @@
+{
+  "scene_id": "C11_S03",
+  "voice": "Thiện Minh",
+  "duration": 32.1959,
+  "segments": [
+    {
+      "text": "Một cánh cửa mang tên hội nhập.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "title",
+      "start": 0.0,
+      "end": 1.6495
+    },
+    {
+      "text": "Không chỉ trong nước, quan hệ quốc tế của Việt Nam cũng có những bước mở rộng.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 2.2165,
+      "end": 6.0103
+    },
+    {
+      "text": "Ngày 28/7/1995, Việt Nam trở thành thành viên ASEAN.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 6.2577,
+      "end": 11.4536
+    },
+    {
+      "text": "Công cuộc hội nhập diễn ra song song với những thay đổi trong chính sách đối ngoại, thương mại và phát triển kinh tế.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 11.701,
+      "end": 17.4742
+    },
+    {
+      "text": "Những đường kết nối mới đồng nghĩa cơ hội hợp tác lớn hơn, đồng thời đặt ra yêu cầu nâng cao năng lực cạnh tranh và thích ứng.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 17.7216,
+      "end": 24.1546
+    },
+    {
+      "text": "Mở cửa thì có phải mọi thứ đều thuận lợi hơn?",
+      "speaker": "CON",
+      "kind": "dialogue",
+      "start": 24.4021,
+      "end": 27.2062
+    },
+    {
+      "text": "Có cơ hội mới, nhưng cũng có những thử thách mới mà đất nước phải học cách đối diện.",
+      "speaker": "MẸ",
+      "kind": "dialogue",
+      "start": 27.5979,
+      "end": 31.8041
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "scene_id": "EPI_S01",
+  "voice": "Thiện Minh",
+  "duration": 35.9897,
+  "segments": [
+    {
+      "text": "Lặp lại một buổi sáng.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "title",
+      "start": 0.0,
+      "end": 1.3196
+    },
+    {
+      "text": "Vẫn là chiếc cặp sách.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 1.8866,
+      "end": 3.1237
+    },
+    {
+      "text": "Vẫn là bữa cơm.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 3.3711,
+      "end": 4.4433
+    },
+    {
+      "text": "Vẫn là con đường đến trường và những cuộc gặp gỡ.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 4.6907,
+      "end": 7.2474
+    },
+    {
+      "text": "Nhưng sau chuyến đi qua lịch sử, những hình ảnh ấy không còn đơn giản như lúc đầu.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 7.4948,
+      "end": 11.6186
+    },
+    {
+      "text": "Chúng ta vừa nhìn thấy những cuộc tìm đường cứu nước, những năm đấu tranh, những lựa chọn trong chiến tranh, những khó khăn của tái thiết và chặng đường Đổi mới.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 11.866,
+      "end": 19.701
+    },
+    {
+      "text": "Những điều bình thường hôm nay được đặt trong một lịch sử dài, có thành tựu, mất mát, thử thách và cả những điều cần tiếp tục làm tốt hơn.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 19.9485,
+      "end": 26.7938
+    },
+    {
+      "text": "Con nghĩ con hiểu hơn rồi. Hòa bình không phải mọi chuyện sẽ tự tốt lên, đúng không mẹ?",
+      "speaker": "CON",
+      "kind": "dialogue",
+      "start": 27.0412,
+      "end": 31.7423
+    },
+    {
+      "text": "Ừ. Nó là điều rất quý, và cũng là trách nhiệm phải giữ gìn.",
+      "speaker": "MẸ",
+      "kind": "dialogue",
+      "start": 32.134,
+      "end": 35.5979
+    }
+  ]
+}

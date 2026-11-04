@@ -1,0 +1,56 @@
+{
+  "scene_id": "C09_S03",
+  "voice": "Thiện Minh",
+  "duration": 33.9691,
+  "segments": [
+    {
+      "text": "Những khó khăn không thể bỏ qua.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "title",
+      "start": 0.0,
+      "end": 1.8144
+    },
+    {
+      "text": "Tàn phá chiến tranh, nguồn lực hạn chế, những khó khăn trong quản lý và sản xuất, cùng bối cảnh quốc tế bất lợi khiến kinh tế – xã hội nước ta gặp nhiều thách thức.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 2.3814,
+      "end": 10.5464
+    },
+    {
+      "text": "Cơ chế tập trung, quan liêu, bao cấp bộc lộ ngày càng rõ các hạn chế.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 10.7938,
+      "end": 14.6701
+    },
+    {
+      "text": "Từ bữa cơm gia đình, câu chuyện mở ra câu hỏi về cách tổ chức sản xuất, phân phối và động lực lao động: vì sao người dân làm việc mà hàng hóa và đời sống vẫn thiếu thốn?",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 14.9175,
+      "end": 23.9072
+    },
+    {
+      "text": "Mai ra chợ, không biết có đủ thứ nhà mình cần không.",
+      "speaker": "NGƯỜI MẸ (hư cấu)",
+      "kind": "dialogue",
+      "start": 24.299,
+      "end": 27.268
+    },
+    {
+      "text": "Vậy đâu chỉ chiến tranh mới làm cuộc sống khó?",
+      "speaker": "CON",
+      "kind": "dialogue",
+      "start": 27.6598,
+      "end": 30.0515
+    },
+    {
+      "text": "Đúng. Kinh tế và cách quản lý cũng quyết định đời sống.",
+      "speaker": "MẸ",
+      "kind": "dialogue",
+      "start": 30.4433,
+      "end": 33.5773
+    }
+  ]
+}

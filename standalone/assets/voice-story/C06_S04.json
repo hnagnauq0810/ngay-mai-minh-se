@@ -1,0 +1,49 @@
+{
+  "scene_id": "C06_S04",
+  "voice": "Thiện Minh",
+  "duration": 33.3505,
+  "segments": [
+    {
+      "text": "Con đường đến Điện Biên Phủ.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "title",
+      "start": 0.0,
+      "end": 1.3196
+    },
+    {
+      "text": "Từ ngày 13/3 đến 7/5/1954, chiến dịch Điện Biên Phủ diễn ra qua nhiều đợt tiến công.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 1.8866,
+      "end": 8.567
+    },
+    {
+      "text": "Thắng lợi là kết quả tổng hợp của đường lối lãnh đạo, chỉ huy, chiến đấu của lực lượng vũ trang, sức dân, hậu cần và sự ủng hộ quốc tế.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 8.8144,
+      "end": 15.8247
+    },
+    {
+      "text": "Những chiếc xe đạp thồ, các tuyến đường vận tải và công việc nuôi quân không thay thế câu chuyện chiến đấu, nhưng giúp người xem hiểu vì sao hậu phương trở thành yếu tố quan trọng của chiến trường.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 16.0722,
+      "end": 25.8041
+    },
+    {
+      "text": "Mai mình còn phải đi một chuyến nữa.",
+      "speaker": "DÂN CÔNG (hư cấu, cuối cảnh)",
+      "kind": "dialogue",
+      "start": 26.0515,
+      "end": 28.1134
+    },
+    {
+      "text": "Có những bước chân đi phía sau chiến tuyến nhưng vẫn góp vào sự thay đổi của lịch sử.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "dialogue",
+      "start": 28.5052,
+      "end": 32.9588
+    }
+  ]
+}

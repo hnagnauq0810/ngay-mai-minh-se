@@ -1,0 +1,49 @@
+{
+  "scene_id": "C08_S05",
+  "voice": "Thiện Minh",
+  "duration": 31.0412,
+  "segments": [
+    {
+      "text": "Sau tiếng reo vui là việc phải làm.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "title",
+      "start": 0.0,
+      "end": 2.2268
+    },
+    {
+      "text": "Thắng lợi 1975 kết thúc cuộc kháng chiến và mở ra thời kỳ cả nước cùng xây dựng, bảo vệ Tổ quốc.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 2.7938,
+      "end": 8.732
+    },
+    {
+      "text": "Nhưng ba thập niên chiến tranh để lại thiệt hại vật chất, mất mát con người và những khó khăn rất lớn.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 8.9794,
+      "end": 14.4227
+    },
+    {
+      "text": "Bước sang phần tiếp theo, câu hỏi của đứa trẻ không còn là khi nào chiến tranh kết thúc, mà là sau đó người ta xây dựng cuộc sống mới bằng cách nào.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 14.6701,
+      "end": 22.5876
+    },
+    {
+      "text": "Hết chiến tranh rồi, chắc mọi việc sẽ dễ hơn?",
+      "speaker": "CON",
+      "kind": "dialogue",
+      "start": 22.8351,
+      "end": 25.6392
+    },
+    {
+      "text": "Có nhiều điều được bắt đầu lại, nhưng không điều gì được giải quyết chỉ bằng một ngày chiến thắng.",
+      "speaker": "MẸ",
+      "kind": "dialogue",
+      "start": 26.0309,
+      "end": 30.6495
+    }
+  ]
+}

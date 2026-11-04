@@ -1,0 +1,176 @@
+{
+  "version": "1.0.0",
+  "chapters": [
+    {
+      "id": "01",
+      "slug": "01-mot-dat-nuoc-dang-tim-duong",
+      "title": "MỘT ĐẤT NƯỚC ĐANG TÌM ĐƯỜNG",
+      "period": "Trước 1930 – 1930",
+      "question": "Nếu đứng giữa nhiều con đường cứu nước, làm sao biết đâu là hướng đi cần thiết?",
+      "sceneIds": [
+        "C01_S01",
+        "C01_S02",
+        "C01_S03",
+        "C01_S04"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "02",
+      "slug": "02-nhung-tieng-noi-khong-chiu-im-lang",
+      "title": "NHỮNG TIẾNG NÓI KHÔNG CHỊU IM LẶNG",
+      "period": "1930–1935",
+      "question": "Khi một phong trào bị đàn áp, điều gì khiến người ta vẫn tiếp tục?",
+      "sceneIds": [
+        "C02_S01",
+        "C02_S02",
+        "C02_S03",
+        "C02_S04"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "03",
+      "slug": "03-khi-mot-to-bao-cung-tro-thanh-tieng-noi",
+      "title": "KHI MỘT TỜ BÁO CŨNG TRỞ THÀNH TIẾNG NÓI",
+      "period": "1936–1939",
+      "question": "Có phải đấu tranh chỉ diễn ra trong những cuộc đối đầu trực tiếp?",
+      "sceneIds": [
+        "C03_S01",
+        "C03_S02",
+        "C03_S03",
+        "C03_S04"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "04",
+      "slug": "04-thoi-co-khong-doi-ai",
+      "title": "THỜI CƠ KHÔNG ĐỢI AI",
+      "period": "1939–1945",
+      "question": "Một thời khắc lịch sử được chuẩn bị bằng bao nhiêu năm?",
+      "sceneIds": [
+        "C04_S01",
+        "C04_S02",
+        "C04_S03",
+        "C04_S04"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "05",
+      "slug": "05-giu-lay-mot-ngay-binh-thuong",
+      "title": "GIỮ LẤY MỘT NGÀY BÌNH THƯỜNG",
+      "period": "1945–1946",
+      "question": "Một đất nước vừa độc lập sẽ bắt đầu từ điều gì: cơm ăn, chữ viết, hay sự an toàn?",
+      "sceneIds": [
+        "C05_S01",
+        "C05_S02",
+        "C05_S03",
+        "C05_S04"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "06",
+      "slug": "06-co-nhung-con-duong-khong-o-tren-ban-do",
+      "title": "CÓ NHỮNG CON ĐƯỜNG KHÔNG Ở TRÊN BẢN ĐỒ",
+      "period": "1946–1954",
+      "question": "Nếu bạn không cầm súng, bạn có thể góp phần vào một cuộc kháng chiến thế nào?",
+      "sceneIds": [
+        "C06_S01",
+        "C06_S02",
+        "C06_S03",
+        "C06_S04",
+        "C06_S05"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "07",
+      "slug": "07-hai-nua-cua-mot-bau-troi",
+      "title": "HAI NỬA CỦA MỘT BẦU TRỜI",
+      "period": "1954–1965",
+      "question": "Hai người cùng nhìn một bầu trời có sống trong cùng một hoàn cảnh?",
+      "sceneIds": [
+        "C07_S01",
+        "C07_S02",
+        "C07_S03",
+        "C07_S04",
+        "C07_S05"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "08",
+      "slug": "08-ngay-hai-khung-hinh-gap-nhau",
+      "title": "NGÀY HAI KHUNG HÌNH GẶP NHAU",
+      "period": "1965–1975",
+      "question": "Điều gì đưa hai miền từ chiến tranh tới bước ngoặt thống nhất?",
+      "sceneIds": [
+        "C08_S01",
+        "C08_S02",
+        "C08_S03",
+        "C08_S04",
+        "C08_S05"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "09",
+      "slug": "09-hoa-binh-khong-co-nghia-la-het-kho-khan",
+      "title": "HÒA BÌNH KHÔNG CÓ NGHĨA LÀ HẾT KHÓ KHĂN",
+      "period": "1975–1981",
+      "question": "Khi chiến tranh chấm dứt, làm thế nào để cả nước cùng bắt đầu lại?",
+      "sceneIds": [
+        "C09_S01",
+        "C09_S02",
+        "C09_S03",
+        "C09_S04"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "10",
+      "slug": "10-khi-cach-lam-cu-khong-con-phu-hop",
+      "title": "KHI CÁCH LÀM CŨ KHÔNG CÒN PHÙ HỢP",
+      "period": "1981–1986",
+      "question": "Tại sao làm nhiều chưa chắc có kết quả nếu cơ chế tổ chức thiếu phù hợp?",
+      "sceneIds": [
+        "C10_S01",
+        "C10_S02",
+        "C10_S03",
+        "C10_S04"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "11",
+      "slug": "11-nhung-canh-cua-dan-mo",
+      "title": "NHỮNG CÁNH CỬA DẦN MỞ",
+      "period": "1986–2007",
+      "question": "Một chính sách lớn làm thay đổi buổi sáng của người bình thường như thế nào?",
+      "sceneIds": [
+        "C11_S01",
+        "C11_S02",
+        "C11_S03",
+        "C11_S04"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "12",
+      "slug": "12-ngay-mai-thuoc-ve-ai",
+      "title": "NGÀY MAI THUỘC VỀ AI?",
+      "period": "2007–2026",
+      "question": "Những dự định bình thường ngày nay có liên hệ gì với gần một thế kỷ lịch sử?",
+      "sceneIds": [
+        "C12_S01",
+        "C12_S02",
+        "C12_S03",
+        "C12_S04"
+      ],
+      "status": "draft"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "scene_id": "C12_S01",
+  "voice": "Thiện Minh",
+  "duration": 32.1134,
+  "segments": [
+    {
+      "text": "Những việc ta coi là bình thường.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "title",
+      "start": 0.0,
+      "end": 1.8144
+    },
+    {
+      "text": "Bạn trở lại một buổi sáng năm 2026.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 2.3814,
+      "end": 5.3505
+    },
+    {
+      "text": "Vẫn là những điều mở đầu câu chuyện: đi học, làm việc, gặp gia đình, tính chuyện ngày mai.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 5.5979,
+      "end": 10.134
+    },
+    {
+      "text": "Hơn chín thập niên kể từ ngày Đảng ra đời, đất nước đã trải qua những chặng đường đấu tranh, xây dựng và Đổi mới.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 10.3814,
+      "end": 16.4021
+    },
+    {
+      "text": "Nhưng không phải mọi khó khăn đã biến mất; sự phát triển cũng đem đến yêu cầu mới về chất lượng cuộc sống, năng suất, cơ hội và trách nhiệm của xã hội.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 16.6495,
+      "end": 24.4021
+    },
+    {
+      "text": "Mẹ ơi, vậy hôm nay là phần cuối của lịch sử?",
+      "speaker": "CON",
+      "kind": "dialogue",
+      "start": 24.6495,
+      "end": 27.2062
+    },
+    {
+      "text": "Không. Hôm nay chỉ là nơi chúng ta đang đứng để nhìn lại và quyết định việc tiếp theo.",
+      "speaker": "MẸ",
+      "kind": "dialogue",
+      "start": 27.5979,
+      "end": 31.7216
+    }
+  ]
+}

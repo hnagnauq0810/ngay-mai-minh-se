@@ -1,0 +1,290 @@
+{
+  "assets": [
+    {
+      "id": "journey_1911",
+      "caption": "Một hành trình chuẩn bị",
+      "date": "1911–1930",
+      "kind": "illustration",
+      "author": "Đồ họa của dự án",
+      "license": "Nội dung dự án",
+      "source_url": "",
+      "local": "assets/visual/journey_1911.svg",
+      "note": "Đồ họa hành trình được nhắc trong lời dẫn, không phải ảnh đồng thời của các mốc."
+    },
+    {
+      "id": "nghe_tinh_context",
+      "caption": "Một phong trào và những mất mát",
+      "date": "1930–1931",
+      "kind": "illustration",
+      "author": "Đồ họa của dự án",
+      "license": "Nội dung dự án",
+      "source_url": "",
+      "local": "assets/visual/nghe_tinh_context.svg",
+      "note": "Đồ họa bối cảnh Nghệ Tĩnh; không phải ảnh một cuộc biểu tình cụ thể."
+    },
+    {
+      "id": "political_line",
+      "caption": "Văn kiện, nhận thức và thực tiễn",
+      "date": "Luận cương 10/1930",
+      "kind": "illustration",
+      "author": "Đồ họa của dự án",
+      "license": "Nội dung dự án",
+      "source_url": "",
+      "local": "assets/visual/political_line.svg",
+      "note": "Sơ đồ giải thích nội dung lời dẫn, không phải bản chụp Luận cương."
+    },
+    {
+      "id": "recovery_1935",
+      "caption": "Tổ chức lại sau những tổn thất",
+      "date": "1932–1935",
+      "kind": "illustration",
+      "author": "Đồ họa của dự án",
+      "license": "Nội dung dự án",
+      "source_url": "",
+      "local": "assets/visual/recovery_1935.svg",
+      "note": "Đồ họa các mốc phục hồi tổ chức, không phải ảnh chụp Đại hội I."
+    },
+    {
+      "id": "world_1936",
+      "caption": "Lựa chọn hình thức theo hoàn cảnh",
+      "date": "1936–1939",
+      "kind": "illustration",
+      "author": "Đồ họa của dự án",
+      "license": "Nội dung dự án",
+      "source_url": "",
+      "local": "assets/visual/world_1936.svg",
+      "note": "Đồ họa giải thích bối cảnh phong trào dân chủ, không phải tư liệu báo chí gốc."
+    },
+    {
+      "id": "preparation_1941",
+      "caption": "Thời cơ được chuẩn bị từ trước",
+      "date": "1941–1945",
+      "kind": "illustration",
+      "author": "Đồ họa của dự án",
+      "license": "Nội dung dự án",
+      "source_url": "",
+      "local": "assets/visual/preparation_1941.svg",
+      "note": "Đồ họa các bước chuẩn bị được nêu trong lời dẫn, không phải ảnh hội nghị."
+    },
+    {
+      "id": "reform_lesson",
+      "caption": "Nhìn nhận sai lầm để sửa sai",
+      "date": "1956–1957",
+      "kind": "illustration",
+      "author": "Đồ họa của dự án",
+      "license": "Nội dung dự án",
+      "source_url": "",
+      "local": "assets/visual/reform_lesson.svg",
+      "note": "Đồ họa nội dung về sửa sai, không phải văn kiện hay ảnh ghi lại quá trình này."
+    },
+    {
+      "id": "dong_khoi_timeline",
+      "caption": "Những bước chuyển tại miền Nam",
+      "date": "1959–1960",
+      "kind": "illustration",
+      "author": "Đồ họa của dự án",
+      "license": "Nội dung dự án",
+      "source_url": "",
+      "local": "assets/visual/dong_khoi_timeline.svg",
+      "note": "Đồ họa các mốc trong kịch bản, không phải ảnh phong trào Đồng khởi."
+    },
+    {
+      "id": "planning_economy",
+      "caption": "Từ sản xuất đến bữa cơm gia đình",
+      "date": "Thời bao cấp",
+      "kind": "illustration",
+      "author": "Đồ họa của dự án",
+      "license": "Nội dung dự án",
+      "source_url": "",
+      "local": "assets/visual/planning_economy.svg",
+      "note": "Sơ đồ cơ chế và những câu hỏi của lời dẫn, không đưa ra số liệu kinh tế mới."
+    },
+    {
+      "id": "ordinary_day",
+      "caption": "Những dự định rất đỗi bình thường",
+      "date": "2026",
+      "kind": "illustration",
+      "author": "Đồ họa của dự án",
+      "license": "Nội dung dự án",
+      "source_url": "",
+      "local": "assets/visual/ordinary_day.svg",
+      "note": "Đồ họa minh họa dự định đời thường của nhân vật, không phải một câu chuyện nhân chứng."
+    },
+    {
+      "id": "story_frame",
+      "caption": "Một câu hỏi nối những thế hệ",
+      "date": "Khung truyện hư cấu",
+      "kind": "illustration",
+      "author": "Đồ họa của dự án",
+      "license": "Nội dung dự án",
+      "source_url": "",
+      "local": "assets/visual/story_frame.svg",
+      "note": "Đồ họa khung truyện mẹ và con; đối thoại và các nhân vật được hư cấu để kể chuyện."
+    },
+    {
+      "id": "unification_1930",
+      "caption": "Tìm một đường đi chung",
+      "date": "1930",
+      "kind": "illustration",
+      "author": "Đồ họa của dự án",
+      "license": "Nội dung dự án",
+      "source_url": "",
+      "local": "assets/visual/unification_1930.svg",
+      "note": "Sơ đồ giải thích quá trình hợp nhất, không phải ảnh hội nghị."
+    },
+    {
+      "id": "political_press",
+      "caption": "Khi trang giấy trở thành tiếng nói",
+      "date": "1936–1939",
+      "kind": "illustration",
+      "author": "Đồ họa của dự án",
+      "license": "Nội dung dự án",
+      "source_url": "",
+      "local": "assets/visual/political_press.svg",
+      "note": "Đồ họa biên tập về phong trào dân chủ, không phải trang báo gốc."
+    },
+    {
+      "id": "world_context",
+      "caption": "Một thế giới đang đổi thay",
+      "date": "1939–1945",
+      "kind": "illustration",
+      "author": "Đồ họa của dự án",
+      "license": "Nội dung dự án",
+      "source_url": "",
+      "local": "assets/visual/world_context.svg",
+      "note": "Sơ đồ các mốc được nhắc trong lời dẫn; không phải bản đồ chiến sự."
+    },
+    {
+      "id": "literacy",
+      "caption": "Lần đầu viết được tên mình",
+      "date": "1945–1946",
+      "kind": "illustration",
+      "author": "Đồ họa của dự án",
+      "license": "Nội dung dự án",
+      "source_url": "",
+      "local": "assets/visual/literacy.svg",
+      "note": "Đồ họa minh họa Bình dân học vụ, không phải ảnh lớp học lịch sử."
+    },
+    {
+      "id": "ballot_1946",
+      "caption": "Một lá phiếu, một nền tảng pháp lý",
+      "date": "1946",
+      "kind": "illustration",
+      "author": "Đồ họa của dự án",
+      "license": "Nội dung dự án",
+      "source_url": "",
+      "local": "assets/visual/ballot_1946.svg",
+      "note": "Đồ họa giải thích tiến trình xây dựng chính quyền, không phải lá phiếu gốc."
+    },
+    {
+      "id": "nation_building",
+      "caption": "Vừa xây dựng, vừa bảo vệ",
+      "date": "1945–1946",
+      "kind": "illustration",
+      "author": "Đồ họa của dự án",
+      "license": "Nội dung dự án",
+      "source_url": "",
+      "local": "assets/visual/nation_building.svg",
+      "note": "Đồ họa các nhiệm vụ trong lời dẫn, không phải tài liệu lưu trữ."
+    },
+    {
+      "id": "resistance",
+      "caption": "Sức dân phía sau chiến trường",
+      "date": "1946–1954",
+      "kind": "illustration",
+      "author": "Đồ họa của dự án",
+      "license": "Nội dung dự án",
+      "source_url": "",
+      "local": "assets/visual/resistance.svg",
+      "note": "Sơ đồ giải thích kháng chiến toàn dân; hình ảnh biểu trưng do dự án biên tập."
+    },
+    {
+      "id": "two_missions",
+      "caption": "Hai nhiệm vụ liên hệ chặt chẽ",
+      "date": "Sau 1954",
+      "kind": "illustration",
+      "author": "Đồ họa của dự án",
+      "license": "Nội dung dự án",
+      "source_url": "",
+      "local": "assets/visual/two_missions.svg",
+      "note": "Sơ đồ nhiệm vụ hai miền; không thể hiện một biên giới quốc gia vĩnh viễn."
+    },
+    {
+      "id": "reconstruction",
+      "caption": "Hòa bình và những việc còn ở phía trước",
+      "date": "Sau 1975",
+      "kind": "illustration",
+      "author": "Đồ họa của dự án",
+      "license": "Nội dung dự án",
+      "source_url": "",
+      "local": "assets/visual/reconstruction.svg",
+      "note": "Đồ họa minh họa đời sống tái thiết, không phải ảnh một gia đình có thật."
+    },
+    {
+      "id": "state_1976",
+      "caption": "Từ kết thúc chiến tranh đến thống nhất nhà nước",
+      "date": "1975–1976",
+      "kind": "illustration",
+      "author": "Đồ họa của dự án",
+      "license": "Nội dung dự án",
+      "source_url": "",
+      "local": "assets/visual/state_1976.svg",
+      "note": "Đồ họa phân biệt thắng lợi tháng 4/1975 và thống nhất về mặt nhà nước năm 1976."
+    },
+    {
+      "id": "border_defence",
+      "caption": "Bảo vệ đất nước sau chiến tranh",
+      "date": "Sau 1975",
+      "kind": "illustration",
+      "author": "Đồ họa của dự án",
+      "license": "Nội dung dự án",
+      "source_url": "",
+      "local": "assets/visual/border_defence.svg",
+      "note": "Sơ đồ chủ đề hai hướng biên giới trong lời dẫn; không phải bản đồ trận đánh."
+    },
+    {
+      "id": "price_wage_money",
+      "caption": "Vì sao một kỳ vọng có thể không thành?",
+      "date": "1985",
+      "kind": "illustration",
+      "author": "Đồ họa của dự án",
+      "license": "Nội dung dự án",
+      "source_url": "",
+      "local": "assets/visual/price_wage_money.svg",
+      "note": "Đồ họa giải thích ba thành phần giá–lương–tiền; không mô phỏng tờ tiền hay mức giá thật."
+    },
+    {
+      "id": "renewal_timeline",
+      "caption": "Những nấc chuyển của Đổi mới",
+      "date": "1981–1989",
+      "kind": "illustration",
+      "author": "Đồ họa của dự án",
+      "license": "Nội dung dự án",
+      "source_url": "",
+      "local": "assets/visual/renewal_timeline.svg",
+      "note": "Sơ đồ các mốc được nói trong kịch bản, không phải văn kiện gốc."
+    },
+    {
+      "id": "integration",
+      "caption": "Những đường kết nối mở rộng",
+      "date": "1995–2007",
+      "kind": "illustration",
+      "author": "Đồ họa của dự án",
+      "license": "Nội dung dự án",
+      "source_url": "",
+      "local": "assets/visual/integration.svg",
+      "note": "Đồ họa giải thích hội nhập; không phải hình ảnh lễ gia nhập."
+    },
+    {
+      "id": "future_goals",
+      "caption": "Những mục tiêu còn ở phía trước",
+      "date": "2026 → 2045",
+      "kind": "illustration",
+      "author": "Đồ họa của dự án",
+      "license": "Nội dung dự án",
+      "source_url": "",
+      "local": "assets/visual/future_goals.svg",
+      "note": "Đồ họa mục tiêu tương lai được nêu trong kịch bản, không trình bày các mục tiêu như thành tựu đã đạt."
+    }
+  ]
+}

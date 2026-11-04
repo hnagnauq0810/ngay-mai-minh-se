@@ -1,0 +1,56 @@
+{
+  "scene_id": "C09_S04",
+  "voice": "Thiện Minh",
+  "duration": 36.1546,
+  "segments": [
+    {
+      "text": "Giữ nước trong thời bình.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "title",
+      "start": 0.0,
+      "end": 1.4021
+    },
+    {
+      "text": "Từ sau năm 1975, nhiệm vụ bảo vệ Tổ quốc vẫn đặt ra gay gắt.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 1.9691,
+      "end": 6.5876
+    },
+    {
+      "text": "Việt Nam phải chiến đấu bảo vệ biên giới Tây Nam trước các cuộc tiến công của lực lượng Khmer Đỏ và thực hiện nghĩa vụ quốc tế giúp nhân dân Campuchia thoát khỏi chế độ diệt chủng.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 6.8351,
+      "end": 15.4124
+    },
+    {
+      "text": "Tháng 2/1979, chiến tranh bảo vệ biên giới phía Bắc bùng nổ.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 15.6598,
+      "end": 20.2784
+    },
+    {
+      "text": "Vì vậy, giai đoạn sau thống nhất không thể chỉ kể bằng chuyện kinh tế mà bỏ quên nhiệm vụ bảo vệ chủ quyền và những mất mát của quân dân.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 20.5258,
+      "end": 27.6186
+    },
+    {
+      "text": "Sao chiến tranh kết thúc mà vẫn có người phải bảo vệ biên giới?",
+      "speaker": "CON",
+      "kind": "dialogue",
+      "start": 27.866,
+      "end": 31.0825
+    },
+    {
+      "text": "Bởi xây dựng hòa bình và bảo vệ chủ quyền là những nhiệm vụ luôn gắn với nhau.",
+      "speaker": "MẸ",
+      "kind": "dialogue",
+      "start": 31.4742,
+      "end": 35.7629
+    }
+  ]
+}

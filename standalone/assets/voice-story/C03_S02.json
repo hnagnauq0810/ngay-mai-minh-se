@@ -1,0 +1,49 @@
+{
+  "scene_id": "C03_S02",
+  "voice": "Thiện Minh",
+  "duration": 27.8247,
+  "segments": [
+    {
+      "text": "Tình hình thế giới thay đổi.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "title",
+      "start": 0.0,
+      "end": 1.4845
+    },
+    {
+      "text": "Những biến động quốc tế, đặc biệt nguy cơ chủ nghĩa phát xít và chính sách của Mặt trận Nhân dân Pháp, đã tạo ra một hoàn cảnh mới.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 2.0515,
+      "end": 8.4845
+    },
+    {
+      "text": "Đảng điều chỉnh nhiệm vụ trước mắt, nhấn mạnh các yêu sách dân sinh, dân chủ và hòa bình.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 8.732,
+      "end": 13.3505
+    },
+    {
+      "text": "Sự thay đổi này không đồng nghĩa từ bỏ mục tiêu chiến lược lâu dài; nó phản ánh việc lựa chọn hình thức đấu tranh phù hợp hoàn cảnh.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 13.5979,
+      "end": 20.1134
+    },
+    {
+      "text": "Sao cùng một mục tiêu mà cách làm lại đổi khác?",
+      "speaker": "CON",
+      "kind": "dialogue",
+      "start": 20.3608,
+      "end": 22.7526
+    },
+    {
+      "text": "Bởi hoàn cảnh đổi khác. Điều quan trọng là biết việc gì cấp thiết ở mỗi thời điểm.",
+      "speaker": "MẸ",
+      "kind": "dialogue",
+      "start": 23.1443,
+      "end": 27.433
+    }
+  ]
+}

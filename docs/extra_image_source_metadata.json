@@ -1,0 +1,2221 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "163175400": {
+        "pageid": 163175400,
+        "ns": 6,
+        "title": "File:B-52 wreckage.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2398158,
+            "width": 4620,
+            "height": 2628,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/B-52_wreckage.jpg/960px-B-52_wreckage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 546,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/B-52_wreckage.jpg/1920px-B-52_wreckage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/B-52_wreckage.jpg/960px-B-52_wreckage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 546,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/B-52_wreckage.jpg/1920px-B-52_wreckage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/B-52_wreckage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:B-52_wreckage.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=163175400",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-04-04 15:33:31",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "B-52 wreckage",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Files from Steve Knight Flickr stream|B52 Victory Museum",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "21.035261",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "105.825772",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The B-52 Victory Museum in central Hanoi displays the crashed remains of an American B-52H Stratofortress bomber which was shot down over Christmas 1972 whilst attempting to bomb the largely civilian population. In addition there is another MiG-21 on display together with a selection of anti-aircraft guns and SAM-2 missiles. The tail section of another B-52 may be seen still residing in a nearby lake...",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-04-03 11:22:00",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/58415659@N00/54428063688/\">https://www.flickr.com/photos/58415659@N00/54428063688/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "kitmasterbloke",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "5344915": {
+        "pageid": 5344915,
+        "ns": 6,
+        "title": "File:Bundesarchiv Bild 183-1985-0716-003, Plauen, Auszubildende aus Vietnam.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 71997,
+            "width": 785,
+            "height": 475,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/3/33/Bundesarchiv_Bild_183-1985-0716-003%2C_Plauen%2C_Auszubildende_aus_Vietnam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 960,
+            "thumbheight": 581,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/3/33/Bundesarchiv_Bild_183-1985-0716-003%2C_Plauen%2C_Auszubildende_aus_Vietnam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 581
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Bundesarchiv_Bild_183-1985-0716-003%2C_Plauen%2C_Auszubildende_aus_Vietnam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-1985-0716-003,_Plauen,_Auszubildende_aus_Vietnam.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=5344915",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-04-03 17:16:24",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Bundesarchiv Bild 183-1985-0716-003, Plauen, Auszubildende aus Vietnam",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Images from the German Federal Archive|Air jet looms|Women at work in the German Democratic Republic|Immigrants to Germany from Vietnam|1985 in Plauen|July 1985 in Saxony|Women of Vietnam in 1985|Photographs by Wolfgang Thieme|Vietnamese people in the German Democratic Republic|Plauen in the Bundesarchiv and Fotothek|Vowetex",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q2591572\" class=\"extiw\" title=\"d:Q2591572\">Wolfgang Thieme</a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\n<div style=\"background:var(--background-color-neutral, #eaecf0); color:inherit; font-size:86%; direction:ltr;\">For documentary purposes the German Federal Archive often retained the <b>original image captions</b>, which may be <b>erroneous, biased, obsolete or politically extreme</b>. <abbr class=\"BArchtooltips\" title=\"Files from the inventories “Bild 101 Propagandakompanien der Wehrmacht” and “Bild 183 ADN” may have particularly biased or politically extreme descriptions.\"><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Info_non-talk.svg/20px-Info_non-talk.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"15\" height=\"15\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Info_non-talk.svg/40px-Info_non-talk.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"62\" data-file-height=\"62\"></span></span></abbr></div><div class=\"language de\"><b>Plauen, Auszubildende aus Vietnam</b>\n<p>ADN-ZB Thieme 16.7.85 Bez. Karl Marx-Stadt: \n</p>\nWettbewerb: Eine Ausbildung als Weberin erhält Nguyen Thi aus der SR Vietnam gemeinsam mit weiteren fünf Mädchen gegenwärtig im VIB Vowetex Plauen. Für ihre Qualitätsarbeit wurde sie bereits mehrmals als beste Weberin der Jugendbrigarde \"Artur Becker\" ausgezeichnet. Im Werk Treuen dieses Betriebes werden Schichtträgergrundgewebe für die Kunstlederindutsrie und Bucheinbandgewebe für grafische Großbetriebe produziert. Im ersten Halbjahr konnten die Werktätigen zwei Tage Planpus abrechnen.</div></div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "16 July 1985<div style=\"display: none;\">date QS:P571,+1985-07-16T00:00:00Z/11</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<table style=\"width:100%; clear: both; text-align: center; margin: 0.5em auto; background-color: var(--background-color-interactive-subtle, #f9f9f9); color: inherit; border: 2px solid var(--border-color-muted, #e0e0e0);\" dir=\"ltr\" lang=\"en\" class=\"layouttemplate partnershiptemplate\" role=\"presentation\">\n<tbody><tr>\n<td style=\"width:100px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/Commons:Bundesarchiv/en\" title=\"Logo Bundesarchiv\"><img alt=\"Logo Bundesarchiv\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Bundesarchiv-Logo-ohne-Wappen.svg/120px-Bundesarchiv-Logo-ohne-Wappen.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"83\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Bundesarchiv-Logo-ohne-Wappen.svg/250px-Bundesarchiv-Logo-ohne-Wappen.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"240\" data-file-height=\"200\"></a></span>\n</td>\n<td>This image was provided to Wikimedia Commons by the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.bundesarchiv.de/\">German Federal Archive</a> (Deutsches Bundesarchiv) as part of a <a href=\"//commons.wikimedia.org/wiki/Commons:Bundesarchiv\" title=\"Commons:Bundesarchiv\">cooperation project</a>. The German Federal Archive guarantees an authentic representation only using the originals (negative and/or positive), resp. the digitalization of the originals as provided by the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.bild.bundesarchiv.de\">Digital Image Archive</a>.\n</td></tr></tbody></table>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0 de",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0 de",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "Bundesarchiv, Bild 183-1985-0716-003 / CC-BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0-de",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "66446143": {
+        "pageid": 66446143,
+        "ns": 6,
+        "title": "File:Cai cach ruong dat5.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 18705,
+            "width": 500,
+            "height": 389,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Cai_cach_ruong_dat5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 960,
+            "thumbheight": 747,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/2/23/Cai_cach_ruong_dat5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 747
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Cai_cach_ruong_dat5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cai_cach_ruong_dat5.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=66446143",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-02-15 07:12:50",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Cai cach ruong dat5",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Political repression|Land reform in North Vietnam|PD-Vietnam|North Vietnam in the 1950s|PD-old missing SDC copyright status",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Vietnamese Peasant",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-02-15",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Vietnam",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Trần Quang Đức's photo album",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "This work is in the <b><a href=\"//commons.wikimedia.org/wiki/Public_domain\" class=\"mw-redirect\" title=\"Public domain\">public domain</a></b> in <a href=\"//commons.wikimedia.org/wiki/Vietnam\" class=\"mw-redirect\" title=\"Vietnam\">Vietnam</a> for one of the following reasons:\n<ul><li><i>It is a cinematographic work, photographic work, work of applied art or anonymous work first published more than 75 years ago. (See <a href=\"//commons.wikimedia.org/wiki/Commons:Copyright_rules_by_territory/Vietnam\" title=\"Commons:Copyright rules by territory/Vietnam\">Commons:Copyright rules by territory/Vietnam</a>)</i></li>\n<li><i>It is a cinematographic work, photographic work, dramatic work, work of applied art or anonymous work first published more than 50 years prior to January 1, 2010.</i></li>\n<li><i>It is another type of work, and the creator died more than 50 years ago.</i></li></ul>\n<div class=\"center\"><small>To uploader: <i><b>Please provide where the image was first published and who created it.</b></i></small></div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "179423739": {
+        "pageid": 179423739,
+        "ns": 6,
+        "title": "File:Các em học sinh chúc mừng cô giáo nhân ngày 20 tháng 11, 2025.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 644983,
+            "width": 2000,
+            "height": 1250,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/C%C3%A1c_em_h%E1%BB%8Dc_sinh_ch%C3%BAc_m%E1%BB%ABng_c%C3%B4_gi%C3%A1o_nh%C3%A2n_ng%C3%A0y_20_th%C3%A1ng_11%2C_2025.jpg/960px-C%C3%A1c_em_h%E1%BB%8Dc_sinh_ch%C3%BAc_m%E1%BB%ABng_c%C3%B4_gi%C3%A1o_nh%C3%A2n_ng%C3%A0y_20_th%C3%A1ng_11%2C_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 600,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/C%C3%A1c_em_h%E1%BB%8Dc_sinh_ch%C3%BAc_m%E1%BB%ABng_c%C3%B4_gi%C3%A1o_nh%C3%A2n_ng%C3%A0y_20_th%C3%A1ng_11%2C_2025.jpg/1920px-C%C3%A1c_em_h%E1%BB%8Dc_sinh_ch%C3%BAc_m%E1%BB%ABng_c%C3%B4_gi%C3%A1o_nh%C3%A2n_ng%C3%A0y_20_th%C3%A1ng_11%2C_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/C%C3%A1c_em_h%E1%BB%8Dc_sinh_ch%C3%BAc_m%E1%BB%ABng_c%C3%B4_gi%C3%A1o_nh%C3%A2n_ng%C3%A0y_20_th%C3%A1ng_11%2C_2025.jpg/960px-C%C3%A1c_em_h%E1%BB%8Dc_sinh_ch%C3%BAc_m%E1%BB%ABng_c%C3%B4_gi%C3%A1o_nh%C3%A2n_ng%C3%A0y_20_th%C3%A1ng_11%2C_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 600,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/C%C3%A1c_em_h%E1%BB%8Dc_sinh_ch%C3%BAc_m%E1%BB%ABng_c%C3%B4_gi%C3%A1o_nh%C3%A2n_ng%C3%A0y_20_th%C3%A1ng_11%2C_2025.jpg/1920px-C%C3%A1c_em_h%E1%BB%8Dc_sinh_ch%C3%BAc_m%E1%BB%ABng_c%C3%B4_gi%C3%A1o_nh%C3%A2n_ng%C3%A0y_20_th%C3%A1ng_11%2C_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/C%C3%A1c_em_h%E1%BB%8Dc_sinh_ch%C3%BAc_m%E1%BB%ABng_c%C3%B4_gi%C3%A1o_nh%C3%A2n_ng%C3%A0y_20_th%C3%A1ng_11%2C_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:C%C3%A1c_em_h%E1%BB%8Dc_sinh_ch%C3%BAc_m%E1%BB%ABng_c%C3%B4_gi%C3%A1o_nh%C3%A2n_ng%C3%A0y_20_th%C3%A1ng_11,_2025.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=179423739",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-12-05 05:05:16",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Các em học sinh chúc mừng cô giáo nhân ngày 20 tháng 11, 2025",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Education in Vietnam|Saigon|Self-published work|Education events in Vietnam|Áo dài for women",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Education of Vietnam",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-11-20",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Vuidihoc82\" title=\"User:Vuidihoc82\">Vuidihoc82</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "95712729": {
+        "pageid": 95712729,
+        "ns": 6,
+        "title": "File:Cải cách ruộng đất thắng lợi, nông dân vui sướng đốt văn tự cũ.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 93659,
+            "width": 450,
+            "height": 328,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/4/49/C%E1%BA%A3i_c%C3%A1ch_ru%E1%BB%99ng_%C4%91%E1%BA%A5t_th%E1%BA%AFng_l%E1%BB%A3i%2C_n%C3%B4ng_d%C3%A2n_vui_s%C6%B0%E1%BB%9Bng_%C4%91%E1%BB%91t_v%C4%83n_t%E1%BB%B1_c%C5%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 960,
+            "thumbheight": 700,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/4/49/C%E1%BA%A3i_c%C3%A1ch_ru%E1%BB%99ng_%C4%91%E1%BA%A5t_th%E1%BA%AFng_l%E1%BB%A3i%2C_n%C3%B4ng_d%C3%A2n_vui_s%C6%B0%E1%BB%9Bng_%C4%91%E1%BB%91t_v%C4%83n_t%E1%BB%B1_c%C5%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 700
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/C%E1%BA%A3i_c%C3%A1ch_ru%E1%BB%99ng_%C4%91%E1%BA%A5t_th%E1%BA%AFng_l%E1%BB%A3i%2C_n%C3%B4ng_d%C3%A2n_vui_s%C6%B0%E1%BB%9Bng_%C4%91%E1%BB%91t_v%C4%83n_t%E1%BB%B1_c%C5%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:C%E1%BA%A3i_c%C3%A1ch_ru%E1%BB%99ng_%C4%91%E1%BA%A5t_th%E1%BA%AFng_l%E1%BB%A3i,_n%C3%B4ng_d%C3%A2n_vui_s%C6%B0%E1%BB%9Bng_%C4%91%E1%BB%91t_v%C4%83n_t%E1%BB%B1_c%C5%A9.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=95712729",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-11-01 13:38:23",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Cải cách ruộng đất thắng lợi, nông dân vui sướng đốt văn tự cũ",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Political repression|Land reform in North Vietnam|PD-Vietnam|North Vietnam in the 1950s|PD-old missing SDC copyright status",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "To be successful in land reform, farmers fired former land titles.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-09-08 16:25:04",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://vietgiaitri.com/tu-lieu-quy-thoi-ky-cai-cach-ruong-dat-1946-1957-20140909i1574926/\">Tư liệu quý thời kỳ cải cách ruộng đất 1946 – 1957</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Trần Quang Đức's photo album",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "This work is in the <b><a href=\"//commons.wikimedia.org/wiki/Public_domain\" class=\"mw-redirect\" title=\"Public domain\">public domain</a></b> in <a href=\"//commons.wikimedia.org/wiki/Vietnam\" class=\"mw-redirect\" title=\"Vietnam\">Vietnam</a> for one of the following reasons:\n<ul><li><i>It is a cinematographic work, photographic work, work of applied art or anonymous work first published more than 75 years ago. (See <a href=\"//commons.wikimedia.org/wiki/Commons:Copyright_rules_by_territory/Vietnam\" title=\"Commons:Copyright rules by territory/Vietnam\">Commons:Copyright rules by territory/Vietnam</a>)</i></li>\n<li><i>It is a cinematographic work, photographic work, dramatic work, work of applied art or anonymous work first published more than 50 years prior to January 1, 2010.</i></li>\n<li><i>It is another type of work, and the creator died more than 50 years ago.</i></li></ul>\n<div class=\"center\"><small>To uploader: <i><b>Please provide where the image was first published and who created it.</b></i></small></div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "191827996": {
+        "pageid": 191827996,
+        "ns": 6,
+        "title": "File:Dai hoi Dai bieu toan quoc lan thu hai, Dang cong san VN.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 109208,
+            "width": 600,
+            "height": 423,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Dai_hoi_Dai_bieu_toan_quoc_lan_thu_hai%2C_Dang_cong_san_VN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 960,
+            "thumbheight": 677,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Dai_hoi_Dai_bieu_toan_quoc_lan_thu_hai%2C_Dang_cong_san_VN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 677
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Dai_hoi_Dai_bieu_toan_quoc_lan_thu_hai%2C_Dang_cong_san_VN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Dai_hoi_Dai_bieu_toan_quoc_lan_thu_hai,_Dang_cong_san_VN.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=191827996",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-05-12 00:17:43",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Dai hoi Dai bieu toan quoc lan thu hai, Dang cong san VN",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "1951 in Vietnam|PD-Vietnam|Template Unknown (author)|Ho Chi Minh in 1951|PD-old missing SDC copyright status",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Second Congress of the Communist Party of Vietnam",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1951-02",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://vietnamnet.vn/en/second-congress-party-pushes-forward-revolution-707065.html\">https://vietnamnet.vn/en/second-congress-party-pushes-forward-revolution-707065.html</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "80522816": {
+        "pageid": 80522816,
+        "ns": 6,
+        "title": "File:Facade with Damage from 1979 Sino-Vietnamese War - Lang Son - Vietnam (48142922346).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3147512,
+            "width": 3648,
+            "height": 2736,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Facade_with_Damage_from_1979_Sino-Vietnamese_War_-_Lang_Son_-_Vietnam_%2848142922346%29.jpg/960px-Facade_with_Damage_from_1979_Sino-Vietnamese_War_-_Lang_Son_-_Vietnam_%2848142922346%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Facade_with_Damage_from_1979_Sino-Vietnamese_War_-_Lang_Son_-_Vietnam_%2848142922346%29.jpg/1920px-Facade_with_Damage_from_1979_Sino-Vietnamese_War_-_Lang_Son_-_Vietnam_%2848142922346%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Facade_with_Damage_from_1979_Sino-Vietnamese_War_-_Lang_Son_-_Vietnam_%2848142922346%29.jpg/960px-Facade_with_Damage_from_1979_Sino-Vietnamese_War_-_Lang_Son_-_Vietnam_%2848142922346%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Facade_with_Damage_from_1979_Sino-Vietnamese_War_-_Lang_Son_-_Vietnam_%2848142922346%29.jpg/1920px-Facade_with_Damage_from_1979_Sino-Vietnamese_War_-_Lang_Son_-_Vietnam_%2848142922346%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Facade_with_Damage_from_1979_Sino-Vietnamese_War_-_Lang_Son_-_Vietnam_%2848142922346%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Facade_with_Damage_from_1979_Sino-Vietnamese_War_-_Lang_Son_-_Vietnam_(48142922346).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=80522816",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-07-19 03:54:00",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Facade with Damage from 1979 Sino-Vietnamese War - Lang Son - Vietnam (48142922346)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Sino-Vietnamese War|Photographs by Adam Jones|Flickr images reviewed by FlickreviewR 2|Vietnam photographs taken on 2019-06-28|History of Lang Son",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Facade with Damage from 1979 Sino-Vietnamese War - Lang Son - Vietnam",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 28 June 2019, 17:54",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/adam_jones/48142922346/\">Facade with Damage from 1979 Sino-Vietnamese War - Lang Son - Vietnam</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/41000732@N04\">Adam Jones</a> from Kelowna, BC, Canada",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "7313311": {
+        "pageid": 7313311,
+        "ns": 6,
+        "title": "File:Floating Market - Can Tho - Vietnam.JPG",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3164341,
+            "width": 2304,
+            "height": 3072,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Floating_Market_-_Can_Tho_-_Vietnam.JPG/960px-Floating_Market_-_Can_Tho_-_Vietnam.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1280,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Floating_Market_-_Can_Tho_-_Vietnam.JPG/1920px-Floating_Market_-_Can_Tho_-_Vietnam.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Floating_Market_-_Can_Tho_-_Vietnam.JPG/960px-Floating_Market_-_Can_Tho_-_Vietnam.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1280,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Floating_Market_-_Can_Tho_-_Vietnam.JPG/1920px-Floating_Market_-_Can_Tho_-_Vietnam.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Floating_Market_-_Can_Tho_-_Vietnam.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Floating_Market_-_Can_Tho_-_Vietnam.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=7313311",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2009-07-16 04:38:55",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Floating Market - Can Tho - Vietnam",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Economy of Vietnam|Taken with Sony DSC-H5|People of Can Tho|Self-published work|Photographs by Adam Jones|Can Tho Floating Market",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Floating market, Can Tho, Vietnam. July 2009.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2009-07-14",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Adam Jones <a href=\"//commons.wikimedia.org/wiki/User:Adam63\" title=\"User:Adam63\">Adam63</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "Please inform author of use. Credit must read: Photo by Adam Jones adamjones.freeservers.com",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "12126797": {
+        "pageid": 12126797,
+        "ns": 6,
+        "title": "File:HoCMT.png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 942200,
+            "width": 1260,
+            "height": 2068,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/HoCMT.png/960px-HoCMT.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1576,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/c/cd/HoCMT.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/HoCMT.png/960px-HoCMT.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1576,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/c/cd/HoCMT.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/HoCMT.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HoCMT.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=12126797",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-12-17 11:04:46",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HoCMT",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Retouched pictures|Map images that should use vector graphics|PD US Air Force|PNG that should use vector graphics|Maps of the history of Thailand|Derivative versions|Uploaded with derivativeFX|Maps of the Ho Chi Minh trail",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/Ho_Chi_Minh_Trail\" class=\"extiw\" title=\"w:Ho Chi Minh Trail\">Ho Chi Minh Trail</a> and <a href=\"https://en.wikipedia.org/wiki/Sihanouk_Trail\" class=\"extiw\" title=\"w:Sihanouk Trail\">Sihanouk Trail</a>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2010-11-23 10:22",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<ul><li>This file was derived from:  <a href=\"//commons.wikimedia.org/wiki/File:HoCMT.jpg\" title=\"File:HoCMT.jpg\">HoCMT.jpg</a><br></li>\n<li>This is based on: Jacob Van Staaveren: <i>Interdiction in Southern Laos</i>. Washington DC: Center of Air Force History, 1993.</li></ul>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<ul><li><a href=\"//commons.wikimedia.org/wiki/File:HoCMT.jpg\" title=\"File:HoCMT.jpg\">HoCMT.jpg</a>: The original uploader was <a href=\"https://en.wikipedia.org/wiki/User:RM_Gillespie\" class=\"extiw\" title=\"wikipedia:User:RM Gillespie\">RM Gillespie</a> at <a href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\">English Wikipedia</a>.</li>\n<li>derivative work: <a href=\"//commons.wikimedia.org/w/index.php?title=User:Yellowtailshark&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Yellowtailshark (page does not exist)\">Yellowtailshark</a></li></ul>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "5185681": {
+        "pageid": 5185681,
+        "ns": 6,
+        "title": "File:HoChiMinhTrial001.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 734675,
+            "width": 1242,
+            "height": 1003,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/HoChiMinhTrial001.jpg/960px-HoChiMinhTrial001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 775,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/e/ee/HoChiMinhTrial001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/HoChiMinhTrial001.jpg/960px-HoChiMinhTrial001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 775,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/e/ee/HoChiMinhTrial001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/HoChiMinhTrial001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HoChiMinhTrial001.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=5185681",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-03-21 19:49:02",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HoChiMinhTrial001",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Vietnam War in 1959|PD US Army|Ho Chi Minh trail|Template Unknown (author)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Ho Chi Minh trail from the very begining was using Vietnamese and Laotian people. Captured Vietcong's photo",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "circa 1959<div style=\"display: none;\">date QS:P,+1959-00-00T00:00:00Z/9,P1480,Q5727902</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Stanley Karnow, Vietnam, A History, <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/ISBN\" class=\"extiw\" title=\"en:ISBN\"><span lang=\"en\" dir=\"ltr\">ISBN</span></a></span> <a href=\"//commons.wikimedia.org/wiki/Special:BookSources/0-670-74604-5\" title=\"Special:BookSources/0-670-74604-5\">0-670-74604-5</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "15669084": {
+        "pageid": 15669084,
+        "ns": 6,
+        "title": "File:HoTrial001.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 952666,
+            "width": 1000,
+            "height": 1323,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/HoTrial001.jpg/960px-HoTrial001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1270,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/b/b1/HoTrial001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/HoTrial001.jpg/960px-HoTrial001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1270,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/b/b1/HoTrial001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/HoTrial001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HoTrial001.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=15669084",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2011-07-01 01:56:49",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "HoTrial001",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD US Army|Ho Chi Minh trail|Template Unknown (author)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Bicycle - one of the most popular source of transportation along the Ho Chi Minh trial. Captured N-V photo.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "circa 1963<div style=\"display: none;\">date QS:P,+1963-00-00T00:00:00Z/9,P1480,Q5727902</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Stanley Karnow: <i>Vietnam: A History</i>, The Viking Press 1983, <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/ISBN\" class=\"extiw\" title=\"en:ISBN\"><span lang=\"en\" dir=\"ltr\">ISBN</span></a></span> <a href=\"//commons.wikimedia.org/wiki/Special:BookSources/0-670-74604-5\" title=\"Special:BookSources/0-670-74604-5\">0-670-74604-5</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<i>This file is a work of a <a href=\"//commons.wikimedia.org/wiki/United_States_Army\" title=\"United States Army\">U.S. Army</a> soldier or employee, taken or made as part of that person's official duties. As a <a href=\"https://en.wikipedia.org/wiki/Work_of_the_United_States_Government\" class=\"extiw\" title=\"en:Work of the United States Government\">work</a> of the <a href=\"https://en.wikipedia.org/wiki/Federal_Government_of_the_United_States\" class=\"extiw\" title=\"en:Federal Government of the United States\">U.S. federal government</a>, it is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"w:public domain\">public domain</a></b> in the United States.</i>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "18971097": {
+        "pageid": 18971097,
+        "ns": 6,
+        "title": "File:Ho Chi Minh in Dong Khe, 1950.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1013804,
+            "width": 1091,
+            "height": 1152,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Ho_Chi_Minh_in_Dong_Khe%2C_1950.jpg/960px-Ho_Chi_Minh_in_Dong_Khe%2C_1950.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 1014,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Ho_Chi_Minh_in_Dong_Khe%2C_1950.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Ho_Chi_Minh_in_Dong_Khe%2C_1950.jpg/960px-Ho_Chi_Minh_in_Dong_Khe%2C_1950.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1014,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Ho_Chi_Minh_in_Dong_Khe%2C_1950.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Ho_Chi_Minh_in_Dong_Khe%2C_1950.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ho_Chi_Minh_in_Dong_Khe,_1950.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=18971097",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2012-04-06 21:54:29",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ho Chi Minh in Dong Khe, 1950",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Battle of Route Coloniale 4|PD-Vietnam|Template Unknown (author)|Ho Chi Minh in 1950|PD-old missing SDC copyright status|National Archives of Vietnam|Việt Bắc|Vietnam People's Army in the First Indochina War",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Ho Chi Minh during the Battle of Dong Khe, 1950",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1950",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Jean Chesneaux: <i>Geschichte Vietnams.</i> Rütten &amp; Loening, Berlin (Ost) 1963",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "This work is in the <b><a href=\"//commons.wikimedia.org/wiki/Public_domain\" class=\"mw-redirect\" title=\"Public domain\">public domain</a></b> in <a href=\"//commons.wikimedia.org/wiki/Vietnam\" class=\"mw-redirect\" title=\"Vietnam\">Vietnam</a> for one of the following reasons:\n<ul><li><i>It is a cinematographic work, photographic work, work of applied art or anonymous work first published more than 75 years ago. (See <a href=\"//commons.wikimedia.org/wiki/Commons:Copyright_rules_by_territory/Vietnam\" title=\"Commons:Copyright rules by territory/Vietnam\">Commons:Copyright rules by territory/Vietnam</a>)</i></li>\n<li><i>It is a cinematographic work, photographic work, dramatic work, work of applied art or anonymous work first published more than 50 years prior to January 1, 2010.</i></li>\n<li><i>It is another type of work, and the creator died more than 50 years ago.</i></li></ul>\n<div class=\"center\"><small>To uploader: <i><b>Please provide where the image was first published and who created it.</b></i></small></div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "196079588": {
+        "pageid": 196079588,
+        "ns": 6,
+        "title": "File:ICP 1951c, II Party Congress.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 31845,
+            "width": 397,
+            "height": 480,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/6/62/ICP_1951c%2C_II_Party_Congress.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 960,
+            "thumbheight": 1161,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/6/62/ICP_1951c%2C_II_Party_Congress.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 1161
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/ICP_1951c%2C_II_Party_Congress.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:ICP_1951c,_II_Party_Congress.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=196079588",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-07-23 21:34:21",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "ICP 1951c, II Party Congress",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Trường Chinh|Central Committee of the Communist Party of Vietnam|PD-Vietnam|Template Unknown (author)|Politicians of Vietnam in 1951|PD-old missing SDC copyright status",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Trường Chinh presents the report <i>On the Vietnamese Revolution</i> at the Second Congress of the Indochinese Communist Party, Tuyên Quang, February 1951",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1951-02",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://baotanglichsu.vn/vi/Articles/3097/15782/ky-niem-63-nam-2-1951-2-2014-djai-hoi-djai-bieu-toan-quoc-lan-thu-ii-djang-cong-san-djong-duong.html\">https://baotanglichsu.vn/vi/Articles/3097/15782/ky-niem-63-nam-2-1951-2-2014-djai-hoi-djai-bieu-toan-quoc-lan-thu-ii-djang-cong-san-djong-duong.html</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "49360633": {
+        "pageid": 49360633,
+        "ns": 6,
+        "title": "File:Nhà máy Song Thắng.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 83020,
+            "width": 960,
+            "height": 720,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Nh%C3%A0_m%C3%A1y_Song_Th%E1%BA%AFng.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/6/66/Nh%C3%A0_m%C3%A1y_Song_Th%E1%BA%AFng.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Nh%C3%A0_m%C3%A1y_Song_Th%E1%BA%AFng.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Nh%C3%A0_m%C3%A1y_Song_Th%E1%BA%AFng.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=49360633",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2016-06-10 14:56:59",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Nhà máy Song Thắng",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Economy of Vietnam|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Xưởng sản xuất sàn gỗ tự nhiên Song Thắng tại KCN Nghi Phú, TP. Vinh",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2016-06-10",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Vansangotunhien&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Vansangotunhien (page does not exist)\">Vansangotunhien</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "46714553": {
+        "pageid": 46714553,
+        "ns": 6,
+        "title": "File:Pác Bó.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3978088,
+            "width": 2600,
+            "height": 1463,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/P%C3%A1c_B%C3%B3.jpg/960px-P%C3%A1c_B%C3%B3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 540,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/P%C3%A1c_B%C3%B3.jpg/1920px-P%C3%A1c_B%C3%B3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/P%C3%A1c_B%C3%B3.jpg/960px-P%C3%A1c_B%C3%B3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 540,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/P%C3%A1c_B%C3%B3.jpg/1920px-P%C3%A1c_B%C3%B3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/P%C3%A1c_B%C3%B3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:P%C3%A1c_B%C3%B3.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=46714553",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2016-02-01 05:41:30",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Pác Bó",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Tourism in Vietnam|Taken with Canon EOS-1D X|Ha Quang District|Self-published work|QI by Shansov.net|Taken by Shansov.net|Landscapes of Vietnam|Streams in Vietnam|Files with coordinates missing SDC location of creation|Taken with Canon EF 16–35mm F4L IS USM",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "22.986986",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "106.047869",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/Vladimir_Lenin\" class=\"extiw\" title=\"w:Vladimir Lenin\">Lê Nin</a> stream in <a href=\"https://en.wikipedia.org/wiki/P%C3%A1c_B%C3%B3\" class=\"extiw\" title=\"w:Pác Bó\">w:Pác Bó</a> tourism area, <a href=\"https://en.wikipedia.org/wiki/H%C3%A0_Qu%E1%BA%A3ng_District\" class=\"extiw\" title=\"w:Hà Quảng District\">Hà Quảng</a> district of <a href=\"https://en.wikipedia.org/wiki/Cao_B%E1%BA%B1ng_Province\" class=\"extiw\" title=\"w:Cao Bằng Province\">Cao Bằng</a> province, Vietnam.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2016-01-08 15:57:18",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Shansov.net\" title=\"User:Shansov.net\"><b>[Tycho]</b></a>  <sup><a href=\"//commons.wikimedia.org/wiki/User_talk:Shansov.net\" title=\"User talk:Shansov.net\">talk</a> </sup>, <a rel=\"nofollow\" class=\"external free\" href=\"http://shansov.net\">http://shansov.net</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "20688054": {
+        "pageid": 20688054,
+        "ns": 6,
+        "title": "File:Shell-button-factory-vietnam.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 128007,
+            "width": 640,
+            "height": 480,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Shell-button-factory-vietnam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Shell-button-factory-vietnam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Shell-button-factory-vietnam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Shell-button-factory-vietnam.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=20688054",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2012-08-16 04:35:54",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Shell-button-factory-vietnam",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Economy of Vietnam|Taken with Nexus One|Garment factories|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Example of Shell Button Factory in Vietnam Garment Industry",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2011-08-08",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Tophu4u2&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Tophu4u2 (page does not exist)\">Tophu4u2</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "163175107": {
+        "pageid": 163175107,
+        "ns": 6,
+        "title": "File:Soviet GAZ-66 Truck of 1979.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1387069,
+            "width": 4710,
+            "height": 2580,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Soviet_GAZ-66_Truck_of_1979.jpg/960px-Soviet_GAZ-66_Truck_of_1979.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 526,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Soviet_GAZ-66_Truck_of_1979.jpg/1920px-Soviet_GAZ-66_Truck_of_1979.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Soviet_GAZ-66_Truck_of_1979.jpg/960px-Soviet_GAZ-66_Truck_of_1979.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 526,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Soviet_GAZ-66_Truck_of_1979.jpg/1920px-Soviet_GAZ-66_Truck_of_1979.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Soviet_GAZ-66_Truck_of_1979.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Soviet_GAZ-66_Truck_of_1979.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=163175107",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-04-04 15:29:16",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Soviet GAZ-66 Truck of 1979",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GAZ-66|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Files from Steve Knight Flickr stream|Military vehicles in the Vietnam Military History Museum|Flickr images missing SDC published in",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "21.009824",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "105.753234",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The brand-new Museum of the Vietnamese Armed Forces is a stunning new building on a huge site about 5 km west of Hanoi city centre. I hired a taxi for the day for around US$50 to do this and the Airforce and B-52 Victory museums, as there is currently no public transport option to reach all three.\n<p>Currently (April 2025) only the ground floor is open. There will be three more floors of display galleries above and a top-floor restaurant. Right now, tourist facilities are limited to a small cafe at the gate and no shop! However, the ground floor galleries are simply superb. The left side is devoted to Vietnam's military history from the 10th Century up to the French invasion in 1850 and includes weapons from 950AD onwards.\n</p><p>The right hand side of the building covers the two Indochina wars - against the French in the 1950s and the Americans in the 1970s. It is just a great museum and covers the conflicts in detail with English translations or subtitles throughout. \n</p>\nOutside are the larger aircraft exhibits which are also really good, but there is plenty of room for more to be added. I spotted an ex-Vietnam Airlines Ilyushin IL-18 in store at the airport that could easily be moved here to join their IL-14. The panes are a mix of captured USA and Soviet-supplied fighters and transports - my favourite is the Antonov AN-26 which was apparently converted to a bomber role!",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-04-03 11:33:08",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/58415659@N00/54426978447/\">https://www.flickr.com/photos/58415659@N00/54426978447/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "kitmasterbloke",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "3933548": {
+        "pageid": 3933548,
+        "ns": 6,
+        "title": "File:Tem phiếu thời bao cấp.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 299683,
+            "width": 1151,
+            "height": 864,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Tem_phi%E1%BA%BFu_th%E1%BB%9Di_bao_c%E1%BA%A5p.jpg/960px-Tem_phi%E1%BA%BFu_th%E1%BB%9Di_bao_c%E1%BA%A5p.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 721,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/9/99/Tem_phi%E1%BA%BFu_th%E1%BB%9Di_bao_c%E1%BA%A5p.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Tem_phi%E1%BA%BFu_th%E1%BB%9Di_bao_c%E1%BA%A5p.jpg/960px-Tem_phi%E1%BA%BFu_th%E1%BB%9Di_bao_c%E1%BA%A5p.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 721,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/9/99/Tem_phi%E1%BA%BFu_th%E1%BB%9Di_bao_c%E1%BA%A5p.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Tem_phi%E1%BA%BFu_th%E1%BB%9Di_bao_c%E1%BA%A5p.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tem_phi%E1%BA%BFu_th%E1%BB%9Di_bao_c%E1%BA%A5p.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=3933548",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-05-23 16:53:07",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Tem phiếu thời bao cấp",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Economy of Vietnam|Vietnam in the 1980s|Coupons|Flickr images reviewed by FlickreviewR",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Coupons used for buyings food stuff during the pre-Doi Moi period in Vietnam",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2007-08-08 10:58",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/63303913@N00/1047915046/\">Hanoi_Museum - 25.jpg</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/63303913@N00\">Myra Siason</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "94618119": {
+        "pageid": 94618119,
+        "ns": 6,
+        "title": "File:Thoi bao cap.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2180269,
+            "width": 2592,
+            "height": 1944,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Thoi_bao_cap.jpg/960px-Thoi_bao_cap.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 720,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Thoi_bao_cap.jpg/1920px-Thoi_bao_cap.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Thoi_bao_cap.jpg/960px-Thoi_bao_cap.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 720,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Thoi_bao_cap.jpg/1920px-Thoi_bao_cap.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Thoi_bao_cap.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Thoi_bao_cap.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=94618119",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2007-11-12 22:54:34",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Thoi bao cap",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Nikon Coolpix P2|Vietnam in the 1980s|Vietnam Museum of Ethnology|Vietnam in the 1970s|License migration completed|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Một căn phòng với những vật dụng tiêu biểu cho <a href=\"https://vi.wikipedia.org/wiki/Th%E1%BB%9Di_bao_c%E1%BA%A5p\" class=\"extiw\" title=\"vi:Thời bao cấp\">Thời bao cấp</a>. Mô hình phục dựng tại <a href=\"https://vi.wikipedia.org/wiki/B%E1%BA%A3o_t%C3%A0ng_D%C3%A2n_t%E1%BB%99c_h%E1%BB%8Dc_Vi%E1%BB%87t_Nam\" class=\"extiw\" title=\"vi:Bảo tàng Dân tộc học Việt Nam\">Bảo tàng Dân tộc học Việt Nam</a>. Các đồ dùng tiêu biểu có thể kể tới <a href=\"https://vi.wikipedia.org/wiki/t%E1%BB%A7_l%E1%BA%A1nh\" class=\"extiw\" title=\"vi:tủ lạnh\">tủ lạnh</a> <a href=\"https://vi.wikipedia.org/wiki/Saratov\" class=\"extiw\" title=\"vi:Saratov\">Saratov</a>, <a href=\"https://vi.wikipedia.org/wiki/ru:%D0%9D%D0%B5%D0%B2%D0%B0%D0%BB%D1%8F%D1%88%D0%BA%D0%B0\" class=\"extiw\" title=\"vi:ru:Неваляшка\">lật đật Liên Xô</a>, giường gấp,..",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Hình do người truyền lên chụp ngày 18 tháng 6 năm <a href=\"https://vi.wikipedia.org/wiki/2006\" class=\"extiw\" title=\"vi:2006\">2006</a>.",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"https://vi.wikipedia.org/wiki/User:Rungbachduong\" class=\"extiw\" title=\"vi:User:Rungbachduong\">vi:User:Rungbachduong</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "202644958": {
+        "pageid": 202644958,
+        "ns": 6,
+        "title": "File:Vietnam 500 dong banknote, 1988 back side.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2306133,
+            "width": 2506,
+            "height": 1234,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Vietnam_500_dong_banknote%2C_1988_back_side.jpg/960px-Vietnam_500_dong_banknote%2C_1988_back_side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 473,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Vietnam_500_dong_banknote%2C_1988_back_side.jpg/1920px-Vietnam_500_dong_banknote%2C_1988_back_side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Vietnam_500_dong_banknote%2C_1988_back_side.jpg/960px-Vietnam_500_dong_banknote%2C_1988_back_side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 473,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Vietnam_500_dong_banknote%2C_1988_back_side.jpg/1920px-Vietnam_500_dong_banknote%2C_1988_back_side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Vietnam_500_dong_banknote%2C_1988_back_side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Vietnam_500_dong_banknote,_1988_back_side.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=202644958",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-11-02 06:09:20",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Vietnam 500 dong banknote, 1988 back side",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Banknotes of Vietnam|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "454545555",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1988",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:MATOP_0506&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:MATOP 0506 (page does not exist)\">MATOP 0506</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "202644718": {
+        "pageid": 202644718,
+        "ns": 6,
+        "title": "File:Vietnam 500 dong banknote, 1988 obverse side.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2653931,
+            "width": 2784,
+            "height": 1338,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Vietnam_500_dong_banknote%2C_1988_obverse_side.jpg/960px-Vietnam_500_dong_banknote%2C_1988_obverse_side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 960,
+            "thumbheight": 461,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Vietnam_500_dong_banknote%2C_1988_obverse_side.jpg/1920px-Vietnam_500_dong_banknote%2C_1988_obverse_side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Vietnam_500_dong_banknote%2C_1988_obverse_side.jpg/960px-Vietnam_500_dong_banknote%2C_1988_obverse_side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 960,
+              "height": 461,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Vietnam_500_dong_banknote%2C_1988_obverse_side.jpg/1920px-Vietnam_500_dong_banknote%2C_1988_obverse_side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Vietnam_500_dong_banknote%2C_1988_obverse_side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Vietnam_500_dong_banknote,_1988_obverse_side.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=202644718",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-11-02 06:04:35",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Vietnam 500 dong banknote, 1988 obverse side",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Banknotes of Vietnam|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "cool banknote",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1988",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:MATOP_0506&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:MATOP 0506 (page does not exist)\">MATOP 0506</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

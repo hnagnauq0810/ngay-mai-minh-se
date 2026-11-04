@@ -1,0 +1,56 @@
+{
+  "scene_id": "C06_S03",
+  "voice": "Thiện Minh",
+  "duration": 33.5155,
+  "segments": [
+    {
+      "text": "Những nấc thang của một cuộc kháng chiến.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "title",
+      "start": 0.0,
+      "end": 1.9794
+    },
+    {
+      "text": "Chiến thắng Việt Bắc Thu – Đông 1947 làm thất bại ý đồ đánh nhanh thắng nhanh của thực dân Pháp.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 2.5464,
+      "end": 8.4845
+    },
+    {
+      "text": "Chiến dịch Biên giới Thu – Đông 1950 tạo bước chuyển về thế chủ động trên chiến trường chính Bắc Bộ và mở rộng điều kiện liên lạc quốc tế.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 8.732,
+      "end": 16.2371
+    },
+    {
+      "text": "Đại hội II của Đảng năm 1951 tiếp tục định hướng cuộc kháng chiến.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 16.4845,
+      "end": 20.8557
+    },
+    {
+      "text": "Những thắng lợi và điều chỉnh đó gắn với phát triển lực lượng, hậu phương và quá trình tổ chức chiến tranh nhân dân.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 21.1031,
+      "end": 26.5464
+    },
+    {
+      "text": "Vậy Điện Biên Phủ không phải tự nhiên xuất hiện?",
+      "speaker": "CON",
+      "kind": "dialogue",
+      "start": 26.7938,
+      "end": 29.1856
+    },
+    {
+      "text": "Đúng. Nó nằm ở cuối một quá trình tích lũy lực lượng và kinh nghiệm.",
+      "speaker": "MẸ",
+      "kind": "dialogue",
+      "start": 29.5773,
+      "end": 33.1237
+    }
+  ]
+}

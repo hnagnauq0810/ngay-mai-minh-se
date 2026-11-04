@@ -1,0 +1,49 @@
+{
+  "scene_id": "C04_S02",
+  "voice": "Thiện Minh",
+  "duration": 29.9897,
+  "segments": [
+    {
+      "text": "Đặt độc lập lên hàng đầu.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "title",
+      "start": 0.0,
+      "end": 1.4021
+    },
+    {
+      "text": "Trước sự thay đổi của chiến tranh thế giới và tình hình Đông Dương, chủ trương của Đảng từng bước chuyển trọng tâm.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 1.9691,
+      "end": 7.4948
+    },
+    {
+      "text": "Hội nghị Trung ương lần thứ 8 tháng 5/1941, do Nguyễn Ái Quốc chủ trì, xác định giải phóng dân tộc là nhiệm vụ hàng đầu.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 7.7423,
+      "end": 15.4948
+    },
+    {
+      "text": "Mặt trận Việt Minh được thành lập nhằm tập hợp lực lượng rộng rãi.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 15.7423,
+      "end": 19.2062
+    },
+    {
+      "text": "Cùng với đó là quá trình xây dựng căn cứ, phát triển các tổ chức quần chúng và lực lượng vũ trang.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 19.4536,
+      "end": 24.567
+    },
+    {
+      "text": "Trong một thời điểm, biết xác định nhiệm vụ quan trọng nhất là điều quyết định cách tổ chức mọi nguồn lực.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "dialogue",
+      "start": 24.8144,
+      "end": 29.5979
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "scene_id": "C01_S02",
+  "voice": "Thiện Minh",
+  "duration": 33.1031,
+  "segments": [
+    {
+      "text": "Những con đường được thử nghiệm.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "title",
+      "start": 0.0,
+      "end": 1.4021
+    },
+    {
+      "text": "Đã có nhiều lựa chọn cứu nước khác nhau: từ những cuộc khởi nghĩa mang tinh thần trung quân đến các nỗ lực canh tân, vận động học tập, tổ chức lực lượng theo những quan điểm mới.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 1.9691,
+      "end": 10.7113
+    },
+    {
+      "text": "Mỗi con đường để lại kinh nghiệm nhưng không thành công trong mục tiêu giải phóng dân tộc.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 10.9588,
+      "end": 14.8351
+    },
+    {
+      "text": "Giáo trình gọi đó là cuộc khủng hoảng về đường lối cứu nước.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 15.0825,
+      "end": 18.134
+    },
+    {
+      "text": "Hiểu điều này giúp ta thấy sự ra đời của một đường lối cách mạng không phải biến cố tách rời những tìm tòi trước đó.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 18.3814,
+      "end": 24.4021
+    },
+    {
+      "text": "Vậy những người đi trước thất bại có phải vô ích không?",
+      "speaker": "CON",
+      "kind": "dialogue",
+      "start": 24.6495,
+      "end": 27.5361
+    },
+    {
+      "text": "Không. Lịch sử của một con đường còn được làm nên từ kinh nghiệm của những con đường chưa tới đích.",
+      "speaker": "MẸ",
+      "kind": "dialogue",
+      "start": 27.9278,
+      "end": 32.7113
+    }
+  ]
+}

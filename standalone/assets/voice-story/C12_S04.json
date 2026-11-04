@@ -1,0 +1,49 @@
+{
+  "scene_id": "C12_S04",
+  "voice": "Thiện Minh",
+  "duration": 34.2371,
+  "segments": [
+    {
+      "text": "Khi câu hỏi trở về chính bạn.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "title",
+      "start": 0.0,
+      "end": 1.8144
+    },
+    {
+      "text": "Những thế hệ trước đã phải trả lời những câu hỏi khác nhau: làm sao giành độc lập, làm sao bảo vệ và thống nhất đất nước, làm sao vượt qua những khó khăn và tìm cách phát triển.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 2.3814,
+      "end": 11.3711
+    },
+    {
+      "text": "Không ai có thể làm thay trọn vẹn câu trả lời của thế hệ tiếp theo.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 11.6186,
+      "end": 15.3299
+    },
+    {
+      "text": "Nếu hôm nay bạn có một ngày bình thường, có điều kiện học tập, lao động và góp phần vào xã hội, bạn sẽ muốn dùng ngày mai để làm gì?",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 15.5773,
+      "end": 22.3402
+    },
+    {
+      "text": "Thế hòa bình là gì, mẹ?",
+      "speaker": "CON",
+      "kind": "dialogue",
+      "start": 22.732,
+      "end": 24.3814
+    },
+    {
+      "text": "Là khi con có thể lớn lên mà không phải trải qua chiến tranh như nhiều thế hệ trước. Nhưng hòa bình cũng cần được giữ gìn, và tương lai tốt hơn cần được cùng nhau xây dựng.",
+      "speaker": "MẸ",
+      "kind": "dialogue",
+      "start": 24.7732,
+      "end": 33.8454
+    }
+  ]
+}

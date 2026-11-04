@@ -1,0 +1,56 @@
+{
+  "scene_id": "C12_S02",
+  "voice": "Thiện Minh",
+  "duration": 43.5773,
+  "segments": [
+    {
+      "text": "Bốn thập niên Đổi mới và những bài học.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "title",
+      "start": 0.0,
+      "end": 2.0619
+    },
+    {
+      "text": "Công cuộc Đổi mới tiếp tục được bổ sung và phát triển qua các kỳ Đại hội Đảng.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 2.6289,
+      "end": 6.7526
+    },
+    {
+      "text": "Đại hội XI năm 2011 thông qua Cương lĩnh bổ sung, phát triển; Đại hội XII năm 2016 nhấn mạnh đổi mới đồng bộ và xây dựng, chỉnh đốn Đảng.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 7.0,
+      "end": 16.1546
+    },
+    {
+      "text": "Đại hội XIII năm 2021 xác định mục tiêu phát triển gắn với các mốc 2030 và 2045.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 16.4021,
+      "end": 24.2371
+    },
+    {
+      "text": "Bên cạnh những thành tựu kinh tế, xã hội và hội nhập, vẫn còn hạn chế về chất lượng tăng trưởng, tình trạng tham nhũng, lãng phí và yêu cầu nâng cao năng lực quản trị.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 24.4845,
+      "end": 33.2268
+    },
+    {
+      "text": "Có nghĩa là mỗi thời kỳ lại phải xem những việc nào làm tốt, việc nào còn chưa tốt?",
+      "speaker": "CON",
+      "kind": "dialogue",
+      "start": 33.4742,
+      "end": 37.6804
+    },
+    {
+      "text": "Đúng. Những đánh giá ấy giúp đặt ra nhiệm vụ mới, thay vì nghĩ rằng mọi việc đã hoàn thành.",
+      "speaker": "MẸ",
+      "kind": "dialogue",
+      "start": 38.0722,
+      "end": 43.1856
+    }
+  ]
+}

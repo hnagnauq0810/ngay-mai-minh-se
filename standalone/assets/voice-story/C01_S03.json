@@ -1,0 +1,49 @@
+{
+  "scene_id": "C01_S03",
+  "voice": "Thiện Minh",
+  "duration": 34.8557,
+  "segments": [
+    {
+      "text": "Một hành trình dài hơn một thập niên.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "title",
+      "start": 0.0,
+      "end": 1.8969
+    },
+    {
+      "text": "Năm 1911, Nguyễn Tất Thành rời Tổ quốc tìm đường cứu nước.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 2.4639,
+      "end": 6.2577
+    },
+    {
+      "text": "Trong những năm sau đó, Nguyễn Ái Quốc tiếp cận phong trào công nhân và tư tưởng cách mạng trên thế giới.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 6.5052,
+      "end": 11.9485
+    },
+    {
+      "text": "Năm 1920 đánh dấu bước ngoặt quan trọng trong lựa chọn con đường cách mạng vô sản.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 12.1959,
+      "end": 17.0619
+    },
+    {
+      "text": "Từ giữa thập niên 1920, hoạt động truyền bá lý luận, đào tạo cán bộ và xây dựng tổ chức ở Quảng Châu góp phần chuẩn bị các điều kiện cho một chính đảng cách mạng ở Việt Nam.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 17.3093,
+      "end": 27.2887
+    },
+    {
+      "text": "Không phải chỉ có một cuộc gặp gỡ hay một ngày duy nhất thay đổi lịch sử. Có những bước ngoặt được chuẩn bị bằng nhiều năm học hỏi và tổ chức.",
+      "speaker": "MẸ",
+      "kind": "dialogue",
+      "start": 27.5361,
+      "end": 34.4639
+    }
+  ]
+}

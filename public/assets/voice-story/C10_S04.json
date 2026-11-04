@@ -1,0 +1,56 @@
+{
+  "scene_id": "C10_S04",
+  "voice": "Thiện Minh",
+  "duration": 39.0206,
+  "segments": [
+    {
+      "text": "Từ khó khăn đến yêu cầu đổi mới.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "title",
+      "start": 0.0,
+      "end": 1.9794
+    },
+    {
+      "text": "Đến cuối năm 1986, những tìm tòi thực tiễn cùng nhận thức về hạn chế của cơ chế quản lý cũ thúc đẩy yêu cầu đổi mới.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 2.5464,
+      "end": 9.7216
+    },
+    {
+      "text": "Đại hội VI tháng 12/1986 đề ra đường lối Đổi mới toàn diện, bắt đầu từ đổi mới tư duy, trước hết là tư duy kinh tế, từng bước khắc phục cơ chế tập trung, quan liêu, bao cấp và phát triển nền kinh tế hàng hóa nhiều thành phần.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 9.9691,
+      "end": 23.7423
+    },
+    {
+      "text": "Từ đây, đất nước bước vào một chặng đường thay đổi lâu dài.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 23.9897,
+      "end": 27.0412
+    },
+    {
+      "text": "Đổi mới không bắt đầu khi mọi vấn đề được giải quyết. Nó bắt đầu từ việc thừa nhận có những điều cần làm khác đi.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "dialogue",
+      "start": 27.2887,
+      "end": 32.9794
+    },
+    {
+      "text": "Vậy ngày mai của họ vẫn còn nhiều điều chưa biết?",
+      "speaker": "CON",
+      "kind": "dialogue",
+      "start": 33.3711,
+      "end": 36.0928
+    },
+    {
+      "text": "Đúng, nhưng đã có một hướng đi mới.",
+      "speaker": "MẸ",
+      "kind": "dialogue",
+      "start": 36.4845,
+      "end": 38.6289
+    }
+  ]
+}

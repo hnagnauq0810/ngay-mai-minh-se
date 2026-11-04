@@ -1,0 +1,1382 @@
+{
+  "version": "2.0",
+  "scenes": {
+    "PRO_S01": [
+      {
+        "asset": "hanoi_life_video",
+        "anchor": "",
+        "label": "Một ngày trên phố",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "school_today",
+        "anchor": "Có thể là đi học",
+        "label": "Những dự định học tập",
+        "segment": 2,
+        "offset": 0.0
+      },
+      {
+        "asset": "ordinary_day",
+        "anchor": "Những dự định ấy nhỏ",
+        "label": "Những điều bình thường",
+        "segment": 3,
+        "offset": 0.0
+      },
+      {
+        "asset": "story_frame",
+        "anchor": "Nhưng lịch sử",
+        "label": "Câu hỏi mở ra hành trình",
+        "segment": 5,
+        "offset": 0.0
+      }
+    ],
+    "PRO_S02": [
+      {
+        "asset": "ai_mother_child_present",
+        "anchor": "",
+        "label": "Mẹ, con và người xem",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "hanoi_today",
+        "anchor": "đã sinh ra trong thời bình",
+        "label": "Đời sống thời bình",
+        "segment": 2,
+        "offset": 0.18103
+      },
+      {
+        "asset": "colonial_lake",
+        "anchor": "Những câu chuyện sắp tới",
+        "label": "Những lát cắt lịch sử sắp mở ra",
+        "segment": 4,
+        "offset": 0.0
+      }
+    ],
+    "C01_S01": [
+      {
+        "asset": "rubber_factory_1920s",
+        "anchor": "",
+        "label": "Lao động thời thuộc địa",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "nguyen_ai_quoc_1921",
+        "anchor": "câu hỏi đang đặt ra",
+        "label": "Những con người tìm đường",
+        "segment": 3,
+        "offset": 0.16049
+      },
+      {
+        "asset": "colonial_fair",
+        "anchor": "song những nỗ lực",
+        "label": "Bối cảnh đất nước trước một hướng đi chung",
+        "segment": 4,
+        "offset": 0.5
+      }
+    ],
+    "C01_S02": [
+      {
+        "asset": "colonial_shops",
+        "anchor": "",
+        "label": "Những lựa chọn cứu nước",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "physics_class",
+        "anchor": "Mỗi con đường",
+        "label": "Học tập và những hướng tìm tòi đầu thế kỷ XX",
+        "segment": 2,
+        "offset": 0.0
+      },
+      {
+        "asset": "unification_1930",
+        "anchor": "Hiểu điều này",
+        "label": "Từ kiếm tìm đến tổ chức",
+        "segment": 4,
+        "offset": 0.0
+      }
+    ],
+    "C01_S03": [
+      {
+        "asset": "journey_1911",
+        "anchor": "",
+        "label": "Các mốc của hành trình",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "nguyen_tours",
+        "anchor": "Năm 1920",
+        "label": "Bước ngoặt tại Đại hội Tours năm 1920",
+        "segment": 3,
+        "offset": 0.0
+      },
+      {
+        "asset": "nguyen_ai_quoc_1924",
+        "anchor": "Từ giữa thập niên",
+        "label": "Chuẩn bị lý luận và tổ chức",
+        "segment": 4,
+        "offset": 0.0
+      }
+    ],
+    "C01_S04": [
+      {
+        "asset": "nguyen_ai_quoc_1921",
+        "anchor": "",
+        "label": "Trước hội nghị hợp nhất",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "nguyen_marseille",
+        "anchor": "Hội nghị hợp nhất",
+        "label": "Chân dung người chủ trì, ảnh năm 1921",
+        "segment": 2,
+        "offset": 0.0
+      },
+      {
+        "asset": "unification_1930",
+        "anchor": "Ngày 3 tháng 2",
+        "label": "Mốc thành lập năm 1930",
+        "segment": 3,
+        "offset": 0.0
+      }
+    ],
+    "C02_S01": [
+      {
+        "asset": "ai_household_1930",
+        "anchor": "",
+        "label": "Một gia đình trong biến động",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "colonial_boulevard",
+        "anchor": "phong trào đấu tranh",
+        "label": "Đời sống trong xã hội thuộc địa",
+        "segment": 3,
+        "offset": 0.16438
+      },
+      {
+        "asset": "colonial_shops",
+        "anchor": "thuế khóa",
+        "label": "Sinh kế và sinh hoạt thời thuộc địa",
+        "segment": 4,
+        "offset": 0.78788
+      }
+    ],
+    "C02_S02": [
+      {
+        "asset": "nghe_tinh_context",
+        "anchor": "",
+        "label": "Cao trào 1930–1931",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "nghe_tinh_decree",
+        "anchor": "tại một số địa phương",
+        "label": "Tư liệu liên quan Nghệ Tĩnh",
+        "segment": 1,
+        "offset": 0.63529
+      },
+      {
+        "asset": "rubber_factory_1920s",
+        "anchor": "Những thiệt hại này",
+        "label": "Bối cảnh thuộc địa, không phải ảnh đàn áp",
+        "segment": 3,
+        "offset": 0.0
+      }
+    ],
+    "C02_S03": [
+      {
+        "asset": "tran_phu",
+        "anchor": "",
+        "label": "Nhân vật gắn với Luận cương",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "political_line",
+        "anchor": "Luận cương tháng 10",
+        "label": "Nhiệm vụ và giới hạn nhận định",
+        "segment": 2,
+        "offset": 0.0
+      },
+      {
+        "asset": "physics_class",
+        "anchor": "thực tiễn",
+        "label": "Bối cảnh học tập của các tầng lớp xã hội đương thời",
+        "segment": 3,
+        "offset": 0.89796
+      }
+    ],
+    "C02_S04": [
+      {
+        "asset": "nghe_tinh_decree",
+        "anchor": "",
+        "label": "Từ những tổn thất 1930–1931",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "recovery_1935",
+        "anchor": "Chương trình hành động",
+        "label": "Các mốc 1932 và 1935",
+        "segment": 2,
+        "offset": 0.0
+      },
+      {
+        "asset": "nguyen_1922",
+        "anchor": "Nhìn lại",
+        "label": "Chân dung Nguyễn Ái Quốc, ảnh 1922",
+        "segment": 3,
+        "offset": 0.0
+      }
+    ],
+    "C03_S01": [
+      {
+        "asset": "ai_press_1937",
+        "anchor": "",
+        "label": "Trang báo và cuộc trò chuyện",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "phan_dang_luu",
+        "anchor": "các yêu cầu về đời sống",
+        "label": "Phong trào dân chủ tại Huế",
+        "segment": 4,
+        "offset": 0.31148
+      },
+      {
+        "asset": "university_1937",
+        "anchor": "Lần này",
+        "label": "Không gian học tập và đời sống trí thức năm 1937",
+        "segment": 5,
+        "offset": 0.0
+      }
+    ],
+    "C03_S02": [
+      {
+        "asset": "world_1936",
+        "anchor": "",
+        "label": "Hoàn cảnh quốc tế",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "press_1939_front",
+        "anchor": "Đảng điều chỉnh",
+        "label": "Một tờ báo thuộc địa cuối thập niên 1930",
+        "segment": 2,
+        "offset": 0.0
+      },
+      {
+        "asset": "colonial_fair",
+        "anchor": "Sự thay đổi này",
+        "label": "Đời sống kinh tế và xã hội trong bối cảnh đương thời",
+        "segment": 3,
+        "offset": 0.0
+      }
+    ],
+    "C03_S03": [
+      {
+        "asset": "political_press",
+        "anchor": "",
+        "label": "Những hình thức tập hợp",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "ai_press_1937",
+        "anchor": "Những phong trào ấy",
+        "label": "Minh họa việc tập hợp và trao đổi qua báo chí",
+        "segment": 2,
+        "offset": 0.0
+      },
+      {
+        "asset": "university_1937",
+        "anchor": "Đấu tranh chính trị",
+        "label": "Bối cảnh sinh hoạt và học tập năm 1937",
+        "segment": 3,
+        "offset": 0.0
+      }
+    ],
+    "C03_S04": [
+      {
+        "asset": "phan_dang_luu",
+        "anchor": "",
+        "label": "Kinh nghiệm từ phong trào",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "world_1936",
+        "anchor": "Những kinh nghiệm",
+        "label": "Bối cảnh 1936–1939",
+        "segment": 1,
+        "offset": 0.0
+      },
+      {
+        "asset": "world_context",
+        "anchor": "Tháng 9/1939",
+        "label": "Một giai đoạn mới của thế giới",
+        "segment": 2,
+        "offset": 0.0
+      }
+    ],
+    "C04_S01": [
+      {
+        "asset": "august_17",
+        "anchor": "",
+        "label": "Hà Nội cuối tháng Tám 1945",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "august_28",
+        "anchor": "thời cơ lịch sử",
+        "label": "Hà Nội cuối tháng Tám năm 1945",
+        "segment": 4,
+        "offset": 0.10714
+      },
+      {
+        "asset": "vietminh_training",
+        "anchor": "quay lại những năm",
+        "label": "Nhìn lại việc chuẩn bị lực lượng, tư liệu tháng 8/1945",
+        "segment": 5,
+        "offset": 0.34911
+      }
+    ],
+    "C04_S02": [
+      {
+        "asset": "pac_bo",
+        "anchor": "",
+        "label": "Địa điểm gắn với quá trình chuẩn bị",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "nguyen_1922",
+        "anchor": "Hội nghị Trung ương",
+        "label": "Ảnh chân dung nhân vật, không phải hội nghị năm 1941",
+        "segment": 2,
+        "offset": 0.0
+      },
+      {
+        "asset": "preparation_1941",
+        "anchor": "Mặt trận Việt Minh",
+        "label": "Tập hợp và xây dựng lực lượng",
+        "segment": 3,
+        "offset": 0.0
+      }
+    ],
+    "C04_S03": [
+      {
+        "asset": "hanoi_march_1945",
+        "anchor": "",
+        "label": "Đảo chính tháng 3/1945",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "world_context",
+        "anchor": "Khi Nhật tuyên bố",
+        "label": "Thế giới và thời cơ tháng Tám",
+        "segment": 3,
+        "offset": 0.0
+      },
+      {
+        "asset": "august_28",
+        "anchor": "Nhưng sự nhanh nhạy",
+        "label": "Hà Nội cuối tháng Tám năm 1945",
+        "segment": 4,
+        "offset": 0.0
+      }
+    ],
+    "C04_S04": [
+      {
+        "asset": "hanoi_august_1945",
+        "anchor": "",
+        "label": "Tổng khởi nghĩa tháng Tám",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "independence_1945",
+        "anchor": "Ngày 2/9/1945",
+        "label": "Ngày Tuyên ngôn Độc lập",
+        "segment": 2,
+        "offset": 0.0
+      },
+      {
+        "asset": "independence_dais",
+        "anchor": "Thành quả này",
+        "label": "Toàn cảnh lễ đài ngày Độc lập",
+        "segment": 3,
+        "offset": 0.0
+      }
+    ],
+    "C05_S01": [
+      {
+        "asset": "famine_relief",
+        "anchor": "",
+        "label": "Ngày vận động chống nạn đói",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "hunger_relief_1946",
+        "anchor": "Chính quyền mới",
+        "label": "Tư liệu vận động cứu đói đầu năm 1946",
+        "segment": 4,
+        "offset": 0.0
+      },
+      {
+        "asset": "literacy",
+        "anchor": "giáo dục",
+        "label": "Học đọc, học viết cùng xây dựng đời sống",
+        "segment": 4,
+        "offset": 0.62617
+      }
+    ],
+    "C05_S02": [
+      {
+        "asset": "ai_literacy_1945",
+        "anchor": "",
+        "label": "Một lớp học của người lớn",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "government_1946",
+        "anchor": "biết chữ gắn",
+        "label": "Chính quyền mới và các nhiệm vụ dân sinh",
+        "segment": 3,
+        "offset": 0.5509
+      },
+      {
+        "asset": "assembly_exit",
+        "anchor": "chính quyền mới",
+        "label": "Hoạt động Quốc hội năm 1946",
+        "segment": 4,
+        "offset": 0.74603
+      }
+    ],
+    "C05_S03": [
+      {
+        "asset": "ballot_1946",
+        "anchor": "",
+        "label": "Từ lá phiếu đến Hiến pháp",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "assembly_1946",
+        "anchor": "xây dựng chính quyền",
+        "label": "Quốc hội khóa I",
+        "segment": 2,
+        "offset": 0.08475
+      },
+      {
+        "asset": "fontainebleau_1946",
+        "anchor": "Trong cùng thời gian",
+        "label": "Bối cảnh hoạt động của Chính phủ năm 1946",
+        "segment": 3,
+        "offset": 0.0
+      }
+    ],
+    "C05_S04": [
+      {
+        "asset": "nation_building",
+        "anchor": "",
+        "label": "Vừa kiến thiết, vừa giữ độc lập",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "office_1946",
+        "anchor": "Ở miền Bắc",
+        "label": "Công việc ngoại giao năm 1946",
+        "segment": 2,
+        "offset": 0.0
+      },
+      {
+        "asset": "resistance",
+        "anchor": "chuẩn bị kháng chiến",
+        "label": "Chuẩn bị cho cuộc kháng chiến lâu dài",
+        "segment": 3,
+        "offset": 0.74107
+      }
+    ],
+    "C06_S01": [
+      {
+        "asset": "dien_bien_porters",
+        "anchor": "",
+        "label": "Công việc của người dân công",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "dien_bien_trench",
+        "anchor": "đưa lương thực",
+        "label": "Nhu cầu tiếp tế cho chiến trường",
+        "segment": 3,
+        "offset": 0.71818
+      },
+      {
+        "asset": "road_engineers",
+        "anchor": "một cuộc kháng chiến lớn",
+        "label": "Mở đường cho công tác tiếp vận",
+        "segment": 5,
+        "offset": 0.07216
+      }
+    ],
+    "C06_S02": [
+      {
+        "asset": "dbp_artillery",
+        "anchor": "",
+        "label": "Các mặt của cuộc kháng chiến",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "ethnic_porters",
+        "anchor": "Điều đó có nghĩa",
+        "label": "Những người dân công trên tuyến vận chuyển",
+        "segment": 3,
+        "offset": 0.0
+      },
+      {
+        "asset": "southern_resistance",
+        "anchor": "Từ người dân công",
+        "label": "Tư liệu lực lượng kháng chiến ở Nam Bộ",
+        "segment": 4,
+        "offset": 0.0
+      }
+    ],
+    "C06_S03": [
+      {
+        "asset": "resistance",
+        "anchor": "",
+        "label": "Những nấc phát triển",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "dong_khe_1950",
+        "anchor": "Chiến dịch Biên giới",
+        "label": "Biên giới Thu–Đông 1950",
+        "segment": 2,
+        "offset": 0.0
+      },
+      {
+        "asset": "congress_1951",
+        "anchor": "Đại hội II",
+        "label": "Đại hội năm 1951",
+        "segment": 3,
+        "offset": 0.0
+      },
+      {
+        "asset": "congress_1951_report",
+        "anchor": "Những thắng lợi",
+        "label": "Định hướng và tổ chức cuộc kháng chiến",
+        "segment": 4,
+        "offset": 0.0
+      }
+    ],
+    "C06_S04": [
+      {
+        "asset": "dien_bien_victory",
+        "anchor": "",
+        "label": "Điện Biên Phủ năm 1954",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "dien_bien_trench",
+        "anchor": "Thắng lợi là",
+        "label": "Chiến đấu và sinh hoạt chiến trường",
+        "segment": 2,
+        "offset": 0.0
+      },
+      {
+        "asset": "dien_bien_porters",
+        "anchor": "Những chiếc xe đạp",
+        "label": "Hậu cần và sức dân",
+        "segment": 3,
+        "offset": 0.0
+      }
+    ],
+    "C06_S05": [
+      {
+        "asset": "geneva_1954",
+        "anchor": "",
+        "label": "Hội nghị Genève 1954",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "hien_luong_today",
+        "anchor": "Ở Việt Nam",
+        "label": "Địa điểm gợi giới tuyến tạm thời",
+        "segment": 2,
+        "offset": 0.0
+      },
+      {
+        "asset": "geneva_hanoi_video",
+        "anchor": "Một niềm hy vọng",
+        "label": "Hà Nội trong những ngày hội nghị",
+        "segment": 4,
+        "offset": 0.0
+      }
+    ],
+    "C07_S01": [
+      {
+        "asset": "ai_river_1955",
+        "anchor": "",
+        "label": "Một dòng sông trong ký ức chia cắt",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "students_1952",
+        "anchor": "Người thứ nhất",
+        "label": "Hình ảnh người trẻ Hà Nội trước giai đoạn chia cắt",
+        "segment": 2,
+        "offset": 0.0
+      },
+      {
+        "asset": "geneva_crowd_video",
+        "anchor": "Từ năm 1954",
+        "label": "Một góc khác của Hà Nội tháng 7/1954",
+        "segment": 5,
+        "offset": 0.0
+      }
+    ],
+    "C07_S02": [
+      {
+        "asset": "land_reform_titles",
+        "anchor": "",
+        "label": "Tư liệu về cải cách ruộng đất",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "land_reform_farmer",
+        "anchor": "thành tựu",
+        "label": "Một hình ảnh người nông dân",
+        "segment": 2,
+        "offset": 0.2
+      },
+      {
+        "asset": "reform_lesson",
+        "anchor": "sai lầm nghiêm trọng",
+        "label": "Nhìn nhận và sửa sai",
+        "segment": 2,
+        "offset": 0.35484
+      }
+    ],
+    "C07_S03": [
+      {
+        "asset": "ai_village_1960",
+        "anchor": "",
+        "label": "Bối cảnh chia cắt",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "hien_luong_today",
+        "anchor": "Phong trào đấu tranh",
+        "label": "Địa điểm gợi bối cảnh chia cắt",
+        "segment": 3,
+        "offset": 0.0
+      },
+      {
+        "asset": "dong_khoi_timeline",
+        "anchor": "Hội nghị Trung ương 15",
+        "label": "Các mốc chuyển biến 1959–1960",
+        "segment": 3,
+        "offset": 0.2963
+      }
+    ],
+    "C07_S04": [
+      {
+        "asset": "two_missions",
+        "anchor": "",
+        "label": "Hai nhiệm vụ chiến lược",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "trail_map",
+        "anchor": "Trường Sơn",
+        "label": "Sơ đồ tuyến đường chi viện",
+        "segment": 3,
+        "offset": 0.23
+      },
+      {
+        "asset": "trail_people",
+        "anchor": "được xây dựng",
+        "label": "Vận chuyển trên tuyến đường",
+        "segment": 3,
+        "offset": 0.48
+      },
+      {
+        "asset": "trail_bicycles",
+        "anchor": "Hai tuyến câu chuyện",
+        "label": "Những mắt xích liên hệ hai miền",
+        "segment": 4,
+        "offset": 0.0
+      }
+    ],
+    "C07_S05": [
+      {
+        "asset": "hanoi_1966_video",
+        "anchor": "",
+        "label": "Tư liệu năm 1966 về chiến tranh mở rộng",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "trail_road",
+        "anchor": "Từ đây",
+        "label": "Một đoạn đường trong hệ thống vận tải",
+        "segment": 2,
+        "offset": 0.0
+      },
+      {
+        "asset": "ai_river_1955",
+        "anchor": "Những dự định",
+        "label": "Những dự định đời thường trong thời chia cắt",
+        "segment": 3,
+        "offset": 0.0
+      }
+    ],
+    "C08_S01": [
+      {
+        "asset": "ai_factory_1967",
+        "anchor": "",
+        "label": "Chiến tranh tại miền Bắc, tư liệu 1966",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "trail_bicycles",
+        "anchor": "chi viện tiền tuyến",
+        "label": "Một tuyến vận chuyển",
+        "segment": 2,
+        "offset": 0.85294
+      },
+      {
+        "asset": "saigon_repair",
+        "anchor": "Ở miền Nam",
+        "label": "Tư liệu Chợ Lớn trong những ngày Mậu Thân",
+        "segment": 3,
+        "offset": 0.0
+      },
+      {
+        "asset": "trail_map",
+        "anchor": "thống nhất đất nước",
+        "label": "Mối liên hệ giữa hai miền",
+        "segment": 4,
+        "offset": 0.87261
+      }
+    ],
+    "C08_S02": [
+      {
+        "asset": "saigon_1968",
+        "anchor": "",
+        "label": "Mậu Thân 1968",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "paris_arrivals_video",
+        "anchor": "đàm phán tại Paris",
+        "label": "Đàm phán tiếp diễn ở Paris, tư liệu 1972",
+        "segment": 2,
+        "offset": 0.85039
+      },
+      {
+        "asset": "saigon_deserted",
+        "anchor": "Đây là giai đoạn",
+        "label": "Một con phố trong những ngày Mậu Thân",
+        "segment": 3,
+        "offset": 0.0
+      }
+    ],
+    "C08_S03": [
+      {
+        "asset": "paris_talks_video",
+        "anchor": "",
+        "label": "Đàm phán Paris, phim năm 1972",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "b52_museum",
+        "anchor": "Cuối năm 1972",
+        "label": "Hiện vật gợi cuộc tập kích",
+        "segment": 1,
+        "offset": 0.0
+      },
+      {
+        "asset": "paris_1973",
+        "anchor": "Ngày 27/1/1973",
+        "label": "Lễ ký Hiệp định Paris",
+        "segment": 2,
+        "offset": 0.0
+      },
+      {
+        "asset": "paris_aftermath",
+        "anchor": "Nhưng sau hiệp định",
+        "label": "Hải Phòng sau Hiệp định, tháng 3/1973",
+        "segment": 3,
+        "offset": 0.0
+      }
+    ],
+    "C08_S04": [
+      {
+        "asset": "saigon_1975_street",
+        "anchor": "",
+        "label": "Sài Gòn dịp Tết, trước chiến dịch",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "victory_celebration",
+        "anchor": "Ngày 30/4/1975",
+        "label": "Một buổi chào mừng thắng lợi tháng 4/1975",
+        "segment": 3,
+        "offset": 0.0
+      },
+      {
+        "asset": "surrender_1975",
+        "anchor": "hai khung hình",
+        "label": "Văn bản gắn với kết thúc chiến tranh",
+        "segment": 4,
+        "offset": 0.13846
+      }
+    ],
+    "C08_S05": [
+      {
+        "asset": "tank_1975_museum",
+        "anchor": "",
+        "label": "Một hiện vật của chiến thắng",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "reconstruction",
+        "anchor": "Nhưng ba thập niên",
+        "label": "Thiệt hại và tái thiết",
+        "segment": 2,
+        "offset": 0.0
+      },
+      {
+        "asset": "saigon_after_tet",
+        "anchor": "Bước sang",
+        "label": "Nhìn lại những tổn thất ở đô thị, ảnh Chợ Lớn năm 1968",
+        "segment": 3,
+        "offset": 0.0
+      }
+    ],
+    "C09_S01": [
+      {
+        "asset": "ai_rebuild_1976",
+        "anchor": "",
+        "label": "Những việc sau chiến tranh",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "subsidy_display",
+        "anchor": "một mái nhà",
+        "label": "Vật dụng đời sống, mô hình trưng bày",
+        "segment": 2,
+        "offset": 0.24691
+      },
+      {
+        "asset": "ration_coupons",
+        "anchor": "Cả đất nước",
+        "label": "Những nhu cầu sinh hoạt trong giai đoạn hậu chiến",
+        "segment": 4,
+        "offset": 0.0
+      }
+    ],
+    "C09_S02": [
+      {
+        "asset": "state_1976",
+        "anchor": "",
+        "label": "Các mốc thống nhất nhà nước",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "government_1976",
+        "anchor": "Quốc hội quyết định",
+        "label": "Thành viên Chính phủ năm 1976",
+        "segment": 3,
+        "offset": 0.0
+      },
+      {
+        "asset": "reconstruction",
+        "anchor": "thời kỳ mới",
+        "label": "Những nhiệm vụ xây dựng đất nước",
+        "segment": 4,
+        "offset": 0.89091
+      }
+    ],
+    "C09_S03": [
+      {
+        "asset": "ai_ration_1980",
+        "anchor": "",
+        "label": "Hiện vật cơ chế phân phối",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "subsidy_display",
+        "anchor": "Cơ chế tập trung",
+        "label": "Một góc đời sống thời bao cấp",
+        "segment": 2,
+        "offset": 0.0
+      },
+      {
+        "asset": "planning_economy",
+        "anchor": "Từ bữa cơm",
+        "label": "Sản xuất, phân phối và động lực",
+        "segment": 3,
+        "offset": 0.0
+      }
+    ],
+    "C09_S04": [
+      {
+        "asset": "border_defence",
+        "anchor": "",
+        "label": "Hai hướng bảo vệ biên giới",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "border_vehicle",
+        "anchor": "nhiệm vụ bảo vệ",
+        "label": "Hiện vật hậu cần trong trưng bày",
+        "segment": 1,
+        "offset": 0.28333
+      },
+      {
+        "asset": "lang_son_damage",
+        "anchor": "Tháng 2/1979",
+        "label": "Dấu tích tại Lạng Sơn, ảnh về sau",
+        "segment": 3,
+        "offset": 0.0
+      }
+    ],
+    "C10_S01": [
+      {
+        "asset": "ai_farm_1981",
+        "anchor": "",
+        "label": "Nông nghiệp, ảnh minh họa năm 2015",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "planning_economy",
+        "anchor": "động lực",
+        "label": "Công sức và kết quả sản xuất",
+        "segment": 2,
+        "offset": 0.72642
+      },
+      {
+        "asset": "paddy_fields",
+        "anchor": "Chỉ thị 100",
+        "label": "Ruộng lúa và động lực sản xuất, ảnh minh họa hiện tại",
+        "segment": 4,
+        "offset": 0.0
+      }
+    ],
+    "C10_S02": [
+      {
+        "asset": "factory_today",
+        "anchor": "",
+        "label": "Nhà máy hiện đại để hình dung sản xuất",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "textile_machine_today",
+        "anchor": "Làm thế nào",
+        "label": "Máy móc và nguồn lực",
+        "segment": 2,
+        "offset": 0.0
+      },
+      {
+        "asset": "trainees_1985",
+        "anchor": "Các quyết định",
+        "label": "Học viên Việt Nam học nghề năm 1985",
+        "segment": 3,
+        "offset": 0.0
+      },
+      {
+        "asset": "factory_knit",
+        "anchor": "yêu cầu cải tiến",
+        "label": "Một dây chuyền dệt may, ảnh minh họa hiện đại",
+        "segment": 3,
+        "offset": 0.69065
+      }
+    ],
+    "C10_S03": [
+      {
+        "asset": "price_wage_money",
+        "anchor": "",
+        "label": "Ba thành phần của cuộc cải cách",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "ration_coupons",
+        "anchor": "những bất cập",
+        "label": "Bối cảnh phân phối thời bao cấp",
+        "segment": 1,
+        "offset": 0.8427
+      },
+      {
+        "asset": "ai_household_budget_1985",
+        "anchor": "Nhưng cải cách",
+        "label": "Thu nhập, giá cả và đời sống gia đình",
+        "segment": 2,
+        "offset": 0.0
+      }
+    ],
+    "C10_S04": [
+      {
+        "asset": "renewal_timeline",
+        "anchor": "",
+        "label": "Từ tìm tòi đến Đổi mới",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "factory_bricks",
+        "anchor": "hạn chế của cơ chế",
+        "label": "Hoạt động sản xuất, ảnh minh họa về sau",
+        "segment": 1,
+        "offset": 0.52586
+      },
+      {
+        "asset": "ai_ration_1980",
+        "anchor": "bao cấp",
+        "label": "Hình dung cơ chế phân phối cũ",
+        "segment": 2,
+        "offset": 0.73333
+      },
+      {
+        "asset": "factory_electronics",
+        "anchor": "Từ đây",
+        "label": "Sản xuất hiện đại trong chặng phát triển về sau",
+        "segment": 3,
+        "offset": 0.0
+      }
+    ],
+    "C11_S01": [
+      {
+        "asset": "rice_today",
+        "anchor": "",
+        "label": "Một cánh đồng, ảnh minh họa về sau",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "rice_terraces",
+        "anchor": "Năm 1988",
+        "label": "Công việc và mùa vụ, ảnh minh họa nông nghiệp hiện tại",
+        "segment": 1,
+        "offset": 0.0
+      },
+      {
+        "asset": "floating_market",
+        "anchor": "xuất khẩu gạo",
+        "label": "Giao thương đồng bằng, ảnh minh họa",
+        "segment": 3,
+        "offset": 0.74545
+      },
+      {
+        "asset": "rice_husk_work_video",
+        "anchor": "tính toán công sức",
+        "label": "Lao động và phụ phẩm nông nghiệp ngày nay",
+        "segment": 5,
+        "offset": 0.58879
+      }
+    ],
+    "C11_S02": [
+      {
+        "asset": "ai_vocational_1990",
+        "anchor": "",
+        "label": "Một hình ảnh học nghề trước Đổi mới",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "factory_workers",
+        "anchor": "công nghiệp hóa",
+        "label": "Lao động công nghiệp về sau",
+        "segment": 2,
+        "offset": 0.84211
+      },
+      {
+        "asset": "textile_machine_today",
+        "anchor": "năng lực sản xuất",
+        "label": "Máy móc trong sản xuất hiện đại",
+        "segment": 3,
+        "offset": 0.75159
+      },
+      {
+        "asset": "factory_today",
+        "anchor": "cơ hội phát triển",
+        "label": "Một cơ sở sản xuất hiện đại",
+        "segment": 3,
+        "offset": 0.88535
+      }
+    ],
+    "C11_S03": [
+      {
+        "asset": "asean_headquarters",
+        "anchor": "",
+        "label": "Trụ sở ASEAN, ảnh năm 2010",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "integration",
+        "anchor": "Ngày 28/7/1995",
+        "label": "Mốc gia nhập ASEAN",
+        "segment": 2,
+        "offset": 0.0
+      },
+      {
+        "asset": "port_container",
+        "anchor": "thương mại",
+        "label": "Vận tải hàng hóa trong chặng hội nhập",
+        "segment": 3,
+        "offset": 0.71795
+      },
+      {
+        "asset": "hanoi_life_video",
+        "anchor": "Những đường kết nối",
+        "label": "Đô thị trong chặng hội nhập về sau",
+        "segment": 4,
+        "offset": 0.0
+      }
+    ],
+    "C11_S04": [
+      {
+        "asset": "wto_headquarters",
+        "anchor": "",
+        "label": "Trụ sở WTO, ảnh năm 2001",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "port_cranes",
+        "anchor": "ngày 11/1/2007",
+        "label": "Hình ảnh cảng biển và giao thương",
+        "segment": 2,
+        "offset": 0.4586
+      },
+      {
+        "asset": "factory_electronics",
+        "anchor": "công nghệ",
+        "label": "Công nghệ và năng lực sản xuất hiện đại",
+        "segment": 3,
+        "offset": 0.73171
+      },
+      {
+        "asset": "metro_construction_video",
+        "anchor": "phát triển bền vững",
+        "label": "Hạ tầng ở chặng phát triển về sau",
+        "segment": 3,
+        "offset": 0.8374
+      }
+    ],
+    "C12_S01": [
+      {
+        "asset": "students_hallway",
+        "anchor": "",
+        "label": "Trở lại đời sống hôm nay",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "students_drawing",
+        "anchor": "đi học",
+        "label": "Một khung cảnh học tập hôm nay",
+        "segment": 2,
+        "offset": 0.41111
+      },
+      {
+        "asset": "factory_knit",
+        "anchor": "làm việc",
+        "label": "Công việc và kỹ năng trong sản xuất",
+        "segment": 2,
+        "offset": 0.5
+      },
+      {
+        "asset": "city_skyline",
+        "anchor": "Nhưng không phải",
+        "label": "Đô thị trong một chặng phát triển mới",
+        "segment": 4,
+        "offset": 0.0
+      }
+    ],
+    "C12_S02": [
+      {
+        "asset": "metro_station",
+        "anchor": "",
+        "label": "Một khía cạnh phát triển đô thị",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "hanoi_1999_bridge",
+        "anchor": "Đổi mới",
+        "label": "Hà Nội trên chặng đường Đổi mới, ảnh 1999",
+        "segment": 1,
+        "offset": 0.12821
+      },
+      {
+        "asset": "hanoi_today",
+        "anchor": "Bên cạnh",
+        "label": "Đời sống và không gian đô thị hiện tại",
+        "segment": 4,
+        "offset": 0.0
+      }
+    ],
+    "C12_S03": [
+      {
+        "asset": "future_goals",
+        "anchor": "",
+        "label": "Định hướng và mục tiêu phía trước",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "metro_construction_video",
+        "anchor": "khoa học",
+        "label": "Hạ tầng và công nghệ, tư liệu 2017",
+        "segment": 2,
+        "offset": 0.4058
+      },
+      {
+        "asset": "hanoi_metro",
+        "anchor": "Mục tiêu đến năm 2030",
+        "label": "Hình minh họa hiện tại cho mục tiêu tương lai",
+        "segment": 3,
+        "offset": 0.0
+      },
+      {
+        "asset": "city_skyline",
+        "anchor": "Đây là mục tiêu",
+        "label": "Hình ảnh hiện tại để suy nghĩ về mục tiêu phía trước",
+        "segment": 4,
+        "offset": 0.0
+      }
+    ],
+    "C12_S04": [
+      {
+        "asset": "school_today",
+        "anchor": "",
+        "label": "Những cơ hội của thế hệ hôm nay",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "hanoi_traffic_video",
+        "anchor": "Nếu hôm nay",
+        "label": "Một nhịp sống đô thị",
+        "segment": 3,
+        "offset": 0.0
+      },
+      {
+        "asset": "ordinary_day",
+        "anchor": "bạn sẽ muốn",
+        "label": "Dự định thuộc về chính bạn",
+        "segment": 3,
+        "offset": 0.72727
+      }
+    ],
+    "EPI_S01": [
+      {
+        "asset": "ai_children_morning",
+        "anchor": "",
+        "label": "Lặp lại những hình ảnh đời thường",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "students_drawing",
+        "anchor": "con đường đến trường",
+        "label": "Học tập và thực hành của người trẻ",
+        "segment": 3,
+        "offset": 0.14286
+      },
+      {
+        "asset": "journey_1911",
+        "anchor": "tìm đường cứu nước",
+        "label": "Nhìn lại điểm đầu hành trình",
+        "segment": 5,
+        "offset": 0.21118
+      },
+      {
+        "asset": "hanoi_1999_bridge",
+        "anchor": "Đổi mới",
+        "label": "Nhìn lại một chặng đường phát triển",
+        "segment": 5,
+        "offset": 0.95031
+      }
+    ],
+    "EPI_S02": [
+      {
+        "asset": "ai_future_notebook",
+        "anchor": "",
+        "label": "Một câu hỏi còn mở",
+        "segment": 0,
+        "offset": 0.0
+      },
+      {
+        "asset": "students_studying",
+        "anchor": "học nghiêm túc",
+        "label": "Cùng học một điều mới",
+        "segment": 2,
+        "offset": 0.07042
+      },
+      {
+        "asset": "factory_bricks",
+        "anchor": "làm tốt công việc",
+        "label": "Làm tốt một công việc cụ thể",
+        "segment": 2,
+        "offset": 0.5493
+      },
+      {
+        "asset": "hanoi_traffic_video",
+        "anchor": "một việc nhỏ",
+        "label": "Một ngày bình thường",
+        "segment": 2,
+        "offset": 0.90845
+      },
+      {
+        "asset": "hanoi_florist",
+        "anchor": "quá khứ và hiện tại",
+        "label": "Quá khứ và hiện tại trong những việc đời thường",
+        "segment": 4,
+        "offset": 0.20588
+      }
+    ]
+  }
+}

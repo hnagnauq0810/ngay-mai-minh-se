@@ -1,0 +1,49 @@
+{
+  "scene_id": "C04_S04",
+  "voice": "Thiện Minh",
+  "duration": 32.9381,
+  "segments": [
+    {
+      "text": "Tiếng nói về một nước độc lập.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "title",
+      "start": 0.0,
+      "end": 1.732
+    },
+    {
+      "text": "Từ giữa đến cuối tháng 8/1945, Tổng khởi nghĩa giành chính quyền thắng lợi ở nhiều địa phương trên cả nước.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 2.299,
+      "end": 8.6495
+    },
+    {
+      "text": "Ngày 2/9/1945, Chủ tịch Hồ Chí Minh đọc Tuyên ngôn Độc lập tại Quảng trường Ba Đình, khai sinh nước Việt Nam Dân chủ Cộng hòa.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 8.8969,
+      "end": 17.2268
+    },
+    {
+      "text": "Thành quả này gắn với sự lãnh đạo của Đảng, sự chuẩn bị lực lượng, việc nắm bắt thời cơ và sức mạnh tham gia của đông đảo nhân dân.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 17.4742,
+      "end": 24.6495
+    },
+    {
+      "text": "Vậy hôm ấy có phải là kết thúc câu chuyện không?",
+      "speaker": "CON",
+      "kind": "dialogue",
+      "start": 24.8969,
+      "end": 27.2062
+    },
+    {
+      "text": "Đó là kết thúc một chặng giành chính quyền. Nhưng giữ được nền độc lập còn là một câu chuyện khác.",
+      "speaker": "MẸ",
+      "kind": "dialogue",
+      "start": 27.5979,
+      "end": 32.5464
+    }
+  ]
+}

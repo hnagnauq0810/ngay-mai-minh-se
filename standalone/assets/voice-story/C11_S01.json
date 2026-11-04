@@ -1,0 +1,70 @@
+{
+  "scene_id": "C11_S01",
+  "voice": "Thiện Minh",
+  "duration": 40.3402,
+  "segments": [
+    {
+      "text": "Hạt giống và quyền chủ động.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "title",
+      "start": 0.0,
+      "end": 1.567
+    },
+    {
+      "text": "Năm 1988, Nghị quyết 10 về đổi mới quản lý kinh tế nông nghiệp tiếp tục thay đổi cơ chế sản xuất, phát huy vai trò của hộ nông dân.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 2.134,
+      "end": 10.4639
+    },
+    {
+      "text": "Những chuyển biến trong quản lý, sản xuất và phân phối góp phần cải thiện sản lượng lương thực.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 10.7113,
+      "end": 15.4124
+    },
+    {
+      "text": "Từ năm 1989, Việt Nam trở lại thị trường xuất khẩu gạo.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 15.6598,
+      "end": 19.701
+    },
+    {
+      "text": "Sự thay đổi này không chỉ đo bằng những con số.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 19.9485,
+      "end": 22.6701
+    },
+    {
+      "text": "Ở mỗi gia đình nông thôn, nó gắn với cách lập kế hoạch mùa vụ, tính toán công sức và dự định cho tương lai.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 22.9175,
+      "end": 29.0206
+    },
+    {
+      "text": "Mai mình tính lại mùa vụ, làm sao cho tốt hơn năm trước.",
+      "speaker": "NGƯỜI MẸ NÔNG DÂN (hư cấu)",
+      "kind": "dialogue",
+      "start": 29.268,
+      "end": 32.3196
+    },
+    {
+      "text": "Vậy một quyết sách có thể đến tận mỗi thửa ruộng?",
+      "speaker": "CON",
+      "kind": "dialogue",
+      "start": 32.7113,
+      "end": 35.0206
+    },
+    {
+      "text": "Đúng. Nhưng cần thời gian, điều kiện và nhiều con người để biến chủ trương thành kết quả.",
+      "speaker": "MẸ",
+      "kind": "dialogue",
+      "start": 35.4124,
+      "end": 39.9485
+    }
+  ]
+}

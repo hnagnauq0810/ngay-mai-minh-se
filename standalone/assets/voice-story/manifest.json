@@ -1,0 +1,404 @@
+{
+  "provider": "VieNeu-TTS-v3-Turbo",
+  "scenes": {
+    "sample-hai-dang": {
+      "voice": "Hải Đăng",
+      "speed": 0.97,
+      "signature": "96c7d50c74744ef3c8f32605956da79414ceea7c9e5fc50f1b514c9f3e0aa4e9",
+      "bytes": 123020,
+      "duration": 10.2165
+    },
+    "sample-thien-minh": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "725a6a1719a44edf7723c09bb6952b8fcc0800e44c6894c621f8309ed518083b",
+      "bytes": 126188,
+      "duration": 10.4639
+    },
+    "PRO_S01": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "1d9d2c3bc347a6ee36f0e78162fb7dbfbbd1ebd19c5d86074bbe079f02f5a09f",
+      "bytes": 376748,
+      "duration": 31.3505
+    },
+    "PRO_S02": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "aadd55739912425c7fbe3d114664f0995793d45ca5251cf3ded8ee06100b9a73",
+      "bytes": 435212,
+      "duration": 36.2165
+    },
+    "C01_S01": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "6b654b7d046db681dab9a528cc9633b2869035c10ba6accd168f2cebf3393515",
+      "bytes": 425132,
+      "duration": 35.3918
+    },
+    "C01_S02": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "48e4d255b54a211ab85718e4e78855ec07658dd3f267f567a88f217000bada3d",
+      "bytes": 397772,
+      "duration": 33.1031
+    },
+    "C01_S03": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "ad725b7fb8ed1b66fa28262ca4e945aae239ec6e526de33dba242d5ee6760d42",
+      "bytes": 418796,
+      "duration": 34.8557
+    },
+    "C01_S04": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "615b9c2361c6398ab3dc4970bebb735d1121a473604d6ad71dd058897605139c",
+      "bytes": 431756,
+      "duration": 35.9278
+    },
+    "C02_S01": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "4d344d45ed0893df57781487ffc5c655853253939d616ba3513b60ce0296862f",
+      "bytes": 444140,
+      "duration": 36.9588
+    },
+    "C02_S02": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "0bd8a4aaa5dc4597c3b4496898d2a746dff605d00021d9b7db203ce7f32510a9",
+      "bytes": 347372,
+      "duration": 28.9175
+    },
+    "C02_S03": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "d60cf49410b74cb175b9652073466f0762482289a147b61b2fe0f2f78998e09e",
+      "bytes": 410732,
+      "duration": 34.1753
+    },
+    "C02_S04": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "fec232d589b5dadbfbbec7c9546a30cd4edcaa17fe9594a6a0f12408e308e176",
+      "bytes": 322892,
+      "duration": 26.8557
+    },
+    "C03_S01": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "479d8ec21e0c828d3e2c35b8f23928718434716ef320668f6b4129b2e55e4e96",
+      "bytes": 328652,
+      "duration": 27.3505
+    },
+    "C03_S02": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "d4596462b6b673bbfc4ff5bf49da52e92abc4fe7b7f2211b065af6ad2c25fb64",
+      "bytes": 334412,
+      "duration": 27.8247
+    },
+    "C03_S03": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "d60fd2629931a249b4a991b141fc67822b68a564d5992a053855ee5eb58d73ed",
+      "bytes": 372140,
+      "duration": 30.9794
+    },
+    "C03_S04": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "e823f00cb252b86bfb301e6204de97adb248813fd23874ab213c0edcd87dcd42",
+      "bytes": 282284,
+      "duration": 23.4742
+    },
+    "C04_S01": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "be1fa618b684510bbab58b2708ef86650e8720b6f1c92653a847c55e48753481",
+      "bytes": 359180,
+      "duration": 29.8866
+    },
+    "C04_S02": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "ba366df34330091a66c4eca21cb253ed8dcf1abc870c014127f46463c8916b13",
+      "bytes": 360332,
+      "duration": 29.9897
+    },
+    "C04_S03": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "9d827c23e27d5b427b5cc78e3b11a274386c98af32059f29e377cf8c6ed4c706",
+      "bytes": 350540,
+      "duration": 29.1649
+    },
+    "C04_S04": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "4b2bc36216d7f422455647e5cf18e94a71dc18329be9e5a1cc975ba7358e9241",
+      "bytes": 395756,
+      "duration": 32.9381
+    },
+    "C05_S01": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "8e8c42c32a936f5a24461f6b4a65abc4b3990a3330003d1f87906ff8f6dcc2db",
+      "bytes": 463436,
+      "duration": 38.5876
+    },
+    "C05_S02": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "4cb6312f297e8745aa7f75d4cd4763f04978ea32b09ba9a3001f3a8eddd9a87d",
+      "bytes": 421100,
+      "duration": 35.0619
+    },
+    "C05_S03": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "732cbed34d02624363194e6c161b64c9c18e69b7cd789b857c0dfb1f77ea350d",
+      "bytes": 401804,
+      "duration": 33.433
+    },
+    "C05_S04": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "1ce3788d234d8bf732a6bfb3d7d30a68d3373b7b5088e1bc7049bf715dec0363",
+      "bytes": 412748,
+      "duration": 34.3608
+    },
+    "C06_S01": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "ba9923e06441b9583aedf807ca88573200c7c90af6267a3189d40f2bd60ed094",
+      "bytes": 398348,
+      "duration": 33.1649
+    },
+    "C06_S02": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "76d2bfffcb1312367206413fc7063160f25d000ca94054b360d8757a9461a41e",
+      "bytes": 413900,
+      "duration": 34.4433
+    },
+    "C06_S03": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "b9e7db0a56c08eac40003a34985490c5c0d6512e5a9ffbccc0f6307faae79c07",
+      "bytes": 402668,
+      "duration": 33.5155
+    },
+    "C06_S04": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "cbd1530e332fb88e768cc10ed171db505ffa6644895e05a733bd457d3709816a",
+      "bytes": 400652,
+      "duration": 33.3505
+    },
+    "C06_S05": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "984836ef408d3792d445e0dfa4e43bc48de025d0735187cdd49f1179ed29adab",
+      "bytes": 424556,
+      "duration": 35.3299
+    },
+    "C07_S01": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "344b6507ec35393c97dfb9721350e37926cf22d57605b1c202568894de848b83",
+      "bytes": 436076,
+      "duration": 36.299
+    },
+    "C07_S02": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "b33115fae1586be0839fdf03079c65e401b405c3aafbc82c1a78512656443285",
+      "bytes": 426572,
+      "duration": 35.4948
+    },
+    "C07_S03": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "33c1e4781308eedf1928068fc36e2f9d582ffa1da3272cf87ff9f9e32bdb3d6d",
+      "bytes": 489068,
+      "duration": 40.7216
+    },
+    "C07_S04": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "4c9488b0e34dcf19375fdf99c4b50c806ccfe22c34be9a45c752d9e8e59d04ed",
+      "bytes": 433196,
+      "duration": 36.0515
+    },
+    "C07_S05": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "0c67742ea515d7498820a59ca6cfeb02d79688d1d8d6699acdd62584181f141f",
+      "bytes": 329516,
+      "duration": 27.4124
+    },
+    "C08_S01": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "ffbd1c85d600ca731f79e492493d7839fb8ec8b2c80d3e68b44c129093aa2da5",
+      "bytes": 390860,
+      "duration": 32.5258
+    },
+    "C08_S02": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "56a36161042a9e30d3553419efa5639bdcf3fc5926965d0abace77cf12257ffa",
+      "bytes": 440396,
+      "duration": 36.6495
+    },
+    "C08_S03": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "6edabbf6fbd4a25cf9907a200e684f45d59d4954c0c68f47af1add6eecd26844",
+      "bytes": 398060,
+      "duration": 33.1237
+    },
+    "C08_S04": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "8947cfcb9407388ec6cddeccc2624696d2a264058e300f1229bb811dabc21628",
+      "bytes": 472076,
+      "duration": 39.2887
+    },
+    "C08_S05": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "a008a3b3fb26d850a9178e5406b21e3e5fa0b09b836208d38b44babb6332b707",
+      "bytes": 373004,
+      "duration": 31.0412
+    },
+    "C09_S01": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "7809c38bd3f8e825db27b244be0fa7af9b1e5dbdc2eb16ae06dc7bb6f8bb5b13",
+      "bytes": 409292,
+      "duration": 34.0722
+    },
+    "C09_S02": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "1cbff93fd69aa82b8316c546fb2eb23f7246e49b04057197cdbf17b55942d6d0",
+      "bytes": 485036,
+      "duration": 40.3814
+    },
+    "C09_S03": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "899d2a40341080fe73b8bf2e1fb1d54d4e792cdc655c27dfffeceaff616ecab8",
+      "bytes": 408140,
+      "duration": 33.9691
+    },
+    "C09_S04": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "be48fd800a0ade01d7717b6f928af7b5989685457602864366d45ba5d602055e",
+      "bytes": 434348,
+      "duration": 36.1546
+    },
+    "C10_S01": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "2dad0388513827aac2a42d82417b15898774725e0d51fa1384e71e0e9e22895d",
+      "bytes": 449036,
+      "duration": 37.3711
+    },
+    "C10_S02": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "cc42cbfb862bae86506b7c6e803bd5b29c840ef49d08ba95250cf8698e762682",
+      "bytes": 399500,
+      "duration": 33.2474
+    },
+    "C10_S03": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "015d7f7a38c156444ff2d58767bc8b28a06f4dce49654d70e79065d0cdd987fd",
+      "bytes": 382796,
+      "duration": 31.866
+    },
+    "C10_S04": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "daac18ce8ca67afb1fb7c05e2a5b006b3be150db9a591ce9b51692613e02f45e",
+      "bytes": 468620,
+      "duration": 39.0206
+    },
+    "C11_S01": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "1da1bd9540f939c74e96297522d73f06813cd8ded82558dce0d449dcc7222139",
+      "bytes": 484460,
+      "duration": 40.3402
+    },
+    "C11_S02": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "6789be2c778d8c17943efcdc97205835caaf92f6e95dae103f51b63b32257446",
+      "bytes": 452204,
+      "duration": 37.6392
+    },
+    "C11_S03": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "b6b951d66f1383d7472c9c17aa357cf3d111a5f46c08e5c74b5e19c1e0bcc2bb",
+      "bytes": 386828,
+      "duration": 32.1959
+    },
+    "C11_S04": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "1933ff818c6d09007f0bac175c0d2ea5e143dffe149bd4b0b1f6e48b06c3eaee",
+      "bytes": 392012,
+      "duration": 32.6289
+    },
+    "C12_S01": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "571be6ede5d434d2eaa1f71b982856ca73db32c99265702e6d5c24e9db082826",
+      "bytes": 385964,
+      "duration": 32.1134
+    },
+    "C12_S02": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "818a3239662fcbc501053ae18c8ffe6ba8e0b7cae432640f5db7eb9eb13e1158",
+      "bytes": 523340,
+      "duration": 43.5773
+    },
+    "C12_S03": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "59208c871ee39994e050451d872da3ce624e4e0264731dba63557a5b5efcae66",
+      "bytes": 598796,
+      "duration": 49.8557
+    },
+    "C12_S04": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "89cf7340d170147f76394e1ad7670daabbd01d795502d4ff6d001bf823421286",
+      "bytes": 411308,
+      "duration": 34.2371
+    },
+    "EPI_S01": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "a7058513df559718ef437a59e317dc0ccd27f04d5fd6e7f3c1c2bc440847e185",
+      "bytes": 432332,
+      "duration": 35.9897
+    },
+    "EPI_S02": {
+      "voice": "Thiện Minh",
+      "speed": 0.97,
+      "signature": "69cdada4395b2070de4bb8138b4dbf9ff4e63be4fa1dd0ebebc93e8b7038dd6c",
+      "bytes": 349100,
+      "duration": 29.0412
+    }
+  }
+}

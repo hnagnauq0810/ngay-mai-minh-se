@@ -1,0 +1,70 @@
+{
+  "scene_id": "PRO_S01",
+  "voice": "Thiện Minh",
+  "duration": 31.3505,
+  "segments": [
+    {
+      "text": "Một buổi sáng bình thường.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "title",
+      "start": 0.0,
+      "end": 1.4021
+    },
+    {
+      "text": "Sáng nay, bạn thức dậy và nghĩ về những việc phải làm.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 1.9691,
+      "end": 4.7732
+    },
+    {
+      "text": "Có thể là đi học, hoàn thành một bài tập, gặp một người bạn hay trở về ăn bữa cơm cùng gia đình.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 5.0206,
+      "end": 10.134
+    },
+    {
+      "text": "Những dự định ấy nhỏ đến mức ta hiếm khi gọi chúng bằng một cái tên đặc biệt.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 10.3814,
+      "end": 14.2577
+    },
+    {
+      "text": "Ta thường mặc định rằng ngày mai vẫn còn đó, rằng một ngày bình thường sẽ đến đúng hẹn.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 14.5052,
+      "end": 18.7938
+    },
+    {
+      "text": "Nhưng lịch sử của đất nước có những thời kỳ mà quyền được dự định cho ngày mai không hề đơn giản như thế.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 19.0412,
+      "end": 24.1546
+    },
+    {
+      "text": "Mai con muốn đi chơi với bạn sau giờ học.",
+      "speaker": "CON",
+      "kind": "dialogue",
+      "start": 24.4021,
+      "end": 26.4639
+    },
+    {
+      "text": "Ừ, nếu con học xong đã nhé.",
+      "speaker": "MẸ",
+      "kind": "dialogue",
+      "start": 26.8557,
+      "end": 29.0
+    },
+    {
+      "text": "Mẹ ơi... hòa bình là gì?",
+      "speaker": "CON",
+      "kind": "dialogue",
+      "start": 29.3918,
+      "end": 30.9588
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "scene_id": "C06_S05",
+  "voice": "Thiện Minh",
+  "duration": 35.3299,
+  "segments": [
+    {
+      "text": "Hòa bình trên văn kiện, tương lai còn mở.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "title",
+      "start": 0.0,
+      "end": 2.3093
+    },
+    {
+      "text": "Sau Điện Biên Phủ, Hiệp định Genève năm 1954 được ký kết nhằm lập lại hòa bình ở Đông Dương.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 2.8763,
+      "end": 9.4742
+    },
+    {
+      "text": "Ở Việt Nam, giới tuyến quân sự tạm thời gần vĩ tuyến 17 phục vụ việc tập kết lực lượng, không phải một biên giới quốc gia vĩnh viễn.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 9.7216,
+      "end": 16.732
+    },
+    {
+      "text": "Việc thống nhất bằng tổng tuyển cử được đặt ra, nhưng tiến trình sau đó không diễn ra theo dự kiến.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 16.9794,
+      "end": 22.1753
+    },
+    {
+      "text": "Một niềm hy vọng mới xuất hiện, đồng thời một thời kỳ lịch sử đầy phức tạp bắt đầu.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 22.4227,
+      "end": 26.7938
+    },
+    {
+      "text": "Nếu là tạm thời, sao có những gia đình phải xa nhau lâu đến thế?",
+      "speaker": "CON",
+      "kind": "dialogue",
+      "start": 27.0412,
+      "end": 30.8351
+    },
+    {
+      "text": "Đó là điều ta sẽ thấy khi nghe hai câu chuyện ở hai bên giới tuyến.",
+      "speaker": "MẸ",
+      "kind": "dialogue",
+      "start": 31.2268,
+      "end": 34.9381
+    }
+  ]
+}

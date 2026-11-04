@@ -1,0 +1,27 @@
+name: Quality checks
+on:
+  push:
+  pull_request:
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate story manifest
+        run: python3 scripts/validate_content.py
+      - name: Check generated HTML in sync with script
+        run: |
+          python3 scripts/build_site.py
+          git diff --exit-code -- generated/pageMarkup.json standalone/index.html
+      - name: Install dependencies
+        run: npm install --no-audit --no-fund
+      - name: Build static export
+        run: npm run build
+      - name: Verify build artifacts
+        run: test -s out/index.html

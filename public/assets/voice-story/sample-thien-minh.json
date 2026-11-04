@@ -1,0 +1,28 @@
+{
+  "scene_id": "PRO_S01",
+  "voice": "Thiện Minh",
+  "duration": 10.4639,
+  "segments": [
+    {
+      "text": "Một buổi sáng bình thường.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "title",
+      "start": 0.0,
+      "end": 1.3196
+    },
+    {
+      "text": "Sáng nay, bạn thức dậy và nghĩ về những việc phải làm.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 1.8866,
+      "end": 4.8557
+    },
+    {
+      "text": "Có thể là đi học, hoàn thành một bài tập, gặp một người bạn hay trở về ăn bữa cơm cùng gia đình.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 5.1031,
+      "end": 10.2165
+    }
+  ]
+}

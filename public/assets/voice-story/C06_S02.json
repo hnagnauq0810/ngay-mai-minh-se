@@ -1,0 +1,49 @@
+{
+  "scene_id": "C06_S02",
+  "voice": "Thiện Minh",
+  "duration": 34.4433,
+  "segments": [
+    {
+      "text": "Vì sao lại là kháng chiến toàn dân?",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "title",
+      "start": 0.0,
+      "end": 1.8969
+    },
+    {
+      "text": "Đêm 19/12/1946, Chủ tịch Hồ Chí Minh ra lời kêu gọi Toàn quốc kháng chiến.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 2.4639,
+      "end": 8.567
+    },
+    {
+      "text": "Đường lối kháng chiến được xác định trên tinh thần toàn dân, toàn diện, trường kỳ, dựa vào sức mình là chính và tranh thủ sự ủng hộ quốc tế.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 8.8144,
+      "end": 16.4021
+    },
+    {
+      "text": "Điều đó có nghĩa không chỉ có chiến trường quân sự: sản xuất, văn hóa, ngoại giao và hậu phương cũng là những mặt trận quan trọng.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 16.6495,
+      "end": 23.1649
+    },
+    {
+      "text": "Từ người dân công, ta bắt đầu nhìn thấy cả hệ thống tổ chức cuộc kháng chiến.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 23.4124,
+      "end": 27.2887
+    },
+    {
+      "text": "Không phải một chuyến xe đơn lẻ tạo nên chiến thắng. Đó là cả một mạng lưới con người, nguồn lực và quyết định được kết nối.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "dialogue",
+      "start": 27.5361,
+      "end": 34.0515
+    }
+  ]
+}

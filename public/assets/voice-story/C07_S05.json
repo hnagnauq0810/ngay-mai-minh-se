@@ -1,0 +1,49 @@
+{
+  "scene_id": "C07_S05",
+  "voice": "Thiện Minh",
+  "duration": 27.4124,
+  "segments": [
+    {
+      "text": "Những dự định trước cơn bão.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "title",
+      "start": 0.0,
+      "end": 1.4845
+    },
+    {
+      "text": "Đến năm 1965, chiến lược “Chiến tranh đặc biệt” của Hoa Kỳ ở miền Nam bị đánh bại; Hoa Kỳ đưa quân chiến đấu trực tiếp vào miền Nam và mở rộng đánh phá miền Bắc.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 2.0515,
+      "end": 11.6186
+    },
+    {
+      "text": "Từ đây, chiến tranh ngày càng lan rộng, tác động đến cả hai miền.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 11.866,
+      "end": 15.2474
+    },
+    {
+      "text": "Những dự định bình thường của hai nhân vật chưa dừng lại, nhưng mỗi ngày sống trở nên nhiều bất định hơn.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 15.4948,
+      "end": 20.6907
+    },
+    {
+      "text": "Tại sao màn hình vẫn chia đôi?",
+      "speaker": "CON",
+      "kind": "dialogue",
+      "start": 20.9381,
+      "end": 22.5876
+    },
+    {
+      "text": "Vì câu chuyện chưa đi đến ngày hai nửa đất nước có thể khép lại khoảng cách ấy.",
+      "speaker": "MẸ",
+      "kind": "dialogue",
+      "start": 22.9794,
+      "end": 27.0206
+    }
+  ]
+}

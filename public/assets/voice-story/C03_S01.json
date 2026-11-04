@@ -1,0 +1,56 @@
+{
+  "scene_id": "C03_S01",
+  "voice": "Thiện Minh",
+  "duration": 27.3505,
+  "segments": [
+    {
+      "text": "Người đọc báo đầu phố.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "title",
+      "start": 0.0,
+      "end": 1.3196
+    },
+    {
+      "text": "Bạn đi ngang một quán nước năm 1937.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 1.8866,
+      "end": 4.6907
+    },
+    {
+      "text": "Người ta nói về giá gạo, công việc và những điều được viết trên báo.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 4.9381,
+      "end": 8.4021
+    },
+    {
+      "text": "Bên ngoài, phố xá vẫn đông.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 8.6495,
+      "end": 10.4639
+    },
+    {
+      "text": "Nhưng trong những cuộc trò chuyện ấy, các yêu cầu về đời sống, quyền tự do và dân chủ đang trở thành vấn đề công khai hơn.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 10.7113,
+      "end": 17.2268
+    },
+    {
+      "text": "Lần này, câu chuyện lịch sử bắt đầu không từ tiếng súng mà từ một trang giấy và một cuộc tranh luận.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 17.4742,
+      "end": 22.2577
+    },
+    {
+      "text": "Mỗi người một nỗi lo. Nhưng nếu cùng nói về điều mình cần, có lẽ người ta sẽ nghe thấy.",
+      "speaker": "NGƯỜI ĐỌC (hư cấu)",
+      "kind": "dialogue",
+      "start": 22.5052,
+      "end": 26.9588
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "scene_id": "C10_S01",
+  "voice": "Thiện Minh",
+  "duration": 37.3711,
+  "segments": [
+    {
+      "text": "Cánh đồng cần thêm một cách nghĩ.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "title",
+      "start": 0.0,
+      "end": 1.8144
+    },
+    {
+      "text": "Hãy hình dung một hộ nông dân đã quen làm việc trong hợp tác xã.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 2.3814,
+      "end": 6.0103
+    },
+    {
+      "text": "Mỗi vụ mùa là bao nhiêu ngày nắng mưa, nhưng người lao động vẫn băn khoăn về động lực và kết quả sản xuất.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 6.2577,
+      "end": 11.5361
+    },
+    {
+      "text": "Những khó khăn thực tiễn thúc đẩy tìm tòi cách quản lý phù hợp hơn.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 11.7835,
+      "end": 15.0825
+    },
+    {
+      "text": "Chỉ thị 100 năm 1981 về khoán sản phẩm đến nhóm và người lao động đánh dấu một bước điều chỉnh quan trọng, tuy chưa phải lời giải cuối cùng cho mọi vấn đề nông nghiệp.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 15.3299,
+      "end": 25.1443
+    },
+    {
+      "text": "Mai mình vẫn ra đồng. Chỉ mong công sức bỏ ra có thể thành kết quả tốt hơn.",
+      "speaker": "NGƯỜI NÔNG DÂN (hư cấu)",
+      "kind": "dialogue",
+      "start": 25.3918,
+      "end": 29.6804
+    },
+    {
+      "text": "Một cách giao việc cũng thay đổi cuộc sống sao?",
+      "speaker": "CON",
+      "kind": "dialogue",
+      "start": 30.0722,
+      "end": 32.3814
+    },
+    {
+      "text": "Cách tổ chức lao động có thể quyết định người ta có động lực làm tốt đến đâu.",
+      "speaker": "MẸ",
+      "kind": "dialogue",
+      "start": 32.7732,
+      "end": 36.9794
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "scene_id": "C08_S03",
+  "voice": "Thiện Minh",
+  "duration": 33.1237,
+  "segments": [
+    {
+      "text": "Một văn kiện chưa kết thúc mọi tiếng súng.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "title",
+      "start": 0.0,
+      "end": 2.3918
+    },
+    {
+      "text": "Cuối năm 1972, cuộc tập kích đường không của Hoa Kỳ vào Hà Nội, Hải Phòng và sự chống trả của miền Bắc trở thành một bước ngoặt.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 2.9588,
+      "end": 10.4639
+    },
+    {
+      "text": "Ngày 27/1/1973, Hiệp định Paris được ký kết, quy định ngừng bắn và việc Hoa Kỳ rút quân, cùng những vấn đề chính trị, quân sự liên quan đến Việt Nam.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 10.7113,
+      "end": 20.9381
+    },
+    {
+      "text": "Nhưng sau hiệp định, xung đột tại miền Nam chưa chấm dứt.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 21.1856,
+      "end": 24.0722
+    },
+    {
+      "text": "Con đường đến thống nhất còn nhiều diễn biến phức tạp.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 24.3196,
+      "end": 26.8763
+    },
+    {
+      "text": "Đôi khi một văn kiện mở ra cơ hội cho hòa bình, nhưng không có nghĩa mọi khó khăn đã kết thúc ngay hôm ấy.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "dialogue",
+      "start": 27.1237,
+      "end": 32.732
+    }
+  ]
+}

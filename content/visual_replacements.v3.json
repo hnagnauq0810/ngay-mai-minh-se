@@ -1,0 +1,490 @@
+{
+  "scenes": {
+    "PRO_S02": [
+      {
+        "from": "story_frame",
+        "to": "ai_mother_child_present"
+      },
+      {
+        "from": "journey_1911",
+        "to": "colonial_lake",
+        "label": "Những lát cắt lịch sử sắp mở ra"
+      }
+    ],
+    "C01_S01": [
+      {
+        "from": "unification_1930",
+        "to": "colonial_fair",
+        "label": "Bối cảnh đất nước trước một hướng đi chung"
+      }
+    ],
+    "C01_S02": [
+      {
+        "from": "nguyen_ai_quoc_1921",
+        "to": "colonial_shops"
+      },
+      {
+        "from": "rubber_factory_1920s",
+        "to": "physics_class",
+        "label": "Học tập và những hướng tìm tòi đầu thế kỷ XX"
+      }
+    ],
+    "C01_S03": [
+      {
+        "from": "nguyen_ai_quoc_1921",
+        "to": "nguyen_tours",
+        "anchor": "Năm 1920",
+        "label": "Bước ngoặt tại Đại hội Tours năm 1920"
+      }
+    ],
+    "C01_S04": [
+      {
+        "from": "nguyen_ai_quoc_1924",
+        "to": "nguyen_marseille",
+        "label": "Chân dung người chủ trì, ảnh năm 1921"
+      }
+    ],
+    "C02_S01": [
+      {
+        "from": "nghe_tinh_context",
+        "to": "ai_household_1930"
+      },
+      {
+        "from": "rubber_factory_1920s",
+        "to": "colonial_boulevard",
+        "label": "Đời sống trong xã hội thuộc địa"
+      },
+      {
+        "from": "nghe_tinh_decree",
+        "to": "colonial_shops",
+        "label": "Sinh kế và sinh hoạt thời thuộc địa"
+      }
+    ],
+    "C02_S03": [
+      {
+        "from": "nghe_tinh_decree",
+        "to": "physics_class",
+        "label": "Bối cảnh học tập của các tầng lớp xã hội đương thời"
+      }
+    ],
+    "C02_S04": [
+      {
+        "from": "nguyen_ai_quoc_1924",
+        "to": "nguyen_1922",
+        "label": "Chân dung Nguyễn Ái Quốc, ảnh 1922"
+      }
+    ],
+    "C03_S01": [
+      {
+        "from": "political_press",
+        "to": "ai_press_1937"
+      },
+      {
+        "from": "world_1936",
+        "to": "university_1937",
+        "label": "Không gian học tập và đời sống trí thức năm 1937"
+      }
+    ],
+    "C03_S02": [
+      {
+        "from": "political_press",
+        "to": "press_1939_front",
+        "label": "Một tờ báo thuộc địa cuối thập niên 1930"
+      },
+      {
+        "from": "phan_dang_luu",
+        "to": "colonial_fair",
+        "label": "Đời sống kinh tế và xã hội trong bối cảnh đương thời"
+      }
+    ],
+    "C03_S03": [
+      {
+        "from": "world_1936",
+        "to": "university_1937",
+        "label": "Bối cảnh sinh hoạt và học tập năm 1937"
+      },
+      {
+        "from": "phan_dang_luu",
+        "to": "ai_press_1937",
+        "label": "Minh họa việc tập hợp và trao đổi qua báo chí"
+      }
+    ],
+    "C04_S01": [
+      {
+        "from": "hanoi_august_1945",
+        "to": "august_17"
+      },
+      {
+        "from": "world_context",
+        "to": "august_28",
+        "label": "Hà Nội cuối tháng Tám năm 1945"
+      },
+      {
+        "from": "pac_bo",
+        "to": "vietminh_training",
+        "label": "Nhìn lại việc chuẩn bị lực lượng, tư liệu tháng 8/1945"
+      }
+    ],
+    "C04_S02": [
+      {
+        "from": "nguyen_ai_quoc_1924",
+        "to": "nguyen_1922",
+        "label": "Ảnh chân dung nhân vật, không phải hội nghị năm 1941"
+      }
+    ],
+    "C04_S03": [
+      {
+        "from": "hanoi_august_1945",
+        "to": "august_28",
+        "label": "Hà Nội cuối tháng Tám năm 1945"
+      }
+    ],
+    "C04_S04": [
+      {
+        "from": "preparation_1941",
+        "to": "independence_dais",
+        "label": "Toàn cảnh lễ đài ngày Độc lập"
+      }
+    ],
+    "C05_S01": [
+      {
+        "from": "nation_building",
+        "to": "hunger_relief_1946",
+        "label": "Tư liệu vận động cứu đói đầu năm 1946"
+      }
+    ],
+    "C05_S02": [
+      {
+        "from": "literacy",
+        "to": "ai_literacy_1945"
+      },
+      {
+        "from": "nation_building",
+        "to": "government_1946",
+        "label": "Chính quyền mới và các nhiệm vụ dân sinh"
+      },
+      {
+        "from": "assembly_1946",
+        "to": "assembly_exit",
+        "label": "Hoạt động Quốc hội năm 1946"
+      }
+    ],
+    "C05_S03": [
+      {
+        "from": "nation_building",
+        "to": "fontainebleau_1946",
+        "label": "Bối cảnh hoạt động của Chính phủ năm 1946"
+      }
+    ],
+    "C05_S04": [
+      {
+        "from": "independence_1945",
+        "to": "office_1946",
+        "label": "Công việc ngoại giao năm 1946"
+      }
+    ],
+    "C06_S01": [
+      {
+        "from": "resistance",
+        "to": "road_engineers",
+        "label": "Mở đường cho công tác tiếp vận"
+      }
+    ],
+    "C06_S02": [
+      {
+        "from": "resistance",
+        "to": "dbp_artillery"
+      },
+      {
+        "from": "dien_bien_porters",
+        "to": "ethnic_porters",
+        "label": "Những người dân công trên tuyến vận chuyển"
+      },
+      {
+        "from": "dien_bien_trench",
+        "to": "southern_resistance",
+        "label": "Tư liệu lực lượng kháng chiến ở Nam Bộ"
+      }
+    ],
+    "C07_S01": [
+      {
+        "from": "hien_luong_today",
+        "to": "ai_river_1955"
+      },
+      {
+        "from": "two_missions",
+        "to": "students_1952",
+        "label": "Hình ảnh người trẻ Hà Nội trước giai đoạn chia cắt"
+      },
+      {
+        "from": "geneva_hanoi_video",
+        "to": "geneva_crowd_video",
+        "label": "Một góc khác của Hà Nội tháng 7/1954"
+      }
+    ],
+    "C07_S02": [
+      {
+        "from": "two_missions",
+        "remove": true
+      }
+    ],
+    "C07_S03": [
+      {
+        "from": "hien_luong_today",
+        "to": "ai_village_1960"
+      },
+      {
+        "from": "two_missions",
+        "to": "hien_luong_today",
+        "label": "Địa điểm gợi bối cảnh chia cắt"
+      }
+    ],
+    "C07_S05": [
+      {
+        "from": "trail_people",
+        "to": "trail_road",
+        "label": "Một đoạn đường trong hệ thống vận tải"
+      },
+      {
+        "from": "two_missions",
+        "to": "ai_river_1955",
+        "label": "Những dự định đời thường trong thời chia cắt"
+      }
+    ],
+    "C08_S01": [
+      {
+        "from": "hanoi_1966_video",
+        "to": "ai_factory_1967"
+      },
+      {
+        "from": "saigon_1968",
+        "to": "saigon_repair",
+        "label": "Tư liệu Chợ Lớn trong những ngày Mậu Thân"
+      }
+    ],
+    "C08_S02": [
+      {
+        "from": "two_missions",
+        "to": "saigon_deserted",
+        "label": "Một con phố trong những ngày Mậu Thân"
+      },
+      {
+        "from": "paris_talks_video",
+        "to": "paris_arrivals_video",
+        "label": "Đàm phán tiếp diễn ở Paris, tư liệu 1972"
+      }
+    ],
+    "C08_S03": [
+      {
+        "from": "two_missions",
+        "to": "paris_aftermath",
+        "label": "Hải Phòng sau Hiệp định, tháng 3/1973"
+      }
+    ],
+    "C08_S04": [
+      {
+        "from": "reconstruction",
+        "to": "surrender_1975",
+        "label": "Văn bản gắn với kết thúc chiến tranh"
+      },
+      {
+        "from": "tank_1975_museum",
+        "to": "victory_celebration",
+        "label": "Một buổi chào mừng thắng lợi tháng 4/1975"
+      }
+    ],
+    "C08_S05": [
+      {
+        "from": "subsidy_display",
+        "to": "saigon_after_tet",
+        "label": "Nhìn lại những tổn thất ở đô thị, ảnh Chợ Lớn năm 1968"
+      }
+    ],
+    "C09_S01": [
+      {
+        "from": "reconstruction",
+        "to": "ai_rebuild_1976"
+      },
+      {
+        "from": "government_1976",
+        "to": "ration_coupons",
+        "label": "Những nhu cầu sinh hoạt trong giai đoạn hậu chiến"
+      }
+    ],
+    "C09_S03": [
+      {
+        "from": "ration_coupons",
+        "to": "ai_ration_1980"
+      }
+    ],
+    "C10_S01": [
+      {
+        "from": "rice_today",
+        "to": "ai_farm_1981"
+      },
+      {
+        "from": "renewal_timeline",
+        "to": "paddy_fields",
+        "label": "Ruộng lúa và động lực sản xuất, ảnh minh họa hiện tại"
+      }
+    ],
+    "C10_S02": [
+      {
+        "from": "planning_economy",
+        "to": "factory_knit",
+        "label": "Một dây chuyền dệt may, ảnh minh họa hiện đại"
+      }
+    ],
+    "C10_S03": [
+      {
+        "from": "subsidy_display",
+        "to": "ai_household_budget_1985",
+        "label": "Thu nhập, giá cả và đời sống gia đình"
+      },
+      {
+        "from": "renewal_timeline",
+        "remove": true
+      }
+    ],
+    "C10_S04": [
+      {
+        "from": "planning_economy",
+        "to": "factory_bricks",
+        "label": "Hoạt động sản xuất, ảnh minh họa về sau"
+      },
+      {
+        "from": "ration_coupons",
+        "to": "ai_ration_1980",
+        "label": "Hình dung cơ chế phân phối cũ"
+      },
+      {
+        "from": "factory_workers",
+        "to": "factory_electronics",
+        "label": "Sản xuất hiện đại trong chặng phát triển về sau"
+      }
+    ],
+    "C11_S01": [
+      {
+        "from": "renewal_timeline",
+        "to": "rice_terraces",
+        "label": "Công việc và mùa vụ, ảnh minh họa nông nghiệp hiện tại"
+      }
+    ],
+    "C11_S02": [
+      {
+        "from": "trainees_1985",
+        "to": "ai_vocational_1990"
+      }
+    ],
+    "C11_S03": [
+      {
+        "from": "floating_market",
+        "to": "port_container",
+        "label": "Vận tải hàng hóa trong chặng hội nhập"
+      }
+    ],
+    "C11_S04": [
+      {
+        "from": "integration",
+        "to": "port_cranes",
+        "label": "Hình ảnh cảng biển và giao thương"
+      },
+      {
+        "from": "factory_workers",
+        "to": "factory_electronics",
+        "label": "Công nghệ và năng lực sản xuất hiện đại"
+      }
+    ],
+    "C12_S01": [
+      {
+        "from": "hanoi_life_video",
+        "to": "students_hallway"
+      },
+      {
+        "from": "school_today",
+        "to": "students_drawing",
+        "label": "Một khung cảnh học tập hôm nay"
+      },
+      {
+        "from": "factory_workers",
+        "to": "factory_knit",
+        "label": "Công việc và kỹ năng trong sản xuất"
+      },
+      {
+        "from": "ordinary_day",
+        "to": "city_skyline",
+        "label": "Đô thị trong một chặng phát triển mới"
+      }
+    ],
+    "C12_S02": [
+      {
+        "from": "renewal_timeline",
+        "to": "hanoi_1999_bridge",
+        "label": "Hà Nội trên chặng đường Đổi mới, ảnh 1999"
+      },
+      {
+        "from": "hanoi_metro",
+        "to": "hanoi_today",
+        "label": "Đời sống và không gian đô thị hiện tại"
+      },
+      {
+        "from": "future_goals",
+        "remove": true
+      }
+    ],
+    "C12_S03": [
+      {
+        "from": "future_goals",
+        "occurrence": 1,
+        "to": "city_skyline",
+        "label": "Hình ảnh hiện tại để suy nghĩ về mục tiêu phía trước"
+      }
+    ],
+    "EPI_S01": [
+      {
+        "from": "hanoi_life_video",
+        "to": "ai_children_morning"
+      },
+      {
+        "from": "school_today",
+        "to": "students_drawing",
+        "label": "Học tập và thực hành của người trẻ"
+      },
+      {
+        "from": "renewal_timeline",
+        "to": "hanoi_1999_bridge",
+        "label": "Nhìn lại một chặng đường phát triển"
+      },
+      {
+        "from": "ordinary_day",
+        "remove": true
+      }
+    ],
+    "EPI_S02": [
+      {
+        "from": "story_frame",
+        "to": "ai_future_notebook"
+      },
+      {
+        "from": "school_today",
+        "to": "students_studying",
+        "label": "Cùng học một điều mới"
+      },
+      {
+        "from": "factory_workers",
+        "to": "factory_bricks",
+        "label": "Làm tốt một công việc cụ thể"
+      },
+      {
+        "from": "ordinary_day",
+        "to": "hanoi_florist",
+        "label": "Quá khứ và hiện tại trong những việc đời thường"
+      }
+    ]
+  },
+  "policy": {
+    "unique_scene_openings": true,
+    "max_asset_uses": 2,
+    "avoid_shared_adjacent_scenes": true
+  }
+}

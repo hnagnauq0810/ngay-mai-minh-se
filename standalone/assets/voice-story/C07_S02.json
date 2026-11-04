@@ -1,0 +1,49 @@
+{
+  "scene_id": "C07_S02",
+  "voice": "Thiện Minh",
+  "duration": 35.4948,
+  "segments": [
+    {
+      "text": "Miền Bắc: xây dựng và sửa sai.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "title",
+      "start": 0.0,
+      "end": 1.8969
+    },
+    {
+      "text": "Miền Bắc bước vào công cuộc khôi phục kinh tế, xây dựng chế độ mới và từng bước cải tạo xã hội chủ nghĩa.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 2.4639,
+      "end": 7.9072
+    },
+    {
+      "text": "Trong quá trình ấy đã có những thành tựu, song cũng có sai lầm nghiêm trọng, đặc biệt trong cải cách ruộng đất, phải tiến hành sửa sai những năm 1956–1957.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 8.1546,
+      "end": 19.1237
+    },
+    {
+      "text": "Kể trọn vẹn giai đoạn này cần nhìn thấy cả nhiệm vụ xây dựng, những kết quả đạt được và bài học từ những sai lầm đã được thừa nhận.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 19.3711,
+      "end": 25.9691
+    },
+    {
+      "text": "Mẹ ơi, sao có điều đúng mục tiêu mà cách làm lại gây hậu quả?",
+      "speaker": "CON",
+      "kind": "dialogue",
+      "start": 26.2165,
+      "end": 29.5155
+    },
+    {
+      "text": "Vì một chủ trương phải được đánh giá cả ở mục tiêu lẫn cách tổ chức thực hiện và tác động tới con người.",
+      "speaker": "MẸ",
+      "kind": "dialogue",
+      "start": 29.9072,
+      "end": 35.1031
+    }
+  ]
+}

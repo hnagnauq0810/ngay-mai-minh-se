@@ -1,0 +1,332 @@
+[
+  {
+    "id": "PRO_S01",
+    "url": "assets/voice-story/PRO_S01.mp3",
+    "duration": 31.3281875,
+    "rms": 0.10112659058177866
+  },
+  {
+    "id": "PRO_S02",
+    "url": "assets/voice-story/PRO_S02.mp3",
+    "duration": 36.19410416666667,
+    "rms": 0.10634881025502434
+  },
+  {
+    "id": "C01_S01",
+    "url": "assets/voice-story/C01_S01.mp3",
+    "duration": 35.369145833333334,
+    "rms": 0.10711993699143206
+  },
+  {
+    "id": "C01_S02",
+    "url": "assets/voice-story/C01_S02.mp3",
+    "duration": 33.080666666666666,
+    "rms": 0.10711347532608191
+  },
+  {
+    "id": "C01_S03",
+    "url": "assets/voice-story/C01_S03.mp3",
+    "duration": 34.83314583333333,
+    "rms": 0.10639729818657902
+  },
+  {
+    "id": "C01_S04",
+    "url": "assets/voice-story/C01_S04.mp3",
+    "duration": 35.905791666666666,
+    "rms": 0.10613598100184644
+  },
+  {
+    "id": "C02_S01",
+    "url": "assets/voice-story/C02_S01.mp3",
+    "duration": 36.93697916666667,
+    "rms": 0.10489631964924591
+  },
+  {
+    "id": "C02_S02",
+    "url": "assets/voice-story/C02_S02.mp3",
+    "duration": 28.895229166666667,
+    "rms": 0.10254699260956868
+  },
+  {
+    "id": "C02_S03",
+    "url": "assets/voice-story/C02_S03.mp3",
+    "duration": 34.15297916666667,
+    "rms": 0.10286925103351098
+  },
+  {
+    "id": "C02_S04",
+    "url": "assets/voice-story/C02_S04.mp3",
+    "duration": 26.833145833333333,
+    "rms": 0.10364696213905837
+  },
+  {
+    "id": "C03_S01",
+    "url": "assets/voice-story/C03_S01.mp3",
+    "duration": 27.32785416666667,
+    "rms": 0.10405317236882994
+  },
+  {
+    "id": "C03_S02",
+    "url": "assets/voice-story/C03_S02.mp3",
+    "duration": 27.802583333333335,
+    "rms": 0.10459405694986242
+  },
+  {
+    "id": "C03_S03",
+    "url": "assets/voice-story/C03_S03.mp3",
+    "duration": 30.9573125,
+    "rms": 0.10195579590159361
+  },
+  {
+    "id": "C03_S04",
+    "url": "assets/voice-story/C03_S04.mp3",
+    "duration": 23.452020833333332,
+    "rms": 0.10024869278388739
+  },
+  {
+    "id": "C04_S01",
+    "url": "assets/voice-story/C04_S01.mp3",
+    "duration": 29.864020833333335,
+    "rms": 0.10243869494851383
+  },
+  {
+    "id": "C04_S02",
+    "url": "assets/voice-story/C04_S02.mp3",
+    "duration": 29.967229166666666,
+    "rms": 0.10451963259822052
+  },
+  {
+    "id": "C04_S03",
+    "url": "assets/voice-story/C04_S03.mp3",
+    "duration": 29.142895833333334,
+    "rms": 0.10582549882694126
+  },
+  {
+    "id": "C04_S04",
+    "url": "assets/voice-story/C04_S04.mp3",
+    "duration": 32.91554166666667,
+    "rms": 0.10589619173950471
+  },
+  {
+    "id": "C05_S01",
+    "url": "assets/voice-story/C05_S01.mp3",
+    "duration": 38.56514583333333,
+    "rms": 0.1032671917380447
+  },
+  {
+    "id": "C05_S02",
+    "url": "assets/voice-story/C05_S02.mp3",
+    "duration": 35.039541666666665,
+    "rms": 0.10439334042239543
+  },
+  {
+    "id": "C05_S03",
+    "url": "assets/voice-story/C05_S03.mp3",
+    "duration": 33.410895833333335,
+    "rms": 0.10285715557787482
+  },
+  {
+    "id": "C05_S04",
+    "url": "assets/voice-story/C05_S04.mp3",
+    "duration": 34.33841666666667,
+    "rms": 0.10701897814997334
+  },
+  {
+    "id": "C06_S01",
+    "url": "assets/voice-story/C06_S01.mp3",
+    "duration": 33.142583333333334,
+    "rms": 0.10604378732561118
+  },
+  {
+    "id": "C06_S02",
+    "url": "assets/voice-story/C06_S02.mp3",
+    "duration": 34.42097916666667,
+    "rms": 0.10641813219044989
+  },
+  {
+    "id": "C06_S03",
+    "url": "assets/voice-story/C06_S03.mp3",
+    "duration": 33.4928125,
+    "rms": 0.10341522924897141
+  },
+  {
+    "id": "C06_S04",
+    "url": "assets/voice-story/C06_S04.mp3",
+    "duration": 33.32833333333333,
+    "rms": 0.10828819672808411
+  },
+  {
+    "id": "C06_S05",
+    "url": "assets/voice-story/C06_S05.mp3",
+    "duration": 35.307854166666665,
+    "rms": 0.10255227275311267
+  },
+  {
+    "id": "C07_S01",
+    "url": "assets/voice-story/C07_S01.mp3",
+    "duration": 36.276666666666664,
+    "rms": 0.10291310608958175
+  },
+  {
+    "id": "C07_S02",
+    "url": "assets/voice-story/C07_S02.mp3",
+    "duration": 35.47297916666667,
+    "rms": 0.1051135441247064
+  },
+  {
+    "id": "C07_S03",
+    "url": "assets/voice-story/C07_S03.mp3",
+    "duration": 40.69914583333333,
+    "rms": 0.10802210826383765
+  },
+  {
+    "id": "C07_S04",
+    "url": "assets/voice-story/C07_S04.mp3",
+    "duration": 36.028979166666666,
+    "rms": 0.09955093482715616
+  },
+  {
+    "id": "C07_S05",
+    "url": "assets/voice-story/C07_S05.mp3",
+    "duration": 27.389791666666667,
+    "rms": 0.10479004939409606
+  },
+  {
+    "id": "C08_S01",
+    "url": "assets/voice-story/C08_S01.mp3",
+    "duration": 32.503375,
+    "rms": 0.10310725090833363
+  },
+  {
+    "id": "C08_S02",
+    "url": "assets/voice-story/C08_S02.mp3",
+    "duration": 36.626895833333336,
+    "rms": 0.10075559161057325
+  },
+  {
+    "id": "C08_S03",
+    "url": "assets/voice-story/C08_S03.mp3",
+    "duration": 33.1013125,
+    "rms": 0.10651968131116826
+  },
+  {
+    "id": "C08_S04",
+    "url": "assets/voice-story/C08_S04.mp3",
+    "duration": 39.26627083333333,
+    "rms": 0.1053367299877733
+  },
+  {
+    "id": "C08_S05",
+    "url": "assets/voice-story/C08_S05.mp3",
+    "duration": 31.018583333333332,
+    "rms": 0.10323841285407302
+  },
+  {
+    "id": "C09_S01",
+    "url": "assets/voice-story/C09_S01.mp3",
+    "duration": 34.050104166666664,
+    "rms": 0.10561692206649786
+  },
+  {
+    "id": "C09_S02",
+    "url": "assets/voice-story/C09_S02.mp3",
+    "duration": 40.358895833333335,
+    "rms": 0.10522246322057402
+  },
+  {
+    "id": "C09_S03",
+    "url": "assets/voice-story/C09_S03.mp3",
+    "duration": 33.946895833333336,
+    "rms": 0.10507623653673578
+  },
+  {
+    "id": "C09_S04",
+    "url": "assets/voice-story/C09_S04.mp3",
+    "duration": 36.1321875,
+    "rms": 0.10360762082878591
+  },
+  {
+    "id": "C10_S01",
+    "url": "assets/voice-story/C10_S01.mp3",
+    "duration": 37.34866666666667,
+    "rms": 0.10469723323120023
+  },
+  {
+    "id": "C10_S02",
+    "url": "assets/voice-story/C10_S02.mp3",
+    "duration": 33.225145833333336,
+    "rms": 0.103318383657453
+  },
+  {
+    "id": "C10_S03",
+    "url": "assets/voice-story/C10_S03.mp3",
+    "duration": 31.843541666666667,
+    "rms": 0.10160697222077983
+  },
+  {
+    "id": "C10_S04",
+    "url": "assets/voice-story/C10_S04.mp3",
+    "duration": 38.998583333333336,
+    "rms": 0.10654247661613009
+  },
+  {
+    "id": "C11_S01",
+    "url": "assets/voice-story/C11_S01.mp3",
+    "duration": 40.317625,
+    "rms": 0.10225571064713727
+  },
+  {
+    "id": "C11_S02",
+    "url": "assets/voice-story/C11_S02.mp3",
+    "duration": 37.61697916666667,
+    "rms": 0.10657593400343333
+  },
+  {
+    "id": "C11_S03",
+    "url": "assets/voice-story/C11_S03.mp3",
+    "duration": 32.173791666666666,
+    "rms": 0.10368342348576917
+  },
+  {
+    "id": "C11_S04",
+    "url": "assets/voice-story/C11_S04.mp3",
+    "duration": 32.60658333333333,
+    "rms": 0.09990550181648206
+  },
+  {
+    "id": "C12_S01",
+    "url": "assets/voice-story/C12_S01.mp3",
+    "duration": 32.091229166666665,
+    "rms": 0.10115300423392953
+  },
+  {
+    "id": "C12_S02",
+    "url": "assets/voice-story/C12_S02.mp3",
+    "duration": 43.55489583333333,
+    "rms": 0.10129906981658332
+  },
+  {
+    "id": "C12_S03",
+    "url": "assets/voice-story/C12_S03.mp3",
+    "duration": 49.8330625,
+    "rms": 0.10360731474526677
+  },
+  {
+    "id": "C12_S04",
+    "url": "assets/voice-story/C12_S04.mp3",
+    "duration": 34.21458333333333,
+    "rms": 0.1080422225271569
+  },
+  {
+    "id": "EPI_S01",
+    "url": "assets/voice-story/EPI_S01.mp3",
+    "duration": 35.9670625,
+    "rms": 0.10464907279571893
+  },
+  {
+    "id": "EPI_S02",
+    "url": "assets/voice-story/EPI_S02.mp3",
+    "duration": 29.0190625,
+    "rms": 0.10099581877708066
+  }
+]

@@ -1,0 +1,13 @@
+﻿ID,Task,Priority,Suggested phase,Owner role,Definition of Done,Dependencies,Status
+DEV-001,"Set up Next.js App Router, static export and CI",P0,P1,FE,Story routes render,"D-01, D-02",Not started
+DEV-002,Import and validate manuscript 55-scene JSON,P0,P1,FE + Editor,55 unique scenes validated,Source DOCX,Not started
+DEV-003,Implement StoryShell/ChapterRenderer/SceneBlock,P0,P2,FE,All narration readable,DEV-001; DEV-002,Not started
+DEV-004,"Reader mode, transcript, citations",P0,P2,FE,All content accessible,DEV-003,Not started
+DEV-005,Claim/source registry and release gate,P0,P2-P5,Historian + FE,Claim mappings verified,Source research,Not started
+DEV-006,"Media registry, rights gate and captions",P0,P2-P5,Editor + FE,Licensed media only,Rights review,Not started
+DEV-007,Responsive motion presets,P1,P3,FE/Motion,Motion no text blocking,DEV-003,Not started
+DEV-008,Dual timelines C07/C08 responsive,P0,P4,FE/Motion,Desktop/mobile parity,DEV-003; Historical dates,Not started
+DEV-009,Single-controller narration playback,P1,P4,FE,No autoplay and graceful fallback,Approved VO,Not started
+DEV-010,"Deep link, progress, chapter navigation",P1,P3,FE,Anchor/resume stable,DEV-003,Not started
+DEV-011,"Staging deploy, cache, rollback",P0,P1/P5,DevOps,Immutable release,Hosting,Not started
+DEV-012,Testing/a11y/performance and release report,P0,P5,QA,Release gates green,DEV-001-011,Not started

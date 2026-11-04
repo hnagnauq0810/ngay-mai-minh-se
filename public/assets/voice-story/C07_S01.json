@@ -1,0 +1,70 @@
+{
+  "scene_id": "C07_S01",
+  "voice": "Thiện Minh",
+  "duration": 36.299,
+  "segments": [
+    {
+      "text": "Một dòng sông, hai nhịp sống.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "title",
+      "start": 0.0,
+      "end": 1.8969
+    },
+    {
+      "text": "Hãy hình dung hai người trẻ bắt đầu ngày mới năm 1955.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 2.4639,
+      "end": 6.3402
+    },
+    {
+      "text": "Người thứ nhất sống ở miền Bắc sau khi chiến tranh chống Pháp kết thúc.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 6.5876,
+      "end": 10.299
+    },
+    {
+      "text": "Người thứ hai ở miền Nam, nơi hoàn cảnh chính trị và xã hội đang thay đổi sâu sắc.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 10.5464,
+      "end": 14.7526
+    },
+    {
+      "text": "Họ có thể cùng yêu gia đình, cùng có dự định đi học hay làm việc, nhưng con đường phía trước không giống nhau.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 15.0,
+      "end": 20.6907
+    },
+    {
+      "text": "Từ năm 1954, đất nước ở trong tình trạng chia cắt tạm thời kéo dài, đặt ra những nhiệm vụ khác nhau cho cách mạng ở hai miền.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 20.9381,
+      "end": 28.6082
+    },
+    {
+      "text": "Mai tôi muốn sửa xong căn nhà.",
+      "speaker": "NHÂN VẬT BẮC (hư cấu)",
+      "kind": "dialogue",
+      "start": 28.8557,
+      "end": 30.7526
+    },
+    {
+      "text": "Mai tôi muốn có một ngày yên ổn.",
+      "speaker": "NHÂN VẬT NAM (hư cấu)",
+      "kind": "dialogue",
+      "start": 31.1443,
+      "end": 33.0412
+    },
+    {
+      "text": "Sao cùng một đất nước mà mọi chuyện khác nhau vậy?",
+      "speaker": "CON",
+      "kind": "dialogue",
+      "start": 33.433,
+      "end": 35.9072
+    }
+  ]
+}

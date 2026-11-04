@@ -1,0 +1,70 @@
+{
+  "scene_id": "C06_S01",
+  "voice": "Thiện Minh",
+  "duration": 33.1649,
+  "segments": [
+    {
+      "text": "Một chuyến gạo trước bình minh.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "title",
+      "start": 0.0,
+      "end": 1.6495
+    },
+    {
+      "text": "Trời chưa sáng.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 2.2165,
+      "end": 3.0412
+    },
+    {
+      "text": "Một người dân công kiểm tra bánh xe, quai buộc và từng bao hàng.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 3.2887,
+      "end": 6.5052
+    },
+    {
+      "text": "Anh không biết được hết các quyết định trên chiến trường; công việc của anh là đưa lương thực đến nơi cần đến.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 6.7526,
+      "end": 12.1134
+    },
+    {
+      "text": "Bạn có thể tưởng tượng sức nặng trên vai, những đoạn dốc, thời tiết và cả áp lực phải giữ tuyến vận chuyển thông suốt.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 12.3608,
+      "end": 18.299
+    },
+    {
+      "text": "Ở đây, một cuộc kháng chiến lớn hiện ra qua công việc rất cụ thể của những con người bình thường.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 18.5464,
+      "end": 23.4948
+    },
+    {
+      "text": "Miễn chuyến này tới nơi, mai mình lại đi tiếp.",
+      "speaker": "DÂN CÔNG (hư cấu)",
+      "kind": "dialogue",
+      "start": 23.7423,
+      "end": 26.299
+    },
+    {
+      "text": "Đẩy xe gạo cũng là tham gia kháng chiến sao?",
+      "speaker": "CON",
+      "kind": "dialogue",
+      "start": 26.6907,
+      "end": 29.0825
+    },
+    {
+      "text": "Một cuộc kháng chiến toàn dân có rất nhiều vị trí và công việc.",
+      "speaker": "MẸ",
+      "kind": "dialogue",
+      "start": 29.4742,
+      "end": 32.7732
+    }
+  ]
+}

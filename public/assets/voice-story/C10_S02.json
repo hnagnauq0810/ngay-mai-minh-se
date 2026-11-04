@@ -1,0 +1,56 @@
+{
+  "scene_id": "C10_S02",
+  "voice": "Thiện Minh",
+  "duration": 33.2474,
+  "segments": [
+    {
+      "text": "Một xưởng máy cần được chủ động.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "title",
+      "start": 0.0,
+      "end": 1.732
+    },
+    {
+      "text": "Những bài toán tương tự xuất hiện trong các xí nghiệp quốc doanh.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 2.299,
+      "end": 5.3505
+    },
+    {
+      "text": "Làm thế nào để chủ động hơn trong sản xuất, tìm nguồn vật tư và sử dụng nguồn lực hiệu quả?",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 5.5979,
+      "end": 10.2165
+    },
+    {
+      "text": "Các quyết định đầu năm 1981 về mở rộng quyền tự chủ sản xuất, kinh doanh cho xí nghiệp cho thấy yêu cầu cải tiến cơ chế quản lý đã hiện rõ.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 10.6082,
+      "end": 19.1856
+    },
+    {
+      "text": "Đại hội V năm 1982 tiếp tục xem xét và điều chỉnh các nhiệm vụ phát triển theo điều kiện thực tế.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 19.433,
+      "end": 25.3711
+    },
+    {
+      "text": "Mai có đủ vật tư thì cả tổ đỡ phải chờ.",
+      "speaker": "CÔNG NHÂN (hư cấu)",
+      "kind": "dialogue",
+      "start": 25.6186,
+      "end": 28.0103
+    },
+    {
+      "text": "Đằng sau một ca làm việc bị gián đoạn là câu hỏi lớn về cách vận hành nền kinh tế.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "dialogue",
+      "start": 28.4021,
+      "end": 32.8557
+    }
+  ]
+}

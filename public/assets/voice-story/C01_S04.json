@@ -1,0 +1,56 @@
+{
+  "scene_id": "C01_S04",
+  "voice": "Thiện Minh",
+  "duration": 35.9278,
+  "segments": [
+    {
+      "text": "Khi những tiếng nói tìm được điểm chung.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "title",
+      "start": 0.0,
+      "end": 1.9794
+    },
+    {
+      "text": "Cuối thập niên 1920, phong trào phát triển nhưng các tổ chức cộng sản hoạt động riêng rẽ.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 2.5464,
+      "end": 8.0722
+    },
+    {
+      "text": "Hội nghị hợp nhất do Nguyễn Ái Quốc chủ trì tại Hương Cảng đã thống nhất thành lập Đảng Cộng sản Việt Nam, thông qua những văn kiện quan trọng, trong đó Chánh cương vắn tắt và Sách lược vắn tắt thể hiện những tư tưởng cơ bản của Cương lĩnh chính trị đầu tiên.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 8.3196,
+      "end": 21.2062
+    },
+    {
+      "text": "Ngày 3 tháng 2 năm 1930 được xác định là ngày thành lập Đảng.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 21.4536,
+      "end": 25.7423
+    },
+    {
+      "text": "Một tổ chức và một đường lối lãnh đạo thống nhất bắt đầu hình thành.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 25.9897,
+      "end": 29.2887
+    },
+    {
+      "text": "Thế là mọi khó khăn chấm dứt?",
+      "speaker": "CON",
+      "kind": "dialogue",
+      "start": 29.5361,
+      "end": 31.1856
+    },
+    {
+      "text": "Không. Một con đường được xác định cũng là lúc những thử thách thật sự bắt đầu.",
+      "speaker": "MẸ",
+      "kind": "dialogue",
+      "start": 31.5773,
+      "end": 35.5361
+    }
+  ]
+}

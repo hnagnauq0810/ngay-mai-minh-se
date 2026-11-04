@@ -1,0 +1,723 @@
+{
+  "version": "1.3.0",
+  "provider": "Wikimedia Commons",
+  "distribution": "remote-first, optional local download",
+  "note": "Ảnh Commons minh họa theo sự kiện; một số ảnh hiện đại được gắn nhãn rõ ràng. Cần thẩm định tác giả/giấy phép trước khi phát hành.",
+  "assets": [
+    {
+      "id": "hanoi_today",
+      "filename": "2024-11-03 Hanoi's Old Quarter 1.jpg",
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/2024-11-03%20Hanoi%27s%20Old%20Quarter%201.jpg&width=1400",
+      "source_url": "https://commons.wikimedia.org/wiki/File:2024-11-03_Hanoi%27s_Old_Quarter_1.jpg",
+      "caption": "Phố cổ Hà Nội ngày nay",
+      "date": "2024",
+      "kind": "contemporary",
+      "author": "Alexkom000",
+      "license": "CC BY 4.0",
+      "note": "Ảnh hiện tại, dùng cho khung truyện năm 2026",
+      "local": "/assets/historical/hanoi_today.jpg",
+      "rights_status": "commons-stated",
+      "license_url": "https://creativecommons.org/licenses/by/4.0"
+    },
+    {
+      "id": "hanoi_metro",
+      "filename": "Cat Linh station with train.jpg",
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Cat%20Linh%20station%20with%20train.jpg&width=1400",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cat_Linh_station_with_train.jpg",
+      "caption": "Tuyến đường sắt đô thị Hà Nội",
+      "date": "2025",
+      "kind": "contemporary",
+      "author": "Quangnlnhe182394",
+      "license": "CC0",
+      "note": "Ảnh năm 2025, minh họa đời sống hiện đại",
+      "local": "/assets/historical/hanoi_metro.jpg",
+      "rights_status": "commons-stated",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    {
+      "id": "nguyen_ai_quoc_1924",
+      "filename": "Comrade Nguyen Ai Quoc (1924).jpg",
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Comrade%20Nguyen%20Ai%20Quoc%20%281924%29.jpg&width=1400",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Comrade_Nguyen_Ai_Quoc_(1924).jpg",
+      "caption": "Nguyễn Ái Quốc tại Đại hội Quốc tế Cộng sản lần thứ V",
+      "date": "1924",
+      "kind": "archive",
+      "author": "Unknown photographer",
+      "license": "Public domain",
+      "note": "Ảnh lưu trữ năm 1924",
+      "local": "/assets/historical/nguyen_ai_quoc_1924.jpg",
+      "rights_status": "commons-stated",
+      "license_url": ""
+    },
+    {
+      "id": "nguyen_ai_quoc_1921",
+      "filename": "Nguyen Ai Quoc in 1924.jpg",
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Nguyen%20Ai%20Quoc%20in%201924.jpg&width=1400",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Nguyen_Ai_Quoc_in_1924.jpg",
+      "caption": "Chân dung Nguyễn Ái Quốc trong hoạt động cách mạng",
+      "date": "1924",
+      "kind": "archive",
+      "author": "Unknown photographer",
+      "license": "Public domain",
+      "note": "Dùng đúng nhãn 1924",
+      "local": "/assets/historical/nguyen_ai_quoc_1921.jpg",
+      "rights_status": "commons-stated",
+      "license_url": ""
+    },
+    {
+      "id": "nghe_tinh_decree",
+      "filename": "Bố cáo của khâm sứ Pháp và đại diện triều đình Đại Nam (Anhxua.vn).jpg",
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/B%E1%BB%91%20c%C3%A1o%20c%E1%BB%A7a%20kh%C3%A2m%20s%E1%BB%A9%20Ph%C3%A1p%20v%C3%A0%20%C4%91%E1%BA%A1i%20di%E1%BB%87n%20tri%E1%BB%81u%20%C4%91%C3%ACnh%20%C4%90%E1%BA%A1i%20Nam%20%28Anhxua.vn%29.jpg&width=1400",
+      "source_url": "https://commons.wikimedia.org/wiki/File:B%E1%BB%91_c%C3%A1o_c%E1%BB%A7a_kh%C3%A2m_s%E1%BB%A9_Ph%C3%A1p_v%C3%A0_%C4%91%E1%BA%A1i_di%E1%BB%87n_tri%E1%BB%81u_%C4%91%C3%ACnh_%C4%90%E1%BA%A1i_Nam_(Anhxua.vn).jpg",
+      "caption": "Văn bản liên quan phong trào Xô viết Nghệ – Tĩnh",
+      "date": "1930",
+      "kind": "archive",
+      "author": "The government of the French protectorate of Annam.",
+      "license": "Public domain",
+      "note": "Đây là bố cáo của chính quyền thực dân, không phải tuyên ngôn cách mạng",
+      "local": "/assets/historical/nghe_tinh_decree.jpg",
+      "rights_status": "commons-stated",
+      "license_url": ""
+    },
+    {
+      "id": "phan_dang_luu",
+      "filename": "Phan Đăng Lưu during the democratic movement of 1936-1939 in Hue.jpg",
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Phan%20%C4%90%C4%83ng%20L%C6%B0u%20during%20the%20democratic%20movement%20of%201936-1939%20in%20Hue.jpg&width=1400",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Phan_%C4%90%C4%83ng_L%C6%B0u_during_the_democratic_movement_of_1936-1939_in_Hue.jpg",
+      "caption": "Phan Đăng Lưu trong phong trào dân chủ tại Huế",
+      "date": "1936–1939",
+      "kind": "archive",
+      "author": "Unknown photographer",
+      "license": "Public domain",
+      "note": "Ảnh minh họa đúng phong trào 1936–1939",
+      "local": "/assets/historical/phan_dang_luu.jpg",
+      "rights_status": "commons-stated",
+      "license_url": ""
+    },
+    {
+      "id": "hanoi_march_1945",
+      "filename": "Hanoi1945.jpg",
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Hanoi1945.jpg&width=1400",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Hanoi1945.jpg",
+      "caption": "Binh lính Pháp bị Nhật bắt tại Hà Nội sau đảo chính",
+      "date": "03/1945",
+      "kind": "archive",
+      "author": "Không rõ tác giả",
+      "license": "Public domain",
+      "note": "Hình cảnh Nhật đảo chính Pháp; không dùng cho khởi nghĩa tháng Tám",
+      "local": "/assets/historical/hanoi_march_1945.jpg",
+      "rights_status": "commons-stated",
+      "license_url": ""
+    },
+    {
+      "id": "hanoi_august_1945",
+      "filename": "Mít tinh chào mừng Cách mạng Tháng Tám năm 1945 thành công tại Nhà hát Lớn Hà Nội.jpg",
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/M%C3%ADt%20tinh%20ch%C3%A0o%20m%E1%BB%ABng%20C%C3%A1ch%20m%E1%BA%A1ng%20Th%C3%A1ng%20T%C3%A1m%20n%C4%83m%201945%20th%C3%A0nh%20c%C3%B4ng%20t%E1%BA%A1i%20Nh%C3%A0%20h%C3%A1t%20L%E1%BB%9Bn%20H%C3%A0%20N%E1%BB%99i.jpg&width=1400",
+      "source_url": "https://commons.wikimedia.org/wiki/File:M%C3%ADt_tinh_ch%C3%A0o_m%E1%BB%ABng_C%C3%A1ch_m%E1%BA%A1ng_Th%C3%A1ng_T%C3%A1m_n%C4%83m_1945_th%C3%A0nh_c%C3%B4ng_t%E1%BA%A1i_Nh%C3%A0_h%C3%A1t_L%E1%BB%9Bn_H%C3%A0_N%E1%BB%99i.jpg",
+      "caption": "Mít tinh tại Nhà hát Lớn Hà Nội sau Cách mạng Tháng Tám",
+      "date": "08/1945",
+      "kind": "archive",
+      "author": "Uncredited photographer.",
+      "license": "Public domain",
+      "note": "Ảnh lịch sử, bối cảnh cuối tháng 8/1945",
+      "local": "/assets/historical/hanoi_august_1945.jpg",
+      "rights_status": "commons-stated",
+      "license_url": ""
+    },
+    {
+      "id": "independence_1945",
+      "filename": "Hanoi TNĐL 1945, 5.jpg",
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Hanoi%20TN%C4%90L%201945%2C%205.jpg&width=1400",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Hanoi_TN%C4%90L_1945%2C_5.jpg",
+      "caption": "Các khối quần chúng trong ngày Tuyên ngôn Độc lập",
+      "date": "02/09/1945",
+      "kind": "archive",
+      "author": "Không rõ tác giả",
+      "license": "Public domain",
+      "note": "Ảnh tại Hà Nội ngày 2/9/1945",
+      "local": "/assets/historical/independence_1945.jpg",
+      "rights_status": "commons-stated",
+      "license_url": ""
+    },
+    {
+      "id": "famine_relief",
+      "filename": "Ngày Tiễu trừ nạn đói.jpg",
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Ng%C3%A0y%20Ti%E1%BB%85u%20tr%E1%BB%AB%20n%E1%BA%A1n%20%C4%91%C3%B3i.jpg&width=1400",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Ng%C3%A0y_Ti%E1%BB%85u_tr%E1%BB%AB_n%E1%BA%A1n_%C4%91%C3%B3i.jpg",
+      "caption": "Ngày Tiễu trừ nạn đói ở Hà Nội",
+      "date": "11/10/1945",
+      "kind": "archive",
+      "author": "unknown (Bộ Thông tin Tuyên truyền)",
+      "license": "Public domain",
+      "note": "Ảnh ngày vận động chống nạn đói",
+      "local": "/assets/historical/famine_relief.jpg",
+      "rights_status": "commons-stated",
+      "license_url": ""
+    },
+    {
+      "id": "assembly_1946",
+      "filename": "Họp lần thứ nhất, QH VNDCCH.jpg",
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/H%E1%BB%8Dp%20l%E1%BA%A7n%20th%E1%BB%A9%20nh%E1%BA%A5t%2C%20QH%20VNDCCH.jpg&width=1400",
+      "source_url": "https://commons.wikimedia.org/wiki/File:H%E1%BB%8Dp_l%E1%BA%A7n_th%E1%BB%A9_nh%E1%BA%A5t%2C_QH_VNDCCH.jpg",
+      "caption": "Kỳ họp đầu tiên Quốc hội Việt Nam Dân chủ Cộng hòa",
+      "date": "02/03/1946",
+      "kind": "archive",
+      "author": "Không rõ tác giả",
+      "license": "Public domain",
+      "note": "Minh họa hoạt động xây dựng chính quyền mới",
+      "local": "/assets/historical/assembly_1946.jpg",
+      "rights_status": "commons-stated",
+      "license_url": ""
+    },
+    {
+      "id": "dien_bien_porters",
+      "filename": "Dan cong tho luong thuc.jpg",
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Dan%20cong%20tho%20luong%20thuc.jpg&width=1400",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Dan_cong_tho_luong_thuc.jpg",
+      "caption": "Dân công vận chuyển lương thực ở chiến dịch Điện Biên Phủ",
+      "date": "1954",
+      "kind": "archive",
+      "author": "TTXVN",
+      "license": "Public domain",
+      "note": "Ảnh tư liệu dân công, chất lượng gốc nhỏ",
+      "local": "/assets/historical/dien_bien_porters.jpg",
+      "rights_status": "review",
+      "license_url": ""
+    },
+    {
+      "id": "dien_bien_trench",
+      "filename": "Bộ đội sinh hoạt trong chiến hào.jpg",
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/B%E1%BB%99%20%C4%91%E1%BB%99i%20sinh%20ho%E1%BA%A1t%20trong%20chi%E1%BA%BFn%20h%C3%A0o.jpg&width=1400",
+      "source_url": "https://commons.wikimedia.org/wiki/File:B%E1%BB%99_%C4%91%E1%BB%99i_sinh_ho%E1%BA%A1t_trong_chi%E1%BA%BFn_h%C3%A0o.jpg",
+      "caption": "Bộ đội ăn cơm trong chiến hào Điện Biên Phủ",
+      "date": "1954",
+      "kind": "archive",
+      "author": "TTXVN",
+      "license": "Public domain",
+      "note": "Ảnh tư liệu sinh hoạt",
+      "local": "/assets/historical/dien_bien_trench.jpg",
+      "rights_status": "review",
+      "license_url": ""
+    },
+    {
+      "id": "dien_bien_victory",
+      "filename": "Victory in Battle of Dien Bien Phu.jpg",
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Victory%20in%20Battle%20of%20Dien%20Bien%20Phu.jpg&width=1400",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Victory_in_Battle_of_Dien_Bien_Phu.jpg",
+      "caption": "Cắm cờ trên cứ điểm chỉ huy Pháp tại Điện Biên Phủ",
+      "date": "1954",
+      "kind": "archive",
+      "author": "Vietnam People's Army",
+      "license": "Public domain",
+      "note": "Ảnh minh họa trận Điện Biên Phủ",
+      "local": "/assets/historical/dien_bien_victory.jpg",
+      "rights_status": "review",
+      "license_url": ""
+    },
+    {
+      "id": "geneva_1954",
+      "filename": "1954 Geneva Conference.jpg",
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/1954%20Geneva%20Conference.jpg&width=1400",
+      "source_url": "https://commons.wikimedia.org/wiki/File:1954_Geneva_Conference.jpg",
+      "caption": "Hội nghị Genève về Đông Dương",
+      "date": "1954",
+      "kind": "archive",
+      "author": "US Army Photograph",
+      "license": "Public domain",
+      "note": "Ảnh tại hội nghị Genève 1954",
+      "local": "/assets/historical/geneva_1954.jpg",
+      "rights_status": "commons-stated",
+      "license_url": ""
+    },
+    {
+      "id": "hien_luong_today",
+      "filename": "Cầu Hiền Lương (nhìn từ bờ Nam).JPG",
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/C%E1%BA%A7u%20Hi%E1%BB%81n%20L%C6%B0%C6%A1ng%20%28nh%C3%ACn%20t%E1%BB%AB%20b%E1%BB%9D%20Nam%29.JPG&width=1400",
+      "source_url": "https://commons.wikimedia.org/wiki/File:C%E1%BA%A7u_Hi%E1%BB%81n_L%C6%B0%C6%A1ng_(nh%C3%ACn_t%E1%BB%AB_b%E1%BB%9D_Nam).JPG",
+      "caption": "Cầu Hiền Lương, nhìn từ bờ Nam (ảnh năm 2010)",
+      "date": "2010",
+      "kind": "contemporary",
+      "author": "Bút Chiến at Vietnamese Wikipedia",
+      "license": "CC BY-SA 3.0",
+      "note": "Ảnh chụp năm 2010; KHÔNG PHẢI ảnh cầu trong thời kỳ chia cắt",
+      "local": "/assets/historical/hien_luong_today.jpg",
+      "rights_status": "commons-stated",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "id": "saigon_1968",
+      "filename": "US Embassy, Saigon, January 1968.jpg",
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/US%20Embassy%2C%20Saigon%2C%20January%201968.jpg&width=1400",
+      "source_url": "https://commons.wikimedia.org/wiki/File:US_Embassy%2C_Saigon%2C_January_1968.jpg",
+      "caption": "Hiện trường khu vực Đại sứ quán Mỹ trong Tết Mậu Thân",
+      "date": "01/1968",
+      "kind": "archive",
+      "author": "US Army Military History Institute",
+      "license": "Public domain",
+      "note": "Ảnh liên quan sự kiện Mậu Thân 1968",
+      "local": "/assets/historical/saigon_1968.jpg",
+      "rights_status": "commons-stated",
+      "license_url": ""
+    },
+    {
+      "id": "saigon_1975_street",
+      "filename": "Vas037763 Nguyen Hue Street in Saigon, Tet, 1975.jpg",
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Vas037763%20Nguyen%20Hue%20Street%20in%20Saigon%2C%20Tet%2C%201975.jpg&width=1400",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Vas037763_Nguyen_Hue_Street_in_Saigon%2C_Tet%2C_1975.jpg",
+      "caption": "Đường Nguyễn Huệ, Sài Gòn trong dịp Tết 1975",
+      "date": "02/1975",
+      "kind": "archive",
+      "author": "Colonel William E. LeGro",
+      "license": "Public domain",
+      "note": "Ảnh TRƯỚC 30/4/1975; không mô tả là cảnh giải phóng",
+      "local": "/assets/historical/saigon_1975_street.jpg",
+      "rights_status": "commons-stated",
+      "license_url": ""
+    },
+    {
+      "id": "tank_1975_museum",
+      "filename": "T-54 Tank No. 843 Used in 1975 Victory in Saigon (9735469182).jpg",
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/T-54%20Tank%20No.%20843%20Used%20in%201975%20Victory%20in%20Saigon%20%289735469182%29.jpg&width=1400",
+      "source_url": "https://commons.wikimedia.org/wiki/File:T-54_Tank_No._843_Used_in_1975_Victory_in_Saigon_(9735469182).jpg",
+      "caption": "Xe tăng 843 trưng bày tại Bảo tàng Lịch sử Quân sự",
+      "date": "2012",
+      "kind": "contemporary",
+      "author": "Gary Todd from Xinzheng, China",
+      "license": "CC0",
+      "note": "Ảnh hiện vật chụp năm 2012; không phải ảnh gốc 30/4",
+      "local": "/assets/historical/tank_1975_museum.jpg",
+      "rights_status": "commons-stated",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    {
+      "id": "government_1976",
+      "filename": "Chính phủ 1976.jpg",
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Ch%C3%ADnh%20ph%E1%BB%A7%201976.jpg&width=1400",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Ch%C3%ADnh_ph%E1%BB%A7_1976.jpg",
+      "caption": "Thành viên Chính phủ Việt Nam năm 1976 (bản số hóa 2019)",
+      "date": "1976 (ảnh tư liệu biên tập 2019)",
+      "kind": "archive",
+      "author": "Phuongminhminh",
+      "license": "CC BY-SA 4.0",
+      "note": "Ảnh được nguồn mô tả là thành viên Chính phủ năm 1976; mốc 2019 thuộc bản số hóa, không phải năm thành lập Chính phủ.",
+      "local": "/assets/historical/government_1976.jpg",
+      "rights_status": "commons-stated",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "rice_today",
+      "filename": "Vietnam - Rice fields near Da Lat.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Vietnam_-_Rice_fields_near_Da_Lat.jpg/960px-Vietnam_-_Rice_fields_near_Da_Lat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Vietnam_-_Rice_fields_near_Da_Lat.jpg",
+      "caption": "Ruộng lúa gần Đà Lạt",
+      "date": "2015",
+      "kind": "contemporary",
+      "author": "P. Hughes",
+      "license": "CC BY 4.0",
+      "note": "Ảnh ruộng lúa gần Đà Lạt năm 2015; chỉ minh họa nông nghiệp, không phải tư liệu thời bao cấp hay Khoán 10.",
+      "local": "/assets/historical/rice_today.jpg",
+      "rights_status": "commons-stated",
+      "license_url": "https://creativecommons.org/licenses/by/4.0"
+    },
+    {
+      "id": "hanoi_2024",
+      "filename": "2024-11-03 Hanoi's Old Quarter 4.jpg",
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/2024-11-03%20Hanoi%27s%20Old%20Quarter%204.jpg&width=1400",
+      "source_url": "https://commons.wikimedia.org/wiki/File:2024-11-03_Hanoi%27s_Old_Quarter_4.jpg",
+      "caption": "Sinh hoạt đô thị Hà Nội ngày nay",
+      "date": "2024",
+      "kind": "contemporary",
+      "author": "Alexkom000",
+      "license": "CC BY 4.0",
+      "note": "Ảnh hiện tại dùng so sánh thay đổi đời sống, không phải tư liệu thập niên 1990",
+      "local": "/assets/historical/hanoi_2024.jpg",
+      "rights_status": "commons-stated",
+      "license_url": "https://creativecommons.org/licenses/by/4.0"
+    },
+    {
+      "id": "metro_station",
+      "filename": "Cat Linh Station - Metro Hanoi - Panorama.jpg",
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Cat%20Linh%20Station%20-%20Metro%20Hanoi%20-%20Panorama.jpg&width=1400",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cat_Linh_Station_-_Metro_Hanoi_-_Panorama.jpg",
+      "caption": "Ga Cát Linh, tuyến đường sắt đô thị Hà Nội",
+      "date": "2021",
+      "kind": "contemporary",
+      "author": "Tttrung",
+      "license": "CC BY-SA 4.0",
+      "note": "Ảnh hiện đại minh họa hạ tầng đô thị",
+      "local": "/assets/historical/metro_station.jpg",
+      "rights_status": "commons-stated",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "rubber_factory_1920s",
+      "filename": "Une usine à caoutchouc en Cochinchine.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Une_usine_%C3%A0_caoutchouc_en_Cochinchine.jpg/1280px-Une_usine_%C3%A0_caoutchouc_en_Cochinchine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Une_usine_%C3%A0_caoutchouc_en_Cochinchine.jpg",
+      "caption": "Nhà máy cao su ở Nam Kỳ thời thuộc địa",
+      "date": "Thập niên 1920",
+      "kind": "archive",
+      "author": "Không rõ tác giả",
+      "license": "Public domain",
+      "license_url": "",
+      "note": "Ảnh bối cảnh lao động thời thuộc địa; không mô tả trực tiếp gia đình hư cấu.",
+      "local": "/assets/historical/rubber_factory_1920s.jpg",
+      "rights_status": "commons-stated"
+    },
+    {
+      "id": "tran_phu",
+      "filename": "Trần Phú.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Tr%E1%BA%A7n_Ph%C3%BA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tr%E1%BA%A7n_Ph%C3%BA.jpg",
+      "caption": "Chân dung Trần Phú (ảnh phục chế)",
+      "date": "Trước 1931; bản phục chế hiện đại",
+      "kind": "archive",
+      "author": "Khánh Hữu",
+      "license": "Public domain",
+      "license_url": "",
+      "note": "Chân dung nhân vật gắn với Luận cương tháng 10/1930; không phải ảnh chụp hội nghị.",
+      "local": "/assets/historical/tran_phu.jpg",
+      "rights_status": "commons-stated"
+    },
+    {
+      "id": "paris_1973",
+      "filename": "Vietnam peace agreement signing, 27580141, new.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Vietnam_peace_agreement_signing%2C_27580141%2C_new.jpg/1280px-Vietnam_peace_agreement_signing%2C_27580141%2C_new.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Vietnam_peace_agreement_signing,_27580141,_new.jpg",
+      "caption": "Ngoại trưởng Hoa Kỳ William Rogers ký Hiệp định Paris",
+      "date": "27/01/1973",
+      "kind": "archive",
+      "author": "Robert LeRoy Knudsen",
+      "license": "Public domain",
+      "license_url": "",
+      "note": "Ảnh lễ ký tại Paris; không phải ảnh cuộc tập kích Hà Nội tháng 12/1972.",
+      "local": "/assets/historical/paris_1973.jpg",
+      "rights_status": "commons-stated"
+    },
+    {
+      "id": "textile_machine_today",
+      "filename": "Knit-fabric-machine.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Knit-fabric-machine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Knit-fabric-machine.jpg",
+      "caption": "Máy dệt trong nhà máy may tại Việt Nam",
+      "date": "18/01/2022",
+      "kind": "contemporary",
+      "author": "Thygesen Textile Vietnam",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "note": "Ảnh máy dệt hiện đại minh họa hoạt động sản xuất; không phải xí nghiệp quốc doanh năm 1981.",
+      "local": "/assets/historical/textile_machine_today.jpg",
+      "rights_status": "commons-stated"
+    },
+    {
+      "id": "asean_headquarters",
+      "filename": "ASEAN HQ 1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/ASEAN_HQ_1.jpg/1280px-ASEAN_HQ_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source_url": "https://commons.wikimedia.org/wiki/File:ASEAN_HQ_1.jpg",
+      "caption": "Trụ sở ASEAN tại Jakarta, Indonesia",
+      "date": "12/12/2010",
+      "kind": "contemporary",
+      "author": "Gunawan Kartapranata",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "note": "Ảnh trụ sở ASEAN năm 2010; không phải lễ Việt Nam gia nhập năm 1995.",
+      "local": "/assets/historical/asean_headquarters.jpg",
+      "rights_status": "commons-stated"
+    },
+    {
+      "id": "wto_headquarters",
+      "filename": "Cwr aerial 2001.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Cwr_aerial_2001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cwr_aerial_2001.jpg",
+      "caption": "Trung tâm William Rappard, trụ sở WTO tại Genève",
+      "date": "2001",
+      "kind": "contemporary",
+      "author": "Photo Lightmotif / Blatt.",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Ảnh trụ sở WTO; không phải lễ Việt Nam gia nhập ngày 11/01/2007.",
+      "local": "/assets/historical/wto_headquarters.jpg",
+      "rights_status": "commons-stated"
+    }
+  ],
+  "scene_media": {
+    "PRO_S01": "hanoi_today",
+    "PRO_S02": "hanoi_metro",
+    "C01_S01": "rubber_factory_1920s",
+    "C01_S02": "nguyen_ai_quoc_1921",
+    "C01_S03": "nguyen_ai_quoc_1924",
+    "C01_S04": "nguyen_ai_quoc_1924",
+    "C02_S01": "nghe_tinh_decree",
+    "C02_S02": "nghe_tinh_decree",
+    "C02_S03": "tran_phu",
+    "C02_S04": "nghe_tinh_decree",
+    "C03_S01": "phan_dang_luu",
+    "C03_S02": "phan_dang_luu",
+    "C03_S03": "phan_dang_luu",
+    "C03_S04": "phan_dang_luu",
+    "C04_S01": "hanoi_august_1945",
+    "C04_S02": "nguyen_ai_quoc_1924",
+    "C04_S03": "hanoi_august_1945",
+    "C04_S04": "independence_1945",
+    "C05_S01": "famine_relief",
+    "C05_S02": "famine_relief",
+    "C05_S03": "assembly_1946",
+    "C05_S04": "independence_1945",
+    "C06_S01": "dien_bien_porters",
+    "C06_S02": "dien_bien_trench",
+    "C06_S03": "dien_bien_porters",
+    "C06_S04": "dien_bien_victory",
+    "C06_S05": "geneva_1954",
+    "C07_S01": "geneva_1954",
+    "C07_S02": "hien_luong_today",
+    "C07_S03": "hien_luong_today",
+    "C07_S04": "hien_luong_today",
+    "C07_S05": "hien_luong_today",
+    "C08_S01": "saigon_1968",
+    "C08_S02": "saigon_1968",
+    "C08_S03": "paris_1973",
+    "C08_S04": "saigon_1975_street",
+    "C08_S05": "tank_1975_museum",
+    "C09_S01": "government_1976",
+    "C09_S02": "government_1976",
+    "C09_S03": "rice_today",
+    "C09_S04": "government_1976",
+    "C10_S01": "rice_today",
+    "C10_S02": "textile_machine_today",
+    "C10_S03": "rice_today",
+    "C10_S04": "rice_today",
+    "C11_S01": "rice_today",
+    "C11_S02": "textile_machine_today",
+    "C11_S03": "asean_headquarters",
+    "C11_S04": "wto_headquarters",
+    "C12_S01": "hanoi_2024",
+    "C12_S02": "metro_station",
+    "C12_S03": "hanoi_metro",
+    "C12_S04": "hanoi_today",
+    "EPI_S01": "hanoi_metro",
+    "EPI_S02": "hanoi_today"
+  },
+  "scene_review": {
+    "PRO_S01": {
+      "status": "context",
+      "note": "Ảnh hiện tại, dùng cho khung truyện năm 2026"
+    },
+    "PRO_S02": {
+      "status": "context",
+      "note": "Ảnh năm 2025, minh họa đời sống hiện đại"
+    },
+    "C01_S01": {
+      "status": "context",
+      "note": "Ảnh bối cảnh lao động thời thuộc địa; không mô tả trực tiếp gia đình hư cấu."
+    },
+    "C01_S02": {
+      "status": "context",
+      "note": "Dùng đúng nhãn 1924"
+    },
+    "C01_S03": {
+      "status": "direct",
+      "note": "Ảnh lưu trữ năm 1924"
+    },
+    "C01_S04": {
+      "status": "context",
+      "note": "Chân dung Nguyễn Ái Quốc năm 1924 minh họa người chủ trì hội nghị; không phải ảnh hội nghị thành lập Đảng năm 1930."
+    },
+    "C02_S01": {
+      "status": "context",
+      "note": "Đây là bố cáo của chính quyền thực dân, không phải tuyên ngôn cách mạng"
+    },
+    "C02_S02": {
+      "status": "direct",
+      "note": "Đây là bố cáo của chính quyền thực dân, không phải tuyên ngôn cách mạng"
+    },
+    "C02_S03": {
+      "status": "direct",
+      "note": "Chân dung nhân vật gắn với Luận cương tháng 10/1930; không phải ảnh chụp hội nghị."
+    },
+    "C02_S04": {
+      "status": "needs_replacement",
+      "note": "Văn bản Nghệ Tĩnh 1930 chỉ gợi bối cảnh trước đó; cần ảnh hoạt động phục hồi tổ chức 1932–1935."
+    },
+    "C03_S01": {
+      "status": "context",
+      "note": "Ảnh Phan Đăng Lưu và các đồng chí trong phong trào dân chủ tại Huế 1936–1939, minh họa bối cảnh phong trào; không phải ảnh trực tiếp tình huống kể trong cảnh."
+    },
+    "C03_S02": {
+      "status": "context",
+      "note": "Ảnh Phan Đăng Lưu và các đồng chí trong phong trào dân chủ tại Huế 1936–1939, minh họa bối cảnh phong trào; không phải ảnh trực tiếp tình huống kể trong cảnh."
+    },
+    "C03_S03": {
+      "status": "direct",
+      "note": "Ảnh minh họa đúng phong trào 1936–1939"
+    },
+    "C03_S04": {
+      "status": "context",
+      "note": "Ảnh Phan Đăng Lưu và các đồng chí trong phong trào dân chủ tại Huế 1936–1939, minh họa bối cảnh phong trào; không phải ảnh trực tiếp tình huống kể trong cảnh."
+    },
+    "C04_S01": {
+      "status": "direct",
+      "note": "Ảnh lịch sử, bối cảnh cuối tháng 8/1945"
+    },
+    "C04_S02": {
+      "status": "context",
+      "note": "Chân dung Nguyễn Ái Quốc năm 1924 minh họa nhân vật; không phải ảnh Hội nghị Trung ương 8 năm 1941."
+    },
+    "C04_S03": {
+      "status": "direct",
+      "note": "Ảnh lịch sử, bối cảnh cuối tháng 8/1945"
+    },
+    "C04_S04": {
+      "status": "direct",
+      "note": "Ảnh tại Hà Nội ngày 2/9/1945"
+    },
+    "C05_S01": {
+      "status": "direct",
+      "note": "Ảnh ngày vận động chống nạn đói"
+    },
+    "C05_S02": {
+      "status": "needs_replacement",
+      "note": "Ảnh vận động chống đói năm 1945 cùng thời kỳ; chưa có ảnh lớp Bình dân học vụ phù hợp."
+    },
+    "C05_S03": {
+      "status": "direct",
+      "note": "Minh họa hoạt động xây dựng chính quyền mới"
+    },
+    "C05_S04": {
+      "status": "needs_replacement",
+      "note": "Ảnh ngày Độc lập 2/9/1945 gợi bối cảnh chính quyền mới; chưa minh họa trực tiếp kháng chiến Nam Bộ."
+    },
+    "C06_S01": {
+      "status": "direct",
+      "note": "Ảnh tư liệu dân công, chất lượng gốc nhỏ"
+    },
+    "C06_S02": {
+      "status": "context",
+      "note": "Sinh hoạt bộ đội tại Điện Biên Phủ năm 1954 minh họa một mặt của kháng chiến; không phải đêm 19/12/1946."
+    },
+    "C06_S03": {
+      "status": "needs_replacement",
+      "note": "Ảnh dân công năm 1954 chỉ minh họa hậu cần; không phải tư liệu Việt Bắc 1947, Biên giới 1950 hay Đại hội II năm 1951."
+    },
+    "C06_S04": {
+      "status": "direct",
+      "note": "Ảnh minh họa trận Điện Biên Phủ"
+    },
+    "C06_S05": {
+      "status": "direct",
+      "note": "Ảnh tại hội nghị Genève 1954"
+    },
+    "C07_S01": {
+      "status": "context",
+      "note": "Hội nghị Genève năm 1954 là bối cảnh dẫn đến câu chuyện hai miền năm 1955, không phải ảnh đời sống của hai nhân vật."
+    },
+    "C07_S02": {
+      "status": "needs_replacement",
+      "note": "Cầu Hiền Lương chụp năm 2010 chỉ gợi bối cảnh chia cắt; chưa minh họa công cuộc khôi phục và sửa sai ở miền Bắc."
+    },
+    "C07_S03": {
+      "status": "needs_replacement",
+      "note": "Cầu Hiền Lương chụp năm 2010 chỉ gợi bối cảnh chia cắt; chưa minh họa phong trào Đồng khởi 1959–1960."
+    },
+    "C07_S04": {
+      "status": "needs_replacement",
+      "note": "Cầu Hiền Lương chụp năm 2010 gợi chia cắt; chưa minh họa Đại hội III hay tuyến chi viện Trường Sơn."
+    },
+    "C07_S05": {
+      "status": "needs_replacement",
+      "note": "Cầu Hiền Lương chụp năm 2010 gợi chia cắt; chưa minh họa việc chiến tranh mở rộng năm 1965."
+    },
+    "C08_S01": {
+      "status": "context",
+      "note": "Ảnh Sài Gòn Mậu Thân 1968 minh họa chiến tranh ở miền Nam; không đại diện đồng thời sinh hoạt ở miền Bắc."
+    },
+    "C08_S02": {
+      "status": "direct",
+      "note": "Ảnh liên quan sự kiện Mậu Thân 1968"
+    },
+    "C08_S03": {
+      "status": "direct",
+      "note": "Ảnh lễ ký tại Paris; không phải ảnh cuộc tập kích Hà Nội tháng 12/1972."
+    },
+    "C08_S04": {
+      "status": "needs_replacement",
+      "note": "Ảnh đường Nguyễn Huệ dịp Tết 1975, trước chiến dịch mùa Xuân; không phải ảnh ngày 30/4."
+    },
+    "C08_S05": {
+      "status": "context",
+      "note": "Xe tăng trưng bày năm 2012 gợi sự kiện 1975; không phải ảnh công cuộc tái thiết sau chiến tranh."
+    },
+    "C09_S01": {
+      "status": "needs_replacement",
+      "note": "Ảnh thành viên Chính phủ năm 1976 chỉ gợi bối cảnh; chưa minh họa đời sống tái thiết sau chiến tranh."
+    },
+    "C09_S02": {
+      "status": "direct",
+      "note": "Ảnh được nguồn mô tả là thành viên Chính phủ năm 1976; mốc 2019 thuộc bản số hóa, không phải năm thành lập Chính phủ."
+    },
+    "C09_S03": {
+      "status": "needs_replacement",
+      "note": "Ruộng lúa năm 2015 chỉ minh họa ngành nông nghiệp; chưa thể hiện thiếu thốn thời bao cấp."
+    },
+    "C09_S04": {
+      "status": "needs_replacement",
+      "note": "Ảnh thành viên Chính phủ năm 1976 không minh họa trực tiếp chiến tranh biên giới; cần thay bằng tư liệu phù hợp."
+    },
+    "C10_S01": {
+      "status": "context",
+      "note": "Ảnh đồng ruộng năm 2015 minh họa nông nghiệp; không phải tư liệu thực hiện Chỉ thị 100 năm 1981."
+    },
+    "C10_S02": {
+      "status": "context",
+      "note": "Ảnh máy dệt hiện đại minh họa hoạt động sản xuất; không phải xí nghiệp quốc doanh năm 1981."
+    },
+    "C10_S03": {
+      "status": "needs_replacement",
+      "note": "Ruộng lúa năm 2015 không thể hiện cải cách giá–lương–tiền 1985; cần tư liệu tiền tệ hoặc phân phối đúng giai đoạn."
+    },
+    "C10_S04": {
+      "status": "needs_replacement",
+      "note": "Ruộng lúa năm 2015 chỉ gợi lĩnh vực kinh tế; cần ảnh Đại hội VI hoặc tư liệu Đổi mới 1986."
+    },
+    "C11_S01": {
+      "status": "context",
+      "note": "Ảnh đồng ruộng năm 2015 minh họa nông nghiệp; không phải tư liệu Khoán 10 năm 1988 hay xuất khẩu gạo năm 1989."
+    },
+    "C11_S02": {
+      "status": "context",
+      "note": "Ảnh máy dệt hiện đại minh họa hoạt động sản xuất; không phải xí nghiệp quốc doanh năm 1981."
+    },
+    "C11_S03": {
+      "status": "context",
+      "note": "Ảnh trụ sở ASEAN năm 2010; không phải lễ Việt Nam gia nhập năm 1995."
+    },
+    "C11_S04": {
+      "status": "context",
+      "note": "Ảnh trụ sở WTO; không phải lễ Việt Nam gia nhập ngày 11/01/2007."
+    },
+    "C12_S01": {
+      "status": "context",
+      "note": "Ảnh hiện tại dùng so sánh thay đổi đời sống, không phải tư liệu thập niên 1990"
+    },
+    "C12_S02": {
+      "status": "context",
+      "note": "Hạ tầng đô thị minh họa một khía cạnh phát triển; không phải ảnh chụp các kỳ Đại hội Đảng."
+    },
+    "C12_S03": {
+      "status": "context",
+      "note": "Ảnh tàu điện năm 2025 minh họa hạ tầng hiện đại; không phải ảnh Đại hội XIV hay kết quả của những mục tiêu 2030–2045."
+    },
+    "C12_S04": {
+      "status": "context",
+      "note": "Ảnh hiện tại, dùng cho khung truyện năm 2026"
+    },
+    "EPI_S01": {
+      "status": "context",
+      "note": "Ảnh năm 2025, minh họa đời sống hiện đại"
+    },
+    "EPI_S02": {
+      "status": "context",
+      "note": "Ảnh hiện tại, dùng cho khung truyện năm 2026"
+    }
+  },
+  "review_date": "2026-11-04"
+}

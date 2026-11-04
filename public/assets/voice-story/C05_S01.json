@@ -1,0 +1,70 @@
+{
+  "scene_id": "C05_S01",
+  "voice": "Thiện Minh",
+  "duration": 38.5876,
+  "segments": [
+    {
+      "text": "Một bữa cơm có tiếng cười hay chưa?",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "title",
+      "start": 0.0,
+      "end": 2.1443
+    },
+    {
+      "text": "Ngày độc lập đã đến, nhưng những thiếu thốn không biến mất sau một buổi lễ.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 2.7113,
+      "end": 6.3402
+    },
+    {
+      "text": "Một gia đình vẫn phải nghĩ về bữa ăn ngày mai.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 6.5876,
+      "end": 9.1443
+    },
+    {
+      "text": "Hình dung bạn là người lớn trong căn nhà ấy: làm sao để con có cơm, để ruộng đồng được canh tác trở lại, để người xung quanh cùng vượt qua khó khăn?",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 9.3918,
+      "end": 17.3093
+    },
+    {
+      "text": "Chính quyền mới đối diện đồng thời những thách thức về lương thực, giáo dục, tài chính và nguy cơ xâm lược.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 17.701,
+      "end": 22.8969
+    },
+    {
+      "text": "Bảo vệ độc lập vì thế gắn ngay với việc cải thiện đời sống người dân.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 23.1443,
+      "end": 26.9381
+    },
+    {
+      "text": "Mai nếu thu hoạch được thêm, mình lại để dành một ít giúp nhà bên.",
+      "speaker": "NGƯỜI MẸ (hư cấu, 1945)",
+      "kind": "dialogue",
+      "start": 27.1856,
+      "end": 30.8144
+    },
+    {
+      "text": "Sao vừa độc lập mà vẫn còn thiếu ăn?",
+      "speaker": "CON (2026)",
+      "kind": "dialogue",
+      "start": 31.2062,
+      "end": 33.433
+    },
+    {
+      "text": "Bởi chiến thắng một biến cố chính trị không xóa hết hậu quả của những năm trước đó.",
+      "speaker": "MẸ",
+      "kind": "dialogue",
+      "start": 33.8247,
+      "end": 38.1959
+    }
+  ]
+}

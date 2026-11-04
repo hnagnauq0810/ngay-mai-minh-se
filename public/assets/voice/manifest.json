@@ -1,0 +1,390 @@
+{
+  "provider": "edge-tts",
+  "scenes": {
+    "PRO_S01": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "e42f19f4f8926fe918fb4efbf7ae41227aed225461637f203ebbb6746d6d98a3",
+      "bytes": 251136,
+      "characters": 571
+    },
+    "PRO_S02": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "83957953df5e0e22df969e9e716a6da870a06d1e8f4a71254bb5c41005fcac07",
+      "bytes": 285840,
+      "characters": 677
+    },
+    "C01_S01": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "5bb915ef9493508e1270571128f50df1082166e2d7a70125e41c352fba0a33be",
+      "bytes": 276768,
+      "characters": 643
+    },
+    "C01_S02": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "8eacd6323afe77965ae2898c692f8cebc4e7b7c7dcd3c1825905830ed31c985e",
+      "bytes": 248256,
+      "characters": 653
+    },
+    "C01_S03": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "42225f07be3f66c53353fbd6cea81d409a4b8dcf3964fa4839777dbb75b32a1a",
+      "bytes": 251712,
+      "characters": 610
+    },
+    "C01_S04": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "2ccef0fbf20fe7f5a5070c0aa9c19e70984bb3c31900b90b705854a7c4ba3172",
+      "bytes": 258624,
+      "characters": 648
+    },
+    "C02_S01": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "6855fdf161e215f1bff0c7d289e06d2a60d2aa54d99fb0bd222aa4f6e308a24f",
+      "bytes": 306288,
+      "characters": 671
+    },
+    "C02_S02": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "551dea09992ef914a2fd89c282419d3d4d7d7b7c2533b66870eb6f240fef1983",
+      "bytes": 204480,
+      "characters": 516
+    },
+    "C02_S03": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "b25f58c33181b64e662a26117dc6793652d565708260c2cbe3051b06ee900fd7",
+      "bytes": 241200,
+      "characters": 602
+    },
+    "C02_S04": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "49af943b6400815b8af8db412b60409fdc6d84cfaeaf88e9c1183c9f7ee757eb",
+      "bytes": 202608,
+      "characters": 472
+    },
+    "C03_S02": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "5ae621c10bbbb9f6d9c924e3fd8846e6173e621008b6804542c241a29656ad39",
+      "bytes": 218736,
+      "characters": 531
+    },
+    "C03_S01": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "84cc580dee8c551f13d8702139c21fb4ae855cebe5ad807d7f2d6b4b4c2b3321",
+      "bytes": 227232,
+      "characters": 492
+    },
+    "C03_S04": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "69b29358e8581178f9a3bf59d0bb4e12af9f09ac0c30557a3d8c2b2f3cd06eaf",
+      "bytes": 172512,
+      "characters": 408
+    },
+    "C03_S03": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "4b9aa1f26bcf0971f7e011773a7f9f2fcb431ffd40d86101c8c2621bc5a9dbb8",
+      "bytes": 224784,
+      "characters": 534
+    },
+    "C04_S02": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "40bfc5cbdc2c5c564bb7b64e882a49abda0f873a98c3c4cfb3c2a0c5ecabefdf",
+      "bytes": 216000,
+      "characters": 550
+    },
+    "C04_S01": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "9387907633919080ee5b75e939e18d9fbb6810e652aa7b37c36d6d2147921881",
+      "bytes": 229968,
+      "characters": 520
+    },
+    "C04_S03": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "d4392fabfe36968c93a465f9a57da38375321f319c12dbe4de1251a7549cc5e9",
+      "bytes": 207072,
+      "characters": 500
+    },
+    "C04_S04": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "cb91edf408f13dfd511f0542beecaef7bfac64288bff3428007ec8189130542f",
+      "bytes": 243504,
+      "characters": 562
+    },
+    "C05_S01": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "14988264dc27145ac0b5aba4b8cb1f76c48419887c8c1cd4a42a98779269abfe",
+      "bytes": 323424,
+      "characters": 727
+    },
+    "C05_S02": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "d6b3243811b7d95dfd90f1c6bdf14138e640d03be544e734d9da3b23b56d485a",
+      "bytes": 270576,
+      "characters": 659
+    },
+    "C05_S03": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "9b086ff382ed6c6e92fa6de2d781b58113ea4f694606b08c4fee7b02976dd95e",
+      "bytes": 244800,
+      "characters": 574
+    },
+    "C06_S01": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "f9185a6f4e05915457618aed16f6875784796b594d7f39bebe8c1e92a8a7617f",
+      "bytes": 268704,
+      "characters": 636
+    },
+    "C05_S04": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "1aecfabd55d0d2a3f91c5bdfe0542aa37a00675eaa00c13af4f259653ec6ea70",
+      "bytes": 239184,
+      "characters": 589
+    },
+    "C06_S02": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "b8dcc8369e63e7ab46ee43f1c5642a66e4fab3df273b6e6304ed6bd87a71a839",
+      "bytes": 259344,
+      "characters": 601
+    },
+    "C06_S03": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "857d31f3295456dbd67df2490c37176129983e108ae28ee6019df9a5c8fa3629",
+      "bytes": 249552,
+      "characters": 596
+    },
+    "C06_S04": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "c3a1222a223d152520baf78295360c6d3d572d49d4c848bbbf67921cf09c5a93",
+      "bytes": 259632,
+      "characters": 619
+    },
+    "C06_S05": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "7fcf37bc9397a241e95b404bef49ee1bc8f1fbd7702d38c3cc1928b794ed9f43",
+      "bytes": 254448,
+      "characters": 601
+    },
+    "C07_S02": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "a3f40f7129558d7586976fcc1b899b1c86af833f5dc64c966e355dc63bd8e626",
+      "bytes": 254016,
+      "characters": 608
+    },
+    "C07_S01": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "20fe0d8983e433a7da6e02b74489579e33680f4f3e639920658df4f98f229e73",
+      "bytes": 296640,
+      "characters": 654
+    },
+    "C07_S03": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "bf02d43aa7b7c63dd8efd2fde210fcc158588220ca6159fc026830a060d01bdd",
+      "bytes": 265536,
+      "characters": 675
+    },
+    "C07_S05": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "40652617349ea2f77118adfc9a690ddaaa58f78ac22ba578524132cd67c86849",
+      "bytes": 206496,
+      "characters": 490
+    },
+    "C07_S04": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "8538565faf8a7d6136f80b8879dd867bd5e0d291085e4e30bbb7061eb9e475a2",
+      "bytes": 276912,
+      "characters": 672
+    },
+    "C08_S01": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "204a39ad910dbc6ab228e67e7b2cdd8a63d02d6f1276173db5dc882d1f3fd471",
+      "bytes": 261072,
+      "characters": 630
+    },
+    "C08_S02": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "f81032939b14362659537e73d92d6c877c81d40e5e2d23e6594ab134c588dc11",
+      "bytes": 260064,
+      "characters": 631
+    },
+    "C08_S03": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "c0810e5c0468f57722fba8d95bafe8c1d889e25c9e1610b2342fc3575ab79ee6",
+      "bytes": 234720,
+      "characters": 556
+    },
+    "C08_S04": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "06f1b8f77674cd18596ca2dcd44324bb6fc3f006415d775c5d142dce1ddee4d9",
+      "bytes": 278208,
+      "characters": 630
+    },
+    "C08_S05": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "1466c4a5e0f0f7a2220e951d1d5f7ef48e96f1b0d836a93eb65312f3a8d26860",
+      "bytes": 221040,
+      "characters": 546
+    },
+    "C09_S01": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "5121312a75eb2f7b1f87424c4c8895d876b1c15daab3b5123e2f1c989749a806",
+      "bytes": 286848,
+      "characters": 656
+    },
+    "C09_S02": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "30d68b2da06e296635998aa5535cee35695287fb4568dd41d60440abfbf98044",
+      "bytes": 274608,
+      "characters": 621
+    },
+    "C09_S04": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "355261314dc8e592cd5a067b4ee5a9c54a256f25cde6a110c8a7931e3c6337cd",
+      "bytes": 262080,
+      "characters": 626
+    },
+    "C09_S03": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "bfdf430cec2ceaad54dd0b9f3acf68044332bf56357b9ccb246af36bf21e72de",
+      "bytes": 275904,
+      "characters": 633
+    },
+    "C10_S01": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "44e3f4ee3d3c13c3125995bacee0dd469e9fdd67bc3443f07c0c59010e779fef",
+      "bytes": 288000,
+      "characters": 689
+    },
+    "C10_S02": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "fbd40389ba531fe67e83e9fa3cdc21e28d3ff46dbedae8b6b7652197c1bb01bc",
+      "bytes": 253296,
+      "characters": 590
+    },
+    "C10_S04": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "0bcebf4f9f9df1df2de5881cf2dd52be50de6c10bc2c2db651dc5fd673fccb4a",
+      "bytes": 298368,
+      "characters": 667
+    },
+    "C10_S03": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "2b39245a674737a4faebf5a9bc7d3da9cd9fec1806f89c02bbf56253339b2014",
+      "bytes": 239184,
+      "characters": 582
+    },
+    "C11_S01": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "7ead274bbf0e88e4d66a3ae31838039f42434a582565ceeffef2e593b48f1286",
+      "bytes": 322560,
+      "characters": 714
+    },
+    "C11_S03": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "4552dabcd4107e5847af07981c3bdc0866aad258cfc9dfa3e4599b782c9a27e0",
+      "bytes": 241632,
+      "characters": 556
+    },
+    "C11_S02": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "8682d063b913277cee708274c29bef10463945ed0c38201fe2ef2a4e050b97f4",
+      "bytes": 285840,
+      "characters": 681
+    },
+    "C11_S04": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "c0e664f56df5b19deef434f611408972f82737d9e446aff969435c9230e87bc8",
+      "bytes": 238464,
+      "characters": 568
+    },
+    "C12_S01": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "a4a14accd32e08e4dccf06c51490e28a0b33cc8030e1833a58045bdc3fd767f5",
+      "bytes": 258336,
+      "characters": 575
+    },
+    "C12_S03": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "36d6b068f3b33e21f932474c60bc9334c70716f06e707626ede3cccc5a1c5d14",
+      "bytes": 352944,
+      "characters": 724
+    },
+    "C12_S02": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "2043d34b56deb41df2d799c3246c71f498e64eb166c0dc0b970e177af7ce3807",
+      "bytes": 318240,
+      "characters": 698
+    },
+    "C12_S04": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "0aec78f0c38e06be310d99ee5124c7da4adf11486faff651af823c1b622f5b4d",
+      "bytes": 255024,
+      "characters": 622
+    },
+    "EPI_S01": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "fea51032e2cad3cc240491c11ef7e04684e584545d392dbc72498d096829195e",
+      "bytes": 284400,
+      "characters": 660
+    },
+    "EPI_S02": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "-8%",
+      "sha256": "6abc0cd5471ac68bd83acd510f3506d61a1691faea1f37e12bfe3b89e5cc1753",
+      "bytes": 223344,
+      "characters": 515
+    }
+  }
+}

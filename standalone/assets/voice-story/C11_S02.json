@@ -1,0 +1,49 @@
+{
+  "scene_id": "C11_S02",
+  "voice": "Thiện Minh",
+  "duration": 37.6392,
+  "segments": [
+    {
+      "text": "Học nghề, đổi việc, mở tầm nhìn.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "title",
+      "start": 0.0,
+      "end": 1.8144
+    },
+    {
+      "text": "Khi đời sống kinh tế từng bước thay đổi, những người trẻ bắt đầu nhìn thấy nhiều hướng đi mới trong học tập và việc làm.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 2.3814,
+      "end": 8.4845
+    },
+    {
+      "text": "Đại hội VII năm 1991 thông qua Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội; Đại hội VIII năm 1996 đánh dấu bước chuyển sang đẩy mạnh công nghiệp hóa, hiện đại hóa.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 8.732,
+      "end": 20.4433
+    },
+    {
+      "text": "Những biến đổi này diễn ra không đồng đều và còn nhiều khó khăn, nhưng thể hiện mục tiêu chuyển nền kinh tế, tạo thêm năng lực sản xuất và cơ hội phát triển.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 20.6907,
+      "end": 28.8557
+    },
+    {
+      "text": "Mai con nộp đơn học nghề. Con muốn làm được một thứ máy mà nhà mình chưa từng có.",
+      "speaker": "NGƯỜI TRẺ (hư cấu)",
+      "kind": "dialogue",
+      "start": 29.1031,
+      "end": 33.6392
+    },
+    {
+      "text": "Những ước mơ mới thường xuất hiện khi khả năng lựa chọn mở rộng.",
+      "speaker": "MẸ",
+      "kind": "dialogue",
+      "start": 34.0309,
+      "end": 37.2474
+    }
+  ]
+}

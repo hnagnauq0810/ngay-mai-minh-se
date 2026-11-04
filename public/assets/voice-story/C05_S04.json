@@ -1,0 +1,49 @@
+{
+  "scene_id": "C05_S04",
+  "voice": "Thiện Minh",
+  "duration": 34.3608,
+  "segments": [
+    {
+      "text": "Khi hiểm nguy tới gần.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "title",
+      "start": 0.0,
+      "end": 1.2371
+    },
+    {
+      "text": "Trong khi công cuộc kiến thiết bắt đầu, thực dân Pháp trở lại xâm lược ở Nam Bộ từ tháng 9/1945.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 1.8041,
+      "end": 8.4021
+    },
+    {
+      "text": "Ở miền Bắc, chính quyền cách mạng còn phải đối phó với nhiều lực lượng bên ngoài và các thế lực chống phá.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 8.6495,
+      "end": 14.0928
+    },
+    {
+      "text": "Đảng và Chính phủ thực hiện sách lược ngoại giao mềm dẻo, có nguyên tắc, đồng thời chuẩn bị kháng chiến lâu dài.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 14.3402,
+      "end": 19.866
+    },
+    {
+      "text": "Chỉ thị Kháng chiến kiến quốc tháng 11/1945 thể hiện yêu cầu vừa xây dựng vừa bảo vệ đất nước trong điều kiện đặc biệt khó khăn.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 20.1134,
+      "end": 27.7835
+    },
+    {
+      "text": "Có những lúc điều cần thiết là tránh phải đối đầu cùng lúc với quá nhiều nguy cơ, để bảo vệ điều vừa giành được.",
+      "speaker": "MẸ",
+      "kind": "dialogue",
+      "start": 28.0309,
+      "end": 33.9691
+    }
+  ]
+}

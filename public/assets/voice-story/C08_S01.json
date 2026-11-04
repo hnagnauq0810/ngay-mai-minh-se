@@ -1,0 +1,56 @@
+{
+  "scene_id": "C08_S01",
+  "voice": "Thiện Minh",
+  "duration": 32.5258,
+  "segments": [
+    {
+      "text": "Hai buổi sáng, cùng một năm.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "title",
+      "start": 0.0,
+      "end": 1.6495
+    },
+    {
+      "text": "Hãy nhìn hai buổi sáng của cùng một năm.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 2.2165,
+      "end": 4.5258
+    },
+    {
+      "text": "Ở miền Bắc, nhiều nhà máy, xí nghiệp phải thích ứng với điều kiện chiến tranh, nhân dân vừa sản xuất vừa chiến đấu, chi viện tiền tuyến.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 4.7732,
+      "end": 11.9485
+    },
+    {
+      "text": "Ở miền Nam, cuộc chiến tranh diễn biến ác liệt với sự tham gia trực tiếp của quân đội Hoa Kỳ và các lực lượng tham chiến.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 12.1959,
+      "end": 18.8763
+    },
+    {
+      "text": "Trong hoàn cảnh ấy, những chủ trương và phương thức tổ chức của Đảng hướng đến mục tiêu bảo vệ miền Bắc, giải phóng miền Nam và tiến tới thống nhất đất nước.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 19.1237,
+      "end": 27.0412
+    },
+    {
+      "text": "Mai vẫn phải làm việc, dù hôm nay nhiều thứ bị gián đoạn.",
+      "speaker": "NHÂN VẬT BẮC (hư cấu)",
+      "kind": "dialogue",
+      "start": 27.2887,
+      "end": 30.1753
+    },
+    {
+      "text": "Mai mình muốn nghe một tin tốt.",
+      "speaker": "NHÂN VẬT NAM (hư cấu)",
+      "kind": "dialogue",
+      "start": 30.567,
+      "end": 32.134
+    }
+  ]
+}

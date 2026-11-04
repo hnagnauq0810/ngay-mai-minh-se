@@ -1,0 +1,26 @@
+AC ID,Area,Test case,Test steps,Expected result,Priority,Owner,Status,Evidence link
+AC-01,Content,55 unique scenes and 12 chapters,"Check manifest, chapter membership, order",All 55 scenes present in correct order,P0,FE + Editor,Passed 2026-11-04,scripts/validate_content.py
+AC-02,Reading,No motion text parity,Toggle reduced motion and reader mode,Narration/dialogue unchanged,P0,QA,Not run,
+AC-03,Navigation,Deep-link anchors,Load chapter 07 #C07_S03 on mobile/desktop,Scene reachable and heading visible,P0,FE,Passed 2026-11-04,tests/e2e_smoke.py
+AC-04,Responsive,Split North/South at 375 px,Open chapter 07 / rotate / zoom,"Labels/year distinct, no horizontal overflow",P0,UI QA,Not run,
+AC-05,A11y,Reduced motion,Enable OS reduce-motion,Parallax and scroll traps disabled,P0,QA,Not run,
+AC-06,Audio,No silent autoplay,Load new chapter without tapping Play,No audio playback request,P0,QA,Passed 2026-11-04,tests/audio_playback.py
+AC-07,Audio,Rejected play promise,Simulate blocking or missing audio,"Readable message, no blocked story",P0,FE + QA,Passed 2026-11-04,tests/audio_playback.py
+AC-08,History,Verified claim links,Check production JSON and sources,Every production claim verified,P0,Historian,Not run,
+AC-09,Rights,Media license gate,"Mark image rights pending, build release",Production gate fails,P0,PM,Not run,
+AC-10,Disclosure,Fiction labels,Inspect fictional dialogue and reconstruction,Labels shown and accessible,P0,Editor + QA,Passed 2026-11-04,tests/e2e_smoke.py
+AC-11,A11y,Keyboard focus,Tab through story and controls,"All actions operable, focus visible",P0,QA,Not run,
+AC-12,Transcript,Narration parity,Compare transcript to story manifest,"Every scene included, unchanged",P0,Editor,Not run,
+AC-13,Performance,Text-first loading,Throttle Slow 4G and audit network,Readable text not media-blocked,P1,FE,Not run,
+AC-14,Fault tolerance,Missing image fallback,Simulate 404 media,"Meaningful fallback, no layout break",P0,QA,Not run,
+AC-15,Privacy,No network submission,Write reflection and inspect network,No reflection transmitted,P0,PM + QA,Not run,
+AC-16,Static export,12 routes generated,Run build with output export,All 12 HTML routes in out,P0,FE,Not run,
+AC-17,History,1975/1976 distinction,Review C08/C09 transition,No statement of state unification on 30/4/1975,P0,Historian,Not run,
+AC-18,History,1954 boundary interpretation,Review C07 split narration,Parallel timelines do not imply permanent national border,P0,Historian,Not run,
+AC-19,Content,VO labels,Inspect archive photos vs reconstruction,Exact captions and rights credit,P0,Editor,Not run,
+AC-20,Deployment,Rollback,Deploy previous approved build to staging,Recover previous immutable release,P1,DevOps,Not run,
+AC-21,Audio,Real MP3 playback and replay,Play reader and cinema; pause/resume; stop/replay; end scene,Audible PCM files; resume preserves time; replay starts at zero; auto-next works,P0,FE + QA,Passed 2026-11-04,tests/audio_playback.py
+AC-22,Media,Multi-image and video narrative coverage,Review all 55 word-anchored sequences and source notes,3-5 relevant visual cues per scene; archival/contemporary/graphic labels visible,P0,Editor,Passed editorial coverage 2026-11-04,docs/storyboard_cues.csv
+AC-23,Video,Video follows narration playback,"Play, pause/resume and switch visual cues; block video request",Silent local clips pause with narration; poster fallback preserves story,P0,FE + QA,Passed 2026-11-04,tests/story_media_playback.py
+AC-24,Audio,One storytelling voice with recorded timing,Inspect all 55 narration profiles and decode actual served files,All use Thien Minh; captions and cuts use sentence recording timings,P0,FE + QA,Passed 2026-11-04,tests/audio_playback.py
+AC-25,Media,Distinct and disclosed scene visuals,Validate all storyboards and inspect contact sheets,55 distinct openings; no adjacent repeats; AI clearly labeled; dated source credits,P0,Editor + QA,Passed 2026-11-04,docs/IMAGE_VARIETY_REVIEW.md

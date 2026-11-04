@@ -1,0 +1,63 @@
+{
+  "scene_id": "PRO_S02",
+  "voice": "Thiện Minh",
+  "duration": 36.2165,
+  "segments": [
+    {
+      "text": "Một câu trả lời khó.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "title",
+      "start": 0.0,
+      "end": 1.3196
+    },
+    {
+      "text": "Người mẹ không vội giải thích bằng một định nghĩa.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 1.8866,
+      "end": 4.1959
+    },
+    {
+      "text": "Bà hiểu rằng đứa trẻ đã sinh ra trong thời bình và chưa từng sống giữa những biến động mà các thế hệ trước trải qua.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 4.4433,
+      "end": 10.4639
+    },
+    {
+      "text": "Nhưng bà cũng không thể kể như thể mình có mặt ở tất cả những nơi ấy.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 10.7113,
+      "end": 14.5052
+    },
+    {
+      "text": "Những câu chuyện sắp tới là những lát cắt được tái dựng, dựa trên các tài liệu lịch sử, để người xem hiểu bối cảnh và suy nghĩ về các lựa chọn của con người trong từng thời kỳ.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 14.7526,
+      "end": 23.9072
+    },
+    {
+      "text": "Mẹ không sống vào những năm ấy. Nhưng mình có thể cùng nghe những câu chuyện được ghi lại. Rồi con thử tự tìm câu trả lời nhé.",
+      "speaker": "MẸ",
+      "kind": "dialogue",
+      "start": 24.1546,
+      "end": 30.2577
+    },
+    {
+      "text": "Bắt đầu từ đâu ạ?",
+      "speaker": "CON",
+      "kind": "dialogue",
+      "start": 30.6495,
+      "end": 31.9691
+    },
+    {
+      "text": "Từ lúc người ta còn đang tìm đường để đất nước tự quyết định tương lai.",
+      "speaker": "MẸ",
+      "kind": "dialogue",
+      "start": 32.3608,
+      "end": 35.8247
+    }
+  ]
+}

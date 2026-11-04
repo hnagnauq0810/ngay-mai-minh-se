@@ -1,0 +1,56 @@
+{
+  "scene_id": "C08_S04",
+  "voice": "Thiện Minh",
+  "duration": 39.2887,
+  "segments": [
+    {
+      "text": "Ba chặng của mùa Xuân.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "title",
+      "start": 0.0,
+      "end": 1.4021
+    },
+    {
+      "text": "Sau những chuyển biến chiến lược đầu năm 1975, Bộ Chính trị quyết định tận dụng thời cơ để giải phóng miền Nam trong năm.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 1.9691,
+      "end": 9.2268
+    },
+    {
+      "text": "Tổng tiến công và nổi dậy mùa Xuân 1975 diễn ra qua các chiến dịch lớn ở Tây Nguyên, Huế – Đà Nẵng và chiến dịch Hồ Chí Minh.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 9.4742,
+      "end": 17.8866
+    },
+    {
+      "text": "Ngày 30/4/1975 đánh dấu thắng lợi, giải phóng hoàn toàn miền Nam và kết thúc chiến tranh.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 18.134,
+      "end": 24.4021
+    },
+    {
+      "text": "Trong câu chuyện, hai khung hình từ từ ghép lại, nhưng không kể một cuộc đoàn tụ hư cấu như một sự kiện phổ quát của mọi gia đình.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 24.6495,
+      "end": 31.5773
+    },
+    {
+      "text": "Vậy hai nửa đã thành một?",
+      "speaker": "CON",
+      "kind": "dialogue",
+      "start": 31.8247,
+      "end": 33.3918
+    },
+    {
+      "text": "Đất nước bước sang thời kỳ thống nhất. Còn mỗi gia đình vẫn có một hành trình riêng để hàn gắn.",
+      "speaker": "MẸ",
+      "kind": "dialogue",
+      "start": 33.7835,
+      "end": 38.8969
+    }
+  ]
+}

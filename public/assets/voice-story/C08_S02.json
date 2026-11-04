@@ -1,0 +1,49 @@
+{
+  "scene_id": "C08_S02",
+  "voice": "Thiện Minh",
+  "duration": 36.6495,
+  "segments": [
+    {
+      "text": "Một bước ngoặt nhiều hệ quả.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "title",
+      "start": 0.0,
+      "end": 1.4845
+    },
+    {
+      "text": "Cuộc Tổng tiến công và nổi dậy Tết Mậu Thân 1968 là một bước ngoặt quan trọng, có tác động sâu sắc về chính trị và chiến lược, đồng thời gây tổn thất lớn và có những mục tiêu quân sự không đạt như dự kiến.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 2.0515,
+      "end": 14.0928
+    },
+    {
+      "text": "Hoa Kỳ thay đổi cách tiếp cận chiến tranh, hạn chế rồi chấm dứt ném bom miền Bắc trong năm 1968 và tham gia đàm phán tại Paris.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 14.3402,
+      "end": 22.7526
+    },
+    {
+      "text": "Đây là giai đoạn cần được kể đa chiều theo từng loại kết quả, không gộp tất cả thành một “chiến thắng tuyệt đối” ở mọi phương diện.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 23.0,
+      "end": 29.433
+    },
+    {
+      "text": "Một sự kiện có thể vừa tạo bước ngoặt vừa để lại nhiều mất mát sao?",
+      "speaker": "CON",
+      "kind": "dialogue",
+      "start": 29.6804,
+      "end": 33.2268
+    },
+    {
+      "text": "Đúng. Lịch sử nghiêm túc phải nói được cả hai điều.",
+      "speaker": "MẸ",
+      "kind": "dialogue",
+      "start": 33.6186,
+      "end": 36.2577
+    }
+  ]
+}

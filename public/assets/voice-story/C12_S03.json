@@ -1,0 +1,56 @@
+{
+  "scene_id": "C12_S03",
+  "voice": "Thiện Minh",
+  "duration": 49.8557,
+  "segments": [
+    {
+      "text": "Năm 2026 và những mục tiêu phía trước.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "title",
+      "start": 0.0,
+      "end": 3.2165
+    },
+    {
+      "text": "Từ ngày 19 đến 23/1/2026, Đại hội XIV của Đảng diễn ra tại Hà Nội.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 3.7835,
+      "end": 9.8866
+    },
+    {
+      "text": "Nghị quyết Đại hội đề ra những định hướng phát triển giai đoạn 2026–2030, nhấn mạnh khoa học, công nghệ, đổi mới sáng tạo, chuyển đổi số, phát triển nhanh và bền vững cùng yêu cầu nâng cao đời sống nhân dân.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 10.134,
+      "end": 23.3402
+    },
+    {
+      "text": "Mục tiêu đến năm 2030 là trở thành nước đang phát triển có công nghiệp hiện đại, thu nhập trung bình cao; tầm nhìn đến năm 2045 là nước phát triển, thu nhập cao.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 23.5876,
+      "end": 33.6495
+    },
+    {
+      "text": "Đây là mục tiêu đặt ra cho tương lai, không phải thành tựu được mặc định đã đạt trong năm 2026.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 33.8969,
+      "end": 39.8351
+    },
+    {
+      "text": "Vậy 2030, 2045 chưa phải câu chuyện đã xong?",
+      "speaker": "CON",
+      "kind": "dialogue",
+      "start": 40.0825,
+      "end": 44.5361
+    },
+    {
+      "text": "Đúng. Đó là những đích hướng tới, còn kết quả phụ thuộc vào việc làm thật của nhiều người.",
+      "speaker": "MẸ",
+      "kind": "dialogue",
+      "start": 44.9278,
+      "end": 49.4639
+    }
+  ]
+}

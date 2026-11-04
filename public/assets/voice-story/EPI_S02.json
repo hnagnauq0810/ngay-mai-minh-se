@@ -1,0 +1,56 @@
+{
+  "scene_id": "EPI_S02",
+  "voice": "Thiện Minh",
+  "duration": 29.0412,
+  "segments": [
+    {
+      "text": "Lời hứa không bắt buộc.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "title",
+      "start": 0.0,
+      "end": 1.2371
+    },
+    {
+      "text": "Nếu ngày mai thật sự là một cơ hội, bạn muốn làm điều gì với nó?",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 1.8041,
+      "end": 5.3505
+    },
+    {
+      "text": "Có thể là học nghiêm túc hơn, hiểu lịch sử gia đình, quan tâm tới người khác, làm tốt công việc của mình hay đơn giản bắt đầu từ một việc nhỏ.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 5.7423,
+      "end": 13.0
+    },
+    {
+      "text": "Tác phẩm không đòi bạn đưa ra lời hứa lớn lao.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 13.2474,
+      "end": 15.8866
+    },
+    {
+      "text": "Nó chỉ mời bạn nhận ra rằng quá khứ và hiện tại không tách rời: hiểu những điều đã xảy ra giúp chúng ta lựa chọn tỉnh táo hơn ở hôm nay.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 16.134,
+      "end": 23.4742
+    },
+    {
+      "text": "Ngày mai con muốn hỏi bà thêm về ngày xưa.",
+      "speaker": "CON",
+      "kind": "dialogue",
+      "start": 23.7216,
+      "end": 26.1134
+    },
+    {
+      "text": "Mẹ nghĩ đó là một cách bắt đầu rất đẹp.",
+      "speaker": "MẸ",
+      "kind": "dialogue",
+      "start": 26.5052,
+      "end": 28.6495
+    }
+  ]
+}

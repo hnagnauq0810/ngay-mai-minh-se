@@ -1,0 +1,49 @@
+{
+  "scene_id": "C03_S04",
+  "voice": "Thiện Minh",
+  "duration": 23.4742,
+  "segments": [
+    {
+      "text": "Trước cơn bão mới.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "title",
+      "start": 0.0,
+      "end": 1.1546
+    },
+    {
+      "text": "Những kinh nghiệm được tích lũy từ phong trào dân chủ trở nên quan trọng khi hoàn cảnh thế giới chuyển biến nhanh chóng.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 1.7216,
+      "end": 7.3299
+    },
+    {
+      "text": "Tháng 9/1939, Chiến tranh thế giới thứ hai bùng nổ.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 7.5773,
+      "end": 11.5361
+    },
+    {
+      "text": "Các điều kiện hoạt động thay đổi một lần nữa.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 11.7835,
+      "end": 14.0103
+    },
+    {
+      "text": "Việt Nam bước vào một giai đoạn mà nhiệm vụ giải phóng dân tộc sẽ được đặt lên hàng đầu.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 14.2577,
+      "end": 19.0412
+    },
+    {
+      "text": "Có những trang báo ta phải khép lại để đọc một thời khắc khác đang mở ra.",
+      "speaker": "MẸ",
+      "kind": "dialogue",
+      "start": 19.2887,
+      "end": 23.0825
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "scene_id": "C01_S01",
+  "voice": "Thiện Minh",
+  "duration": 35.3918,
+  "segments": [
+    {
+      "text": "Buổi sáng không ai giống ai.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "title",
+      "start": 0.0,
+      "end": 1.567
+    },
+    {
+      "text": "Hãy tưởng tượng bạn thức dậy vào một buổi sáng ở Việt Nam đầu thế kỷ XX.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 2.134,
+      "end": 6.0103
+    },
+    {
+      "text": "Công việc, chỗ ở, cơ hội học hành của mỗi người rất khác nhau.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 6.2577,
+      "end": 9.7216
+    },
+    {
+      "text": "Nhưng có một câu hỏi đang đặt ra cho nhiều người yêu nước: đất nước sẽ đi về đâu?",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 9.9691,
+      "end": 14.2577
+    },
+    {
+      "text": "Đã có những phong trào chống lại ách thống trị thuộc địa, đã có những con người tìm kiếm con đường cứu nước; song những nỗ lực ấy chưa đưa đến một lời giải chung có khả năng tập hợp và lãnh đạo phong trào trên cả nước.",
+      "speaker": "NGƯỜI DẪN",
+      "kind": "narration",
+      "start": 14.6495,
+      "end": 26.3608
+    },
+    {
+      "text": "Lúc ấy, ai cũng biết phải làm gì để thay đổi sao mẹ?",
+      "speaker": "CON (2026)",
+      "kind": "dialogue",
+      "start": 26.6082,
+      "end": 29.5773
+    },
+    {
+      "text": "Không. Điều khó nhất không chỉ là muốn thay đổi, mà là tìm được con đường và lực lượng để thực hiện.",
+      "speaker": "MẸ",
+      "kind": "dialogue",
+      "start": 29.9691,
+      "end": 35.0
+    }
+  ]
+}
